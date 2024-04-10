@@ -1,0 +1,74 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1140328"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/828691"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1053705"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1095631"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/P-0417.tif"
+  },
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    },
+    "Eastman, Jervie Henry"
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1942"
+  },
+  "schema:description": "Swimming pool with bathhouse and another structure in background and several swimmers in pool. 455 inscribed on envelope.",
+  "schema:identifier": [
+    "ark:/13030/tf258002s8",
+    "P-0417"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Lassen Volcanic National Park (Calif.)",
+    "Swimming",
+    "Sports & recreation facilities",
+    "National parks & reserves",
+    "Parks",
+    "People",
+    "Bathhouses",
+    "Resorts",
+    "Swimming pools"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Swimming at Drakesbad, Calif",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ]
+}

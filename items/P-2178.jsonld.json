@@ -1,0 +1,60 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1176568"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1050567"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/P-2178.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:description": "Photograph of a photograph of woman wearing mantilla over her hair. Original photograph of painting by Frasher. Caption reads \"Lola Montez moved to Grass Valley in 1852. Remembered as a great entertainer of the miners in the early days of California. The Command Portrait, Painted at the order of King Ludwig I of Bavaria, Munich, 1847.\"",
+  "schema:identifier": [
+    "P-2178",
+    "ark:/13030/tf409nb27m"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "People",
+    "Women",
+    "Paintings",
+    "Clothing & dress"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Lola Montez Painting",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:temporal": "Undated"
+}

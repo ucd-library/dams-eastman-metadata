@@ -1,0 +1,70 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1071809"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1015978"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/813666"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/899978"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1161356"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/962245"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/G-229.tif"
+  },
+  "schema:creator": "Riesen, John D",
+  "schema:description": "First image is two-story house with vine-covered porch in front and water tank in back. Second image is group of men in baseball uniforms standing in front of viewing stands filled with people. Lower right corner of second image reads \"Riesen Photo.\" Two images (4.25 x 6.5 in.) side by side. Numbers on negative are 236 and 237. This image found on page 14 in publication entitled Modoc County California Anno Domini 1912.",
+  "schema:identifier": [
+    "ark:/13030/tf1c6002f3",
+    "G-229"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Uniforms",
+    "People",
+    "Men",
+    "Rooms & spaces",
+    "Houses",
+    "Water tanks",
+    "Porches"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
+  "schema:name": "Williams house; Alturas-Tigers-Alturas-Cal. (Base Ball nine = Alturas Tigers.-)",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ],
+  "schema:temporal": "Undated"
+}

@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/961767"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1121641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1118336"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/925697"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1015978"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/C-760.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1947"
+  },
+  "schema:description": "Men standing in street in foreground with fire truck and fire fighters in front of burning buildings in background.",
+  "schema:identifier": [
+    "ark:/13030/tf5j49n9s3",
+    "C-760"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Hotels",
+    "Men",
+    "Fires",
+    "Fire fighters",
+    "Fire engines & equipment",
+    "People",
+    "Stores & shops",
+    "Signs",
+    "Smoke"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Paul Bunyan Lbr. Co, helping Mt. Lassen Hotel Lewis Store fire",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ]
+}

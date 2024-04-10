@@ -1,0 +1,63 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/936488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/976313"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/961767"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D-2037a.tif"
+  },
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    },
+    "Eastman, Jervie Henry"
+  ],
+  "schema:description": "Large room with set chairs and tables around edges and menu for \"Sunday Dinner\" displayed on easel in center. Since this negative was in envelope with negative numbered D-2037 and is similar in content, it was assigned number D-2037a.",
+  "schema:identifier": [
+    "ark:/13030/tf3b69n8w7",
+    "D-2037a"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Dining rooms",
+    "Furniture",
+    "Hotels",
+    "Interiors"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 8 x 10 in.",
+  "schema:name": "St. Francis Dining Room",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ],
+  "schema:temporal": "Undated"
+}

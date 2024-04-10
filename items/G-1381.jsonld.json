@@ -1,0 +1,54 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1739378"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1107958"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/G-1381.tif"
+  },
+  "schema:creator": "Riesen, John D",
+  "schema:description": "Two-story building with four columns in front of entrance and flagpole on roof. Lower right corner reads \"Riesen-Photo.\"",
+  "schema:identifier": [
+    "G-1381",
+    "ark:/13030/tf3t1nb18k"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Schools",
+    "Educational facilities",
+    "Flagpoles"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
+  "schema:name": "Modoc-County-High-School Alturas-Calif",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:temporal": "Undated"
+}

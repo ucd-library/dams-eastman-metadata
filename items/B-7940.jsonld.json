@@ -1,0 +1,72 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/835176"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1028366"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/837070"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1147746"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/B-7940.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1952"
+  },
+  "schema:description": "Lake in foreground with boats, tents, buildings and forest on shore in middle ground and mountains in background.",
+  "schema:identifier": [
+    "B-7940",
+    "ark:/13030/tf8w1008cd"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Boats",
+    "Shelters",
+    "Mountains",
+    "Lakes & ponds",
+    "Boulders",
+    "Tents",
+    "Forests"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Lakeshore Resort, Bucks Lake, Calif",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ]
+}

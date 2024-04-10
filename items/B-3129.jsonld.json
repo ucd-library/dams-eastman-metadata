@@ -1,0 +1,66 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/961166"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1117866"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1065823"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/B-3129.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1945"
+  },
+  "schema:description": "Bushes in foreground with building complex in background.",
+  "schema:identifier": [
+    "ark:/13030/tf7z09p08p",
+    "B-3129"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Hospitals",
+    "Shrubs",
+    "Health care facilities",
+    "Plants"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Placer County Hospital, Auburn, Calif",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1015978"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1120169"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/823232"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1176568"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1130432"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1121907"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/B-1614.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1941"
+  },
+  "schema:description": "Close-up of two women on top of automobile hood looking up at man ski jumping overhead from snowbank on one side of road to the other. \"Dick Brown jumping over road Lassen Park\" written on Eastman's Studio receipt. Original envelope and negative enclosed in gray envelope. Red F written on top edge of original envelope. Invoice for customer in Mineral, California, and transparency included.",
+  "schema:identifier": [
+    "B-1614",
+    "ark:/13030/tf2h4nb037"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Ski jumping",
+    "Skiing",
+    "Snow",
+    "Sports",
+    "Men",
+    "People",
+    "Women",
+    "Automobiles"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "2 photographic negatives : b&w : 5 x 7 in.",
+  "schema:name": "Up and Over",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

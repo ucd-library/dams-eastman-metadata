@@ -1,0 +1,80 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/960603"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/951903"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/809468"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1155984"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1015978"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/922872"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/T-1659a.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1946"
+  },
+  "schema:description": "Two men on horseback in foreground with fence and trees in background. Since this negative was in envelope with negative numbered T-1659 and is similar in content, it was assigned number T-1659a.",
+  "schema:identifier": [
+    "T-1659a",
+    "ark:/13030/tf9h4nb5s5"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Hats",
+    "Clothing & dress",
+    "Animals",
+    "Horseback riding",
+    "Trees",
+    "People",
+    "Horses",
+    "Men",
+    "Fences"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Hauskins Ranch",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

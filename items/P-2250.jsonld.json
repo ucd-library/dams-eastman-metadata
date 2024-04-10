@@ -1,0 +1,58 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1155984"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/932632"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0990901"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1092499"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/P-2250.tif"
+  },
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1938"
+  },
+  "schema:description": "Two trees on shore in foreground with lake in middle ground and forest in background. 11 of 13 negatives.",
+  "schema:identifier": [
+    "ark:/87293/d3nd74",
+    "P-2250"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Lakes & ponds",
+    "Trees",
+    "Forests",
+    "Reflections"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 3 x 4 in.",
+  "schema:name": "Shasta-Cascade Wonderland",
+  "schema:publisher": "University of California, Davis. General Library. Dept. of Special Collections"
+}

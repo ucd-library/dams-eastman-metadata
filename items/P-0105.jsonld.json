@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/922872"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1134794"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/823232"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1155984"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/P-0105.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:description": "Tree-lined unpaved street with commercial buildings, automobiles, and people. No. 103 inscribed on negative and 200 on envelope.",
+  "schema:identifier": [
+    "ark:/13030/tf558005m2",
+    "P-0105"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "People",
+    "Fences",
+    "Streets",
+    "Stores & shops",
+    "Trees",
+    "Automobiles"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Fort Bidwell, Cal. Main-St",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ],
+  "schema:temporal": "Undated"
+}

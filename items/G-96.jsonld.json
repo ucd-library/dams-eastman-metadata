@@ -1,0 +1,63 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/990650"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/803053"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1015978"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/G-96.tif"
+  },
+  "schema:creator": "Riesen, John D",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1912"
+  },
+  "schema:description": "Biplane in field with group of people standing in front of it and a man on a ladder at end of wing. Lower right corner reads \"Riesen.\"",
+  "schema:identifier": [
+    "ark:/13030/tf9h4nb4nm",
+    "G-96"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Men",
+    "Clothing & dress",
+    "Airplanes",
+    "People",
+    "Aircraft",
+    "Ladders"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 glass photonegative : b&w : 4 x 6.5 in.",
+  "schema:name": "W. B. Cook-at-Alturas, Cal. 4-July-Celebration-1912",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ]
+}

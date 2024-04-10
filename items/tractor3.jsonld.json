@@ -1,0 +1,54 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1134043"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1015978"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1153685"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1132354"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/tractor3.tif"
+  },
+  "schema:description": "Photograph of a photograph of Best steam traction engine no. 250 in front of J. F. Bedford Co. General Merchandise store. Traction engine is pulling plaform loaded with sacks. Eight men are posing with the traction engine and platform and two men are standing in background.",
+  "schema:identifier": [
+    "ark:/87293/d39389",
+    "Tractor3"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Steam engines",
+    "Traction-engines",
+    "Men",
+    "Stores & shops"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Best Traction Engine in Front of Store",
+  "schema:publisher": "University of California, Davis. General Library. Dept. of Special Collections",
+  "schema:temporal": "undated"
+}

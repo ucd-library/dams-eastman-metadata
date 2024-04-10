@@ -1,0 +1,76 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1053705"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1092499"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1028366"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1168844"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1155984"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/T-556.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1938"
+  },
+  "schema:description": "Trees in foreground overlooking lake with Cinder Cone reflected in water in background.",
+  "schema:identifier": [
+    "T-556",
+    "ark:/13030/tf6x0nb2xg"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Reflections",
+    "Lassen Volcanic National Park (Calif.)",
+    "Parks",
+    "Lakes & ponds",
+    "Volcanoes",
+    "National parks & reserves",
+    "Mountains",
+    "Trees"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Cinder Cone and Butte Lake, Lassen National Park, Calif",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

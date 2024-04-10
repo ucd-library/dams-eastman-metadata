@@ -1,0 +1,64 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1015978"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/951903"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/982535"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/G-311.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:description": "First image is upper torso of man in shirt, tie, sweater, and hat. Second image is man in pants, chaps, sweater, hat, and gloves. Two images (3.5 x 5 in.) side by side. Numbers on negative are 221 and 224.",
+  "schema:identifier": [
+    "G-311",
+    "ark:/13030/tf729006fx"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "People",
+    "Men",
+    "Hats",
+    "Jewelry",
+    "Clothing & dress"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 glass photonegative : b&w : 5 x 7 in.",
+  "schema:name": "[Untitled]",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:temporal": "Undated"
+}

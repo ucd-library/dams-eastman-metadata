@@ -1,0 +1,67 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/823232"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1095631"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1155984"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/B-1187a.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1940"
+  },
+  "schema:description": "Half-timbered building with sign on front reading \"Information Fishing Hunting Store Cabins Gas Milk,\" people on porch, automobiles parked nearby, road in foreground, and trees in background. Another image of this same building is identified as \"Child's Resort.\" Since this negative was in envelope with negative numbered B-1187 and is similar in content, it was assigned number B-1187a.",
+  "schema:identifier": [
+    "ark:/13030/tf509nb1d1",
+    "B-1187a"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Half-timbered buildings",
+    "People",
+    "Resorts",
+    "Trees",
+    "Automobiles"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "\"Haskin's Resort,\" Bucks Lake, Calif",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ]
+}

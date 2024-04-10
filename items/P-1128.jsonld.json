@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/828203"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/820027"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1161356"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1015978"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1130432"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/P-1128.tif"
+  },
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    },
+    "Eastman, Jervie Henry"
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1932"
+  },
+  "schema:description": "Ten young men in basketball uniforms and man in suit posed in foreground with forest in background. 2 of 6 negatives.",
+  "schema:identifier": [
+    "ark:/13030/tf6t1nb3ws",
+    "P-1128"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Men",
+    "Uniforms",
+    "Clothing & dress",
+    "Forests",
+    "Sports",
+    "Basketball",
+    "Athletes",
+    "Basketball players",
+    "People"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Basket Ball Portola, 1932",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

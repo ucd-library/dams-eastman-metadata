@@ -1,0 +1,73 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1163505"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1001885"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1121907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1155984"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1095631"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/B-716.tif"
+  },
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    },
+    "Eastman, Jervie Henry"
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1938"
+  },
+  "schema:description": "Barely visible cabin with snow-covered roof in the forest.",
+  "schema:identifier": [
+    "B-716",
+    "ark:/13030/tf0n39n5c2"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Forests",
+    "Cabins",
+    "Trees",
+    "Snow",
+    "Resorts"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 3 1/2 x 5 1/2 in.",
+  "schema:name": "Winter at Mill Creek Homesite",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

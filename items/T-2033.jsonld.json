@@ -1,0 +1,80 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/991176"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/976313"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/936488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175789"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/891368"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1015978"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/T-2033.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1947"
+  },
+  "schema:description": "Man sitting behind large wooden desk with window and cabinet behind him. 1 of 2 negatives.",
+  "schema:identifier": [
+    "T-2033",
+    "ark:/13030/tf909nb5qv"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Furniture",
+    "Windows",
+    "Interiors",
+    "People",
+    "Men",
+    "Desks",
+    "Rooms & spaces",
+    "Lamps",
+    "Light fixtures"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 3 x 4 in.",
+  "schema:name": "Mr. Schroter, Secretary, Old Shasta Lodge",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

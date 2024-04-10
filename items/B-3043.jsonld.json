@@ -1,0 +1,72 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/960603"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1129051"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1134794"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/809468"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/B-3043.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1945"
+  },
+  "schema:description": "Street with commercial buildings, teams of horses hitched to wagons with their drivers, and many spectators. Original envelope and negative enclosed in gray envelope.",
+  "schema:identifier": [
+    "B-3043",
+    "ark:/13030/tf3t1nb1rt"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Horses",
+    "Stores & shops",
+    "People",
+    "Animals",
+    "Spectators",
+    "Carts & wagons",
+    "Streets"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Freighting on Main Street, Susanville, California",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ]
+}

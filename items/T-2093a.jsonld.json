@@ -1,0 +1,65 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/976313"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1015978"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1004959"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/T-2093a.tif"
+  },
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    },
+    "Eastman, Jervie Henry"
+  ],
+  "schema:description": "Press room with two men at keyboards. T-2093 to T-2100 written on envelope. Since another negative has also been assigned number T2093, this negative has been assigned number T-2093a.",
+  "schema:identifier": [
+    "T-2093a",
+    "ark:/13030/tf3c6003h7"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Machinery",
+    "Men",
+    "Rooms & spaces",
+    "Newspaper industry",
+    "People",
+    "Interiors"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Advocate Group",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:temporal": "Undated"
+}

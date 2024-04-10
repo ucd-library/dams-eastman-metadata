@@ -1,0 +1,76 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1118336"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/960603"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/809468"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1134794"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1157775"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/823232"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/P-0188.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:description": "Unpaved street with horses hitched to wagon near sign reading \"35 minutes to Menlo,\" truck, automobiles, and commercial buildings. No. 205 inscribed on negative and on envelope.",
+  "schema:identifier": [
+    "ark:/13030/tf5p3006k9",
+    "P-0188"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Streets",
+    "Trucks",
+    "Automobiles",
+    "Stores & shops",
+    "Signs",
+    "Animals",
+    "Carts & wagons",
+    "Horses"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Main St. Cedarville, Cal",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:temporal": "Undated"
+}

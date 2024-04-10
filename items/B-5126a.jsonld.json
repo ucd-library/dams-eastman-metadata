@@ -1,0 +1,71 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1056656"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/809468"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/832970"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1028366"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/B-5126a.tif"
+  },
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    },
+    "Eastman, Jervie Henry"
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1947"
+  },
+  "schema:description": "Birds on lake and in flight over lake with rock formations and mountains in background. Since this negative was in envelope numbered B-5126 and is similar in content, it was assigned number B-5126a.",
+  "schema:identifier": [
+    "B-5126a",
+    "ark:/13030/tf238n99qt"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Pelicans",
+    "Mountains",
+    "Birds",
+    "Animals",
+    "Rock formations",
+    "Lakes & ponds"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Pelicans on Pyramid Lake, Nev",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1015978"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1097825"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1163505"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/824464"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/925573"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1001885"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/G-989.tif"
+  },
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    },
+    "Eastman, Jervie Henry"
+  ],
+  "schema:description": "Run-down cabin with man and dog in front, rifles on porch, animal skins tacked to walls, and ax stuck in log in foreground.",
+  "schema:identifier": [
+    "ark:/13030/tf1j49n5vz",
+    "G-989"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Hides & skins",
+    "Cabins",
+    "Firearms",
+    "Arms & armament",
+    "People",
+    "Axes",
+    "Rifles",
+    "Men"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 glass photonegative : b&w : 5 x 8 in.",
+  "schema:name": "[Untitled]",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:temporal": "Undated"
+}

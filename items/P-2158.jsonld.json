@@ -1,0 +1,74 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1117849"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/864856"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1028366"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/922872"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/884187"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/P-2158.tif"
+  },
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    },
+    "Eastman, Jervie Henry"
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1962"
+  },
+  "schema:description": "Brick shrine to left with wooden cross to right, open land in middle ground, and mountains in background.",
+  "schema:identifier": [
+    "ark:/13030/tf5s2006hx",
+    "P-2158"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Religious facilities",
+    "Clouds",
+    "Shrines",
+    "Crosses",
+    "Fences",
+    "Mountains"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic transparency : color : 4 x 5 in.",
+  "schema:name": "\"The Little Shrine\" Site of First Catholic Mass in Colusa County, May 1856",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

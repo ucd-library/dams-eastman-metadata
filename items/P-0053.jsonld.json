@@ -1,0 +1,70 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1121907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1163505"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1092499"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1155984"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1001885"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/P-0053.tif"
+  },
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    },
+    "Eastman, Jervie Henry"
+  ],
+  "schema:description": "Snowdrifts and trees reflected in water in foreground with cabin and forest in background. 34 inscribed on envelope.",
+  "schema:identifier": [
+    "ark:/13030/tf4199n83p",
+    "P-0053"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Snow",
+    "Reflections",
+    "Cabins",
+    "Forests",
+    "Trees"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Near Westwood Cal",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ],
+  "schema:temporal": "Undated"
+}

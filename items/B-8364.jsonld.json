@@ -1,0 +1,85 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1118160"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1739378"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/823232"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1006105"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1134794"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/926942"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1118336"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/B-8364.tif"
+  },
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    },
+    "Eastman, Jervie Henry"
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1954"
+  },
+  "schema:description": "Street in foreground with automobiles parked at curb and buildings in background. Lettering above entrance to building on corner reads \"United States Post Office Roseville California.\" Lettering above entrance to next building reads \"City Hall.\" Negative in poor condition.",
+  "schema:identifier": [
+    "ark:/13030/tf1p3003t7",
+    "B-8364"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "City & town halls",
+    "Automobiles",
+    "Streets",
+    "Mailboxes",
+    "Flagpoles",
+    "Government facilities",
+    "Post offices",
+    "Signs",
+    "Sidewalks",
+    "Traffic signs & signals",
+    "Flags"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Postoffice and City Hall at Roseville, Calif",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ]
+}

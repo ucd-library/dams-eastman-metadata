@@ -1,0 +1,73 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/823232"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1121907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1157775"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1053705"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/B-5871.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1948"
+  },
+  "schema:description": "Headquarters building with snow-covered roof, truck, and automobiles parked in open space, other buildings on either side, and forest in background.",
+  "schema:identifier": [
+    "ark:/13030/tf7m3nb3h3",
+    "B-5871"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Trucks",
+    "Parks",
+    "Snow",
+    "National parks & reserves",
+    "Forests",
+    "Government facilities",
+    "Crater Lake National Park (Oreg.)",
+    "Automobiles"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Crater Lake Park Headquarters, Oregon",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ]
+}

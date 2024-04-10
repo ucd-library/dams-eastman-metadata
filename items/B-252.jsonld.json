@@ -1,0 +1,64 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/961767"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/991156"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1134794"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/B-252.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:description": "Multistory building with automobiles parked at curb and forest in background. Lower right corner reads \"J.H. Eastman.\"",
+  "schema:identifier": [
+    "ark:/13030/tf1000025w",
+    "B-252"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Forests",
+    "Lampposts",
+    "Street lights",
+    "Streets",
+    "Hotels"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "2 photographic negatives : b&w : one 5 x 7 in. and one 2 1/2 x 3 in.",
+  "schema:name": "\"Hotel Quincy\" - Quincy, Calif",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ],
+  "schema:temporal": "Undated"
+}

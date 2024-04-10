@@ -1,0 +1,70 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/832970"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/961767"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1118336"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1015978"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/809468"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/899294"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/G-1156.tif"
+  },
+  "schema:creator": "Riesen, John D",
+  "schema:description": "Group of men holding dead ducks standing in front of multistory brick building with sign on front reading \"Hotel Niles.\" Lower right corner reads \"Riesen Photo\".",
+  "schema:identifier": [
+    "G-1156",
+    "ark:/13030/tf3d5nb0dj"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "People",
+    "Signs",
+    "Ducks",
+    "Hotels",
+    "Animals",
+    "Men",
+    "Birds"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
+  "schema:name": "Annual-Duck-Hunt-Of-The-Alturas-Cal-Gun-Club",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ],
+  "schema:temporal": "Undated"
+}

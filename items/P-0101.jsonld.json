@@ -1,0 +1,58 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/1176568"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/media/P-0101.tif"
+  },
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    },
+    "Eastman, Jervie Henry"
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1937"
+  },
+  "schema:description": "Native American woman sitting on steps of building dressed in coat and kerchief with sack on back and holding stick. Three of the negatives, including the small one, are copy negatives of the postcard and were in gray envelope. \"Old Lucy, over 125 yrs. old\" and 105 inscribed on copy negatives. #105 inscribed on envelope.",
+  "schema:identifier": [
+    "ark:/13030/tf3p30047j",
+    "P-0101"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Clothing & dress",
+    "Indians of North America",
+    "Women",
+    "People"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "4 photographic negatives : b&w : three 5 x 7 in. and one 2 1/2 x 3 1/2 in.",
+  "schema:name": "Old Lucy",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ]
+}

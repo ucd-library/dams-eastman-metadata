@@ -1,0 +1,71 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/809468"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/960603"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/909111"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1153726"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1015978"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/G-1538.tif"
+  },
+  "schema:creator": "Riesen, John D",
+  "schema:description": "Several men on and near steam traction engine, harvester, and wagons hitched to horses. Lower right corner reads \"Riesen Photo\".",
+  "schema:identifier": [
+    "G-1538",
+    "ark:/13030/tf0r29n585"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "People",
+    "Tractors",
+    "Agricultural machinery & implements",
+    "Laborers",
+    "Traction-engines",
+    "Men",
+    "Steam engines",
+    "Harvesting machinery",
+    "Horses",
+    "Carts & wagons",
+    "Animals"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
+  "schema:name": "This-Is-The-First-Russell-Rig-In-Modoc-Co., Cal",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:temporal": "Undated"
+}

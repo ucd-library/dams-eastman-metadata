@@ -1,0 +1,73 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1015978"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/854835"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1176568"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/972103"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/982535"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/G-745.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:description": "Woman in dress and cape sitting in chair with two infants in dresses and bonnets in her lap, young boy in sailor suit standing on chair, and man in suit standing behind. Number on negative is 3034.",
+  "schema:identifier": [
+    "G-745",
+    "ark:/13030/tf4d5nb1b9"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Women",
+    "Infants",
+    "Children",
+    "Men",
+    "Jewelry",
+    "Clothing & dress",
+    "People",
+    "Children's clothing & dress"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 glass photonegative : b&w : 5 x 7 in.",
+  "schema:name": "[Untitled]",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ],
+  "schema:temporal": "Undated"
+}

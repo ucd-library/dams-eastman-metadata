@@ -1,0 +1,73 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1089760"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1028366"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1099409"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/864856"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1163841"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D-1742b.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:description": "Hills and rocks in foreground overlooking valley in middle ground with forested mountains in background. Since this negative was in envelope with negative numbered D-1742 and is similar in content, and another negative has already been assigned number D-1742a, it was assigned number D-1742b.",
+  "schema:identifier": [
+    "ark:/13030/tf9v19p2c5",
+    "D-1742b"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Clouds",
+    "Mountains",
+    "Hills",
+    "Rocks",
+    "Agricultural facilities",
+    "Ranches",
+    "Valleys",
+    "Forests"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 8 x 10 in.",
+  "schema:name": "Coffin Ranch, Susanville",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:temporal": "Undated"
+}

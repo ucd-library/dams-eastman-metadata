@@ -1,0 +1,71 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/960603"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/926942"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1015978"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/809468"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/G-1002.tif"
+  },
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    },
+    "Eastman, Jervie Henry"
+  ],
+  "schema:description": "First image is two men, one standing holding stick with American flag on it and the other sitting in chair on carpeted floor. Second image is of horses hitched to decorated wagon (possibly decorated for parade) in front of building with \"FARMERS STABLE\" painted on front and man standing behind wagon. Numbers on negative are 113 and 129.",
+  "schema:identifier": [
+    "ark:/13030/tf4z09n81j",
+    "G-1002"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Parades & processions",
+    "People",
+    "Animals",
+    "Stores & shops",
+    "Horses",
+    "Flags",
+    "Carts & wagons",
+    "Men",
+    "Clothing & dress"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
+  "schema:name": "Campbell(?); Alturas-Nursery-Co.=In-Parade",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:temporal": "Undated"
+}

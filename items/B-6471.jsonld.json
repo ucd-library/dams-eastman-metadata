@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1132151"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1109483"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/815177"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/B-6471.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:description": "Statues of General Douglas MacArthur and another man in uniform placed next to cannon dated 1853 and identified as the Cap Buhne Cannon.",
+  "schema:identifier": [
+    "B-6471",
+    "ark:/13030/tf9s20094x"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Forts & fortifications",
+    "Artillery (Weaponry)",
+    "People",
+    "Sculpture",
+    "Statues",
+    "Military facilities",
+    "Arms & armament",
+    "Cannons",
+    "Art"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "At Fort Humbolt, Eureka, Calif",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ],
+  "schema:temporal": "Undated"
+}

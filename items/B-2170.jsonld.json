@@ -1,0 +1,80 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1157775"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/854835"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1118336"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1095907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1003543"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/823232"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/B-2170.tif"
+  },
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    },
+    "Eastman, Jervie Henry"
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1944"
+  },
+  "schema:description": "Logging truck and automobiles parked by Richfield service station with boy just entering front door and large signs reading \"CASA LOMA\" and \"RICHFIELD\" on top of building. Lower right corner reads \"J.H. Eastman.\"",
+  "schema:identifier": [
+    "B-2170",
+    "ark:/13030/tf0m3n9935"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Trucks",
+    "Logs",
+    "Restaurants",
+    "Automobiles",
+    "Signs",
+    "Cafes",
+    "Automobile service stations",
+    "Children",
+    "Lumber industry"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "Casa-Loma near Dunsmuir, California. \"A good place to hunt and fish.\"",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

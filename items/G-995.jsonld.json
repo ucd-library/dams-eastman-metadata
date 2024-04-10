@@ -1,0 +1,65 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/899978"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/962245"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/813666"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1015978"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1176568"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/G-995.tif"
+  },
+  "schema:creator": "Riesen, John D",
+  "schema:description": "First and second images are of upper torso of same woman. Third image is street with houses, fences, and man standing in yard. Two images are 3 x 4 in. and third image is 4 x 6.5 in. Number on negative is 156.",
+  "schema:identifier": [
+    "G-995",
+    "ark:/13030/tf996nb4gq"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Houses",
+    "People",
+    "Men",
+    "Clothing & dress",
+    "Women"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
+  "schema:name": "[Untitled]; The-Growing-City-Alturas-Cal",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:temporal": "Undated"
+}

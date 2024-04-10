@@ -1,0 +1,72 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/991156"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1118160"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1149370"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1118336"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1134794"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/C-346c.tif"
+  },
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    },
+    "Eastman, Jervie Henry"
+  ],
+  "schema:description": "Street in foreground with theater in background. Marquee reads \"Sierra Ed and Mary Church Wish You a Merry Xmas and a Happy New Year\" Since this negative was in envelope with negative numbered C-346 and is similar in content, it was assigned number C-346c.",
+  "schema:identifier": [
+    "C-346c",
+    "ark:/13030/tf9f59p280"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Cultural facilities",
+    "Signs",
+    "Motion picture theaters",
+    "Lampposts",
+    "Streets",
+    "Theaters",
+    "Sidewalks"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
+  "schema:name": "The Sierra Theatre, Susanville",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "University of California, Davis. General Library. Dept. of Special Collections"
+  ],
+  "schema:temporal": "Undated"
+}

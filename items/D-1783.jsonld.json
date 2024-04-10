@@ -1,0 +1,85 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/976313"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/927866"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/860599"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1132151"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/936488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/806095"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/884187"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D-1783.tif"
+  },
+  "schema:creator": [
+    "Eastman, Jervie Henry",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1951"
+  },
+  "schema:description": "Interior of church with pews on both sides of center aisle and altar in background.",
+  "schema:identifier": [
+    "D-1783",
+    "ark:/13030/tf1d5nb02r"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
+  },
+  "schema:keywords": [
+    "Crosses",
+    "Religious facilities",
+    "Light fixtures",
+    "Catholic churches",
+    "Flowers",
+    "Interiors",
+    "Furniture",
+    "Altars",
+    "Statues",
+    "Rooms & spaces",
+    "Churches"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic negative : b&w : 8 x 10 in.",
+  "schema:name": "Catholic Church",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}
