@@ -29,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-2160.tif"
+    "@id": "@base:/P-2160.tif"
   },
   "schema:creator": [
     {

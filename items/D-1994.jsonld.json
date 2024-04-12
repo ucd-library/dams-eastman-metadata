@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/D-1994.tif"
+    "@id": "@base:/D-1994.tif"
   },
   "schema:creator": [
     {

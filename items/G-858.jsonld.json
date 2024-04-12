@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-858.tif"
+    "@id": "@base:/G-858.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Man standing in front of base of big tree with other trees in background. Lower edge reads \"Riesen-Photo. Alturas-Cal.\"",

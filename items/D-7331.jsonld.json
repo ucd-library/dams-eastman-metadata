@@ -38,7 +38,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/D-7331.tif"
+    "@id": "@base:/D-7331.tif"
   },
   "schema:creator": [
     {

@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-1998.tif"
+    "@id": "@base:/T-1998.tif"
   },
   "schema:creator": [
     "Eastman, Jervie Henry",

@@ -35,7 +35,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-1967.tif"
+    "@id": "@base:/P-1967.tif"
   },
   "schema:creator": [
     {

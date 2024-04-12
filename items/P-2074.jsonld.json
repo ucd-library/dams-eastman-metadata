@@ -44,7 +44,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-2074.tif"
+    "@id": "@base:/P-2074.tif"
   },
   "schema:creator": [
     {

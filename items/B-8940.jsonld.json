@@ -35,7 +35,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-8940.tif"
+    "@id": "@base:/B-8940.tif"
   },
   "schema:creator": [
     {

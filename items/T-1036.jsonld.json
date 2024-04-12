@@ -35,7 +35,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-1036.tif"
+    "@id": "@base:/T-1036.tif"
   },
   "schema:creator": [
     {

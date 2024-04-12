@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-1312.tif"
+    "@id": "@base:/B-1312.tif"
   },
   "schema:creator": "Simmons, Mirl H",
   "schema:datePublished": {

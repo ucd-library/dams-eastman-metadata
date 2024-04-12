@@ -38,7 +38,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-1265.tif"
+    "@id": "@base:/T-1265.tif"
   },
   "schema:creator": [
     {

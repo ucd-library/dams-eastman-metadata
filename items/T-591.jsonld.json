@@ -32,7 +32,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-591.tif"
+    "@id": "@base:/T-591.tif"
   },
   "schema:creator": [
     {

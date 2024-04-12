@@ -41,7 +41,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-0918.tif"
+    "@id": "@base:/P-0918.tif"
   },
   "schema:creator": [
     {

@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-427.tif"
+    "@id": "@base:/G-427.tif"
   },
   "schema:creator": [
     {

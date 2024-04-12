@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-829.tif"
+    "@id": "@base:/G-829.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Man in suit holding over-sized basketball over his head. Lower right corner reads \"Riesen Photo.\"",

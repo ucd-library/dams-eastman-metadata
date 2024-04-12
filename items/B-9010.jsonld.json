@@ -44,7 +44,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-9010.tif"
+    "@id": "@base:/B-9010.tif"
   },
   "schema:creator": [
     {

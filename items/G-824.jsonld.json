@@ -32,7 +32,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-824.tif"
+    "@id": "@base:/G-824.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Building with sign over entrance reading \"Orpheum,\" house next to it, and houses in background.",

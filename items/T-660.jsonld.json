@@ -38,7 +38,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-660.tif"
+    "@id": "@base:/T-660.tif"
   },
   "schema:creator": [
     {

@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-1060a.tif"
+    "@id": "@base:/T-1060a.tif"
   },
   "schema:creator": [
     {

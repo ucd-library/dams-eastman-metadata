@@ -29,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-1694.tif"
+    "@id": "@base:/T-1694.tif"
   },
   "schema:creator": [
     {

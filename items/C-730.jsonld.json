@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/C-730.tif"
+    "@id": "@base:/C-730.tif"
   },
   "schema:creator": [
     {

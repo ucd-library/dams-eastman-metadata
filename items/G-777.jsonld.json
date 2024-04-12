@@ -35,7 +35,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-777.tif"
+    "@id": "@base:/G-777.tif"
   },
   "schema:creator": [
     {

@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-99.tif"
+    "@id": "@base:/G-99.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Two-story building with stairs to second level on outside of building. Lower right corner reads \"R.\"",

@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-1412.tif"
+    "@id": "@base:/G-1412.tif"
   },
   "schema:creator": "Thompson, Peter Julian \"Jack",
   "schema:description": "Brick building with people in front and automobiles parked on side. Number on negative is 5. Right corner reads \"Thompson. Photo.\"",

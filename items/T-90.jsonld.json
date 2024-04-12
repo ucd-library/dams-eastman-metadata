@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-90.tif"
+    "@id": "@base:/T-90.tif"
   },
   "schema:creator": [
     {

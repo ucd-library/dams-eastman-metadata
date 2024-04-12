@@ -41,7 +41,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-9000.tif"
+    "@id": "@base:/B-9000.tif"
   },
   "schema:creator": [
     {

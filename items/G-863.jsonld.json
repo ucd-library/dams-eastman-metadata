@@ -29,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-863.tif"
+    "@id": "@base:/G-863.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Rabbit on fur. Lower right corner reads Riesen-Photo.\"",

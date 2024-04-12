@@ -32,7 +32,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-1001.tif"
+    "@id": "@base:/G-1001.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Women on horses in street with fence and trees in background. Lower right corner reads \"-Riesen-.\"",

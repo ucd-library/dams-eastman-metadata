@@ -32,7 +32,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-5590.tif"
+    "@id": "@base:/B-5590.tif"
   },
   "schema:creator": [
     {

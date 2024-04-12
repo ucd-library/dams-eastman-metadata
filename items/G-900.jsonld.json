@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-900.tif"
+    "@id": "@base:/G-900.tif"
   },
   "schema:creator": [
     {

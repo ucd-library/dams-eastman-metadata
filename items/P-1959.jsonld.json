@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-1959.tif"
+    "@id": "@base:/P-1959.tif"
   },
   "schema:creator": [
     {

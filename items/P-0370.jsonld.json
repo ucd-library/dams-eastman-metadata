@@ -38,7 +38,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-0370.tif"
+    "@id": "@base:/P-0370.tif"
   },
   "schema:creator": [
     {

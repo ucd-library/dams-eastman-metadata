@@ -41,7 +41,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-1710.tif"
+    "@id": "@base:/T-1710.tif"
   },
   "schema:creator": [
     {

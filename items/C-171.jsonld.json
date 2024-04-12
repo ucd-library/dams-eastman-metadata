@@ -35,7 +35,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/C-171.tif"
+    "@id": "@base:/C-171.tif"
   },
   "schema:creator": [
     {

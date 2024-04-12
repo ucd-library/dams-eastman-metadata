@@ -18,7 +18,7 @@
     "@id": "http://id.worldcat.org/fast/854835"
   },
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-1008.tif"
+    "@id": "@base:/G-1008.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Child in dress sitting on fur-covered table. Number on negative is 478.",

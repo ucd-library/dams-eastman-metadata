@@ -18,7 +18,7 @@
     "@id": "http://id.worldcat.org/fast/803726"
   },
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-4694.tif"
+    "@id": "@base:/B-4694.tif"
   },
   "schema:creator": [
     {

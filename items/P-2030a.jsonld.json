@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-2030a.tif"
+    "@id": "@base:/P-2030a.tif"
   },
   "schema:creator": [
     {

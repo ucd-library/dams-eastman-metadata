@@ -41,7 +41,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-999.tif"
+    "@id": "@base:/G-999.tif"
   },
   "schema:creator": [
     {

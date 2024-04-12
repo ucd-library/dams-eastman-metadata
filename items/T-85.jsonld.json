@@ -35,7 +35,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-85.tif"
+    "@id": "@base:/T-85.tif"
   },
   "schema:creator": [
     {

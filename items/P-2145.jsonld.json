@@ -35,7 +35,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-2145.tif"
+    "@id": "@base:/P-2145.tif"
   },
   "schema:creator": [
     {

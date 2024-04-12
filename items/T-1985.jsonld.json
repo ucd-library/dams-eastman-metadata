@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-1985.tif"
+    "@id": "@base:/T-1985.tif"
   },
   "schema:creator": [
     {

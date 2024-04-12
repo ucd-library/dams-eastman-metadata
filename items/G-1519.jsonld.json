@@ -35,7 +35,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-1519.tif"
+    "@id": "@base:/G-1519.tif"
   },
   "schema:creator": [
     {

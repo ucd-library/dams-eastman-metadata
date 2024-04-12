@@ -41,7 +41,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-2132.tif"
+    "@id": "@base:/B-2132.tif"
   },
   "schema:creator": [
     {

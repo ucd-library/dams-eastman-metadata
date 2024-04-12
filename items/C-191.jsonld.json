@@ -41,7 +41,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/C-191.tif"
+    "@id": "@base:/C-191.tif"
   },
   "schema:creator": [
     {

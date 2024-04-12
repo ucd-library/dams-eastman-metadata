@@ -41,7 +41,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-1281.tif"
+    "@id": "@base:/P-1281.tif"
   },
   "schema:creator": [
     {

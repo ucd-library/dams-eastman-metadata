@@ -41,7 +41,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-1315.tif"
+    "@id": "@base:/T-1315.tif"
   },
   "schema:creator": [
     {

@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-2232.tif"
+    "@id": "@base:/P-2232.tif"
   },
   "schema:creator": [
     {

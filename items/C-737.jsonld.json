@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/C-737.tif"
+    "@id": "@base:/C-737.tif"
   },
   "schema:creator": [
     {

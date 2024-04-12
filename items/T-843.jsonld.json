@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-843.tif"
+    "@id": "@base:/T-843.tif"
   },
   "schema:creator": [
     {

@@ -32,7 +32,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-485.tif"
+    "@id": "@base:/T-485.tif"
   },
   "schema:creator": [
     {

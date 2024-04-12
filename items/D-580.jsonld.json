@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/D-580.tif"
+    "@id": "@base:/D-580.tif"
   },
   "schema:creator": [
     {

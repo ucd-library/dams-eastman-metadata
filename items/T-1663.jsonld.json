@@ -44,7 +44,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-1663.tif"
+    "@id": "@base:/T-1663.tif"
   },
   "schema:creator": [
     {

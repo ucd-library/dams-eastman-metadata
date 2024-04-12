@@ -18,7 +18,7 @@
     "@id": "http://id.worldcat.org/fast/845230"
   },
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-62.tif"
+    "@id": "@base:/G-62.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:datePublished": {

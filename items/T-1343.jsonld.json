@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-1343.tif"
+    "@id": "@base:/T-1343.tif"
   },
   "schema:creator": [
     {

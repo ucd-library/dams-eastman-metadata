@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-926.tif"
+    "@id": "@base:/G-926.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Essay titled \"How You Should Dress to be Photographed.\"",

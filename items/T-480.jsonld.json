@@ -41,7 +41,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-480.tif"
+    "@id": "@base:/T-480.tif"
   },
   "schema:creator": [
     {

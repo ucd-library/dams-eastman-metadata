@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/C-111.tif"
+    "@id": "@base:/C-111.tif"
   },
   "schema:creator": [
     {

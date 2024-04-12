@@ -29,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-2250.tif"
+    "@id": "@base:/P-2250.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",

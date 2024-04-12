@@ -32,7 +32,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-486.tif"
+    "@id": "@base:/G-486.tif"
   },
   "schema:creator": [
     {

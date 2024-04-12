@@ -29,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-2049.tif"
+    "@id": "@base:/P-2049.tif"
   },
   "schema:creator": [
     {

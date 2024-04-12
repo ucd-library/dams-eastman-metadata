@@ -15,7 +15,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/D-302.tif"
+    "@id": "@base:/D-302.tif"
   },
   "schema:creator": [
     {

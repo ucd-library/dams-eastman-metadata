@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-1381.tif"
+    "@id": "@base:/G-1381.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Two-story building with four columns in front of entrance and flagpole on roof. Lower right corner reads \"Riesen-Photo.\"",

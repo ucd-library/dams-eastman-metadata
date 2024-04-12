@@ -29,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-367.tif"
+    "@id": "@base:/T-367.tif"
   },
   "schema:creator": [
     {

@@ -35,7 +35,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-9850b.tif"
+    "@id": "@base:/B-9850b.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",

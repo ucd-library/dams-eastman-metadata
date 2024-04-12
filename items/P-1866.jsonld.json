@@ -18,7 +18,7 @@
     "@id": "http://id.worldcat.org/fast/1065823"
   },
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-1866.tif"
+    "@id": "@base:/P-1866.tif"
   },
   "schema:creator": [
     {

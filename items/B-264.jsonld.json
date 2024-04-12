@@ -18,7 +18,7 @@
     "@id": "http://id.worldcat.org/fast/1168844"
   },
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-264.tif"
+    "@id": "@base:/B-264.tif"
   },
   "schema:creator": "Myers & Loomis",
   "schema:datePublished": {

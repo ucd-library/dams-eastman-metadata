@@ -18,7 +18,7 @@
     "@id": "http://id.worldcat.org/fast/1107958"
   },
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-860.tif"
+    "@id": "@base:/G-860.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Multistory brick building with rounded front entrance. Lower right corner reads \"Riesen-Photo.\"",

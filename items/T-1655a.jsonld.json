@@ -35,7 +35,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-1655a.tif"
+    "@id": "@base:/T-1655a.tif"
   },
   "schema:creator": [
     {

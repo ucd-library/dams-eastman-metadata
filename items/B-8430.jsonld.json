@@ -29,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-8430.tif"
+    "@id": "@base:/B-8430.tif"
   },
   "schema:creator": [
     {

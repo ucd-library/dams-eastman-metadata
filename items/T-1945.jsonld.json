@@ -29,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-1945.tif"
+    "@id": "@base:/T-1945.tif"
   },
   "schema:creator": [
     {

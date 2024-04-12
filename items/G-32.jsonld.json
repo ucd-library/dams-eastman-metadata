@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-32.tif"
+    "@id": "@base:/G-32.tif"
   },
   "schema:creator": "Thompson, Peter Julian \"Jack",
   "schema:description": "Lake with snowcapped buttes in background.",

@@ -18,7 +18,7 @@
     "@id": "http://id.worldcat.org/fast/849907"
   },
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-677.tif"
+    "@id": "@base:/G-677.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Entrance to cave. Lower right corner reads \"Photo-by-Riesen.\"",

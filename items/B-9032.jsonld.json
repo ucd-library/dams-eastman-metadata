@@ -44,7 +44,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-9032.tif"
+    "@id": "@base:/B-9032.tif"
   },
   "schema:creator": [
     {

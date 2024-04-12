@@ -29,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/D-1775.tif"
+    "@id": "@base:/D-1775.tif"
   },
   "schema:creator": [
     {

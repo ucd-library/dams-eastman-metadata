@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-1919.tif"
+    "@id": "@base:/P-1919.tif"
   },
   "schema:creator": [
     {

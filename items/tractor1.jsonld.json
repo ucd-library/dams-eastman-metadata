@@ -38,7 +38,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/tractor1.tif"
+    "@id": "@base:/tractor1.tif"
   },
   "schema:description": "Photograph of a photograph of a Best steam traction engine on a ferry crossing a river with trees in the foreground and a bridge in the background.",
   "schema:identifier": [

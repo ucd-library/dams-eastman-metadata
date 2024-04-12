@@ -32,7 +32,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/N-0042.tif"
+    "@id": "@base:/N-0042.tif"
   },
   "schema:description": "Commercial street with automobiles at sides. Possibly Susanville, Calif.",
   "schema:identifier": [

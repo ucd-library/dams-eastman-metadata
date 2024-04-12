@@ -29,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-184.tif"
+    "@id": "@base:/G-184.tif"
   },
   "schema:creator": "Thompson, Peter Julian \"Jack",
   "schema:description": "Brochure tacked to board showing photograph of Mt. Lassen erupting and other information about Drakesbad. Title on image in brochure reads \"No.24x Mount Lassen in Eruption Copyright 1914 by P.J. Thompson Susanville Cal.\"",

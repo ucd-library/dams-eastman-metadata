@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-30.tif"
+    "@id": "@base:/G-30.tif"
   },
   "schema:creator": "Thompson, Peter Julian \"Jack",
   "schema:description": "Trees on mountainside in foreground overlooking lake and islands with forest and mountains in background.",

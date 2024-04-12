@@ -15,7 +15,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-960.tif"
+    "@id": "@base:/G-960.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Replica of train displayed in store window. Lower left corner of negative reads \"Riesen-Photo.\" Number on negative is 2723.",

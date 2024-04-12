@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-1988.tif"
+    "@id": "@base:/P-1988.tif"
   },
   "schema:creator": [
     {

@@ -32,7 +32,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-1041.tif"
+    "@id": "@base:/G-1041.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Street with residential buildings, fences, trees, and people. Lower right corner reads \"Riesen-Photo.\"",

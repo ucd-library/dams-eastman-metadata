@@ -41,7 +41,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-8196.tif"
+    "@id": "@base:/B-8196.tif"
   },
   "schema:creator": [
     {

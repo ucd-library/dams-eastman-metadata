@@ -32,7 +32,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-728.tif"
+    "@id": "@base:/G-728.tif"
   },
   "schema:creator": [
     {

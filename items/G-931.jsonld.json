@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-931.tif"
+    "@id": "@base:/G-931.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Typewritten essay by John D. Riesen about how to photograph women including what and what not to wear.",

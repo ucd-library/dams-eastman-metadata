@@ -32,7 +32,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-190.tif"
+    "@id": "@base:/G-190.tif"
   },
   "schema:creator": [
     {

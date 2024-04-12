@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-1999.tif"
+    "@id": "@base:/P-1999.tif"
   },
   "schema:creator": [
     {

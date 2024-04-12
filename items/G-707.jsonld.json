@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-707.tif"
+    "@id": "@base:/G-707.tif"
   },
   "schema:creator": [
     {

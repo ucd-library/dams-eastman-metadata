@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-857.tif"
+    "@id": "@base:/G-857.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Wood courthouse building with other wood buildings close by. Lower right corner reads \"Riesen Photo.\"",

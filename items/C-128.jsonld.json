@@ -41,7 +41,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/C-128.tif"
+    "@id": "@base:/C-128.tif"
   },
   "schema:creator": [
     {

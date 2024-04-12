@@ -32,7 +32,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/D-1988.tif"
+    "@id": "@base:/D-1988.tif"
   },
   "schema:creator": [
     {

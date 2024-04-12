@@ -32,7 +32,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-0098.tif"
+    "@id": "@base:/P-0098.tif"
   },
   "schema:creator": [
     {

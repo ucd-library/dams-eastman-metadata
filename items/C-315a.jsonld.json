@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/C-315a.tif"
+    "@id": "@base:/C-315a.tif"
   },
   "schema:creator": [
     {

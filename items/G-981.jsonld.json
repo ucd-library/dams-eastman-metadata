@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-981.tif"
+    "@id": "@base:/G-981.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Mining buildings surrounded by trees. Lower right corner reads \"Riesen-Photo-Alturas.\"",

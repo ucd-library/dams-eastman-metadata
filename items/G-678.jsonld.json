@@ -18,7 +18,7 @@
     "@id": "http://id.worldcat.org/fast/1144058"
   },
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-678.tif"
+    "@id": "@base:/G-678.tif"
   },
   "schema:creator": [
     {

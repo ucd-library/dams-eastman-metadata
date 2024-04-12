@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-933.tif"
+    "@id": "@base:/G-933.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "John D. Riesen vacuuming a room in his photography studio.",

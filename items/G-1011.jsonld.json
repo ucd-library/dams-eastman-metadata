@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-1011.tif"
+    "@id": "@base:/G-1011.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Woman standing and leaning on chair back",

@@ -29,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-1950.tif"
+    "@id": "@base:/T-1950.tif"
   },
   "schema:creator": [
     {

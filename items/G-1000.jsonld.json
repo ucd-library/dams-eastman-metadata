@@ -38,7 +38,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-1000.tif"
+    "@id": "@base:/G-1000.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:datePublished": {

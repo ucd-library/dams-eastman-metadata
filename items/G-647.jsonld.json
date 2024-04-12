@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-647.tif"
+    "@id": "@base:/G-647.tif"
   },
   "schema:creator": [
     {

@@ -32,7 +32,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-2019.tif"
+    "@id": "@base:/B-2019.tif"
   },
   "schema:creator": [
     {

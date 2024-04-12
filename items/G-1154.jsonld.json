@@ -29,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-1154.tif"
+    "@id": "@base:/G-1154.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Man resting with dog in field with sheep in background. Lower right corner reads \"Riesen P-HO-T-0.\" Number on negative is 959.",

@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-1996.tif"
+    "@id": "@base:/P-1996.tif"
   },
   "schema:creator": [
     {

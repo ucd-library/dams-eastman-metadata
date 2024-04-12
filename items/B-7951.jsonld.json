@@ -35,7 +35,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-7951.tif"
+    "@id": "@base:/B-7951.tif"
   },
   "schema:creator": [
     {

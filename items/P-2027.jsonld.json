@@ -35,7 +35,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-2027.tif"
+    "@id": "@base:/P-2027.tif"
   },
   "schema:creator": [
     {

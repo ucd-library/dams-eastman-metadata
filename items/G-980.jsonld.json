@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-980.tif"
+    "@id": "@base:/G-980.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "People in early 20th century automobile on dirt road with trees and mountains in background. Lower right corner reads \"Riesen-Photo=Alturas-Cal.\"",

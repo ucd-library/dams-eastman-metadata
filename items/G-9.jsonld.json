@@ -32,7 +32,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-9.tif"
+    "@id": "@base:/G-9.tif"
   },
   "schema:creator": "Thompson, Peter Julian \"Jack",
   "schema:datePublished": {

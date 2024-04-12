@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-2107.tif"
+    "@id": "@base:/P-2107.tif"
   },
   "schema:creator": [
     {

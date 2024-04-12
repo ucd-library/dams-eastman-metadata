@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-0220.tif"
+    "@id": "@base:/P-0220.tif"
   },
   "schema:creator": [
     {

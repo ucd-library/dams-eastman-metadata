@@ -35,7 +35,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/C-742a.tif"
+    "@id": "@base:/C-742a.tif"
   },
   "schema:creator": [
     {

@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-932.tif"
+    "@id": "@base:/G-932.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Typewritten essay by John D. Riesen about selling his photography business.",

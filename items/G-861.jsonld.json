@@ -29,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-861.tif"
+    "@id": "@base:/G-861.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Horse and buggy surrounded by trees and bushes.",

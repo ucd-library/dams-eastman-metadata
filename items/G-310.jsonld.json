@@ -29,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-310.tif"
+    "@id": "@base:/G-310.tif"
   },
   "schema:creator": [
     {

@@ -38,7 +38,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-478.tif"
+    "@id": "@base:/T-478.tif"
   },
   "schema:creator": [
     {

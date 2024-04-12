@@ -35,7 +35,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-9700a.tif"
+    "@id": "@base:/B-9700a.tif"
   },
   "schema:creator": [
     {

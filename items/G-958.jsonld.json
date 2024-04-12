@@ -29,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-958.tif"
+    "@id": "@base:/G-958.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:datePublished": {

@@ -32,7 +32,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/D-1955.tif"
+    "@id": "@base:/D-1955.tif"
   },
   "schema:creator": [
     {

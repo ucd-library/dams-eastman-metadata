@@ -18,7 +18,7 @@
     "@id": "http://id.worldcat.org/fast/926942"
   },
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-9869.tif"
+    "@id": "@base:/B-9869.tif"
   },
   "schema:creator": [
     "Eastman, Jervie Henry",

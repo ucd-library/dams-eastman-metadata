@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-1698.tif"
+    "@id": "@base:/B-1698.tif"
   },
   "schema:creator": [
     {

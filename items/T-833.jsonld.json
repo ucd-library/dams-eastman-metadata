@@ -29,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-833.tif"
+    "@id": "@base:/T-833.tif"
   },
   "schema:creator": [
     {

@@ -44,7 +44,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-17.tif"
+    "@id": "@base:/G-17.tif"
   },
   "schema:creator": [
     {

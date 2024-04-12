@@ -26,7 +26,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-7975.tif"
+    "@id": "@base:/B-7975.tif"
   },
   "schema:creator": [
     {

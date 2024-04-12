@@ -41,7 +41,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-98.tif"
+    "@id": "@base:/T-98.tif"
   },
   "schema:creator": [
     {

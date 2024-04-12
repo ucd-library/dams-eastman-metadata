@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/B-6433.tif"
+    "@id": "@base:/B-6433.tif"
   },
   "schema:creator": [
     "Eastman, Jervie Henry",

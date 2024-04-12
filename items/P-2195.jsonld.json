@@ -41,7 +41,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/P-2195.tif"
+    "@id": "@base:/P-2195.tif"
   },
   "schema:creator": [
     {

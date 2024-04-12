@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/D-600.tif"
+    "@id": "@base:/D-600.tif"
   },
   "schema:creator": [
     {

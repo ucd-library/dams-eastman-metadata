@@ -15,7 +15,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/D-258.tif"
+    "@id": "@base:/D-258.tif"
   },
   "schema:creator": [
     "Eastman, Jervie Henry",

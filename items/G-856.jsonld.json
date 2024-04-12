@@ -18,7 +18,7 @@
     "@id": "http://id.worldcat.org/fast/828295"
   },
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-856.tif"
+    "@id": "@base:/G-856.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Collection of Native American baskets and belts on shelf with photo of \"The Basket Maker\" resting inside basket.",

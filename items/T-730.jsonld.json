@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-730.tif"
+    "@id": "@base:/T-730.tif"
   },
   "schema:creator": [
     {

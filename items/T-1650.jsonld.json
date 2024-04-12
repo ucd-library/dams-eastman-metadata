@@ -38,7 +38,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/T-1650.tif"
+    "@id": "@base:/T-1650.tif"
   },
   "schema:creator": [
     {

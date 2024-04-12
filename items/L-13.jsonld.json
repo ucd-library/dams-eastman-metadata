@@ -35,7 +35,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/L-13.tif"
+    "@id": "@base:/L-13.tif"
   },
   "schema:creator": [
     {

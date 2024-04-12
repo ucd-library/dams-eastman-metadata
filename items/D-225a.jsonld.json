@@ -41,7 +41,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/D-225a.tif"
+    "@id": "@base:/D-225a.tif"
   },
   "schema:creator": [
     {

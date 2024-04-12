@@ -32,7 +32,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/G-982.tif"
+    "@id": "@base:/G-982.tif"
   },
   "schema:creator": "Riesen, John D",
   "schema:description": "Cabins surrounded by trees with bushes in foreground. Lower right corner reads \"Riesen-Photo-Alturas.Cal.\"",

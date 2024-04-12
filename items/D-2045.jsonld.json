@@ -35,7 +35,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/D-2045.tif"
+    "@id": "@base:/D-2045.tif"
   },
   "schema:creator": [
     {
