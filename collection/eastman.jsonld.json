@@ -39,6 +39,7 @@
       "@id": "http://id.loc.gov/authorities/names/no2014099630"
     }
   ],
+  "schema:identifier": "ark:/13030/tf6w100646",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1997"
