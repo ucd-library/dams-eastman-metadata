@@ -38,9 +38,9 @@
     "@id": "@base:/P-1298.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Train to left, horses and wagons in middle, and pipes to right with oil derrick, building, and mountains in background. Signs on building read \"Associated Supply Co.\" and \"Monarch Machine Works.\"",
@@ -48,9 +48,6 @@
     "ark:/13030/tf3n39n86v",
     "P-1298"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Horses",
     "Hoisting machinery",
@@ -68,9 +65,9 @@
   "schema:name": "Monarch Siding Maricopa Cal",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

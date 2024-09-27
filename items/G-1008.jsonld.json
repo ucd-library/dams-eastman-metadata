@@ -20,15 +20,17 @@
   "schema:associatedMedia": {
     "@id": "@base:/G-1008.tif"
   },
-  "schema:creator": "Riesen, John D",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:description": "Child in dress sitting on fur-covered table. Number on negative is 478.",
   "schema:identifier": [
     "G-1008",
     "ark:/13030/tf538nb18m"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Hides & skins",
     "Children's clothing & dress",
@@ -40,9 +42,9 @@
   "schema:material": "1 glass photonegative : b&w : 4.25 x 6.5 in.",
   "schema:name": "[Untitled]",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

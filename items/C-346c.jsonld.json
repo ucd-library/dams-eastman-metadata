@@ -36,18 +36,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Street in foreground with theater in background. Marquee reads \"Sierra Ed and Mary Church Wish You a Merry Xmas and a Happy New Year\" Since this negative was in envelope with negative numbered C-346 and is similar in content, it was assigned number C-346c.",
   "schema:identifier": [
     "C-346c",
     "ark:/13030/tf9f59p280"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Cultural facilities",
     "Signs",
@@ -64,9 +61,9 @@
   "schema:name": "The Sierra Theatre, Susanville",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

@@ -27,18 +27,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Photograph of a photograph of automobiles parked inside and outside a dealer showroom. Sign in window of building reads \"EUGENE GOOD.\" Signs on building read \"PLYMOUTH\" and \"CHRYSLER.\"",
   "schema:identifier": [
     "B-7777",
     "ark:/13030/tf6m3nb3j9"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Night photographs",
     "Automobiles",
@@ -52,9 +49,9 @@
   "schema:name": "Eugene Good, Chrysler Agency",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

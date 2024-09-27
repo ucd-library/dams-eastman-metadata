@@ -29,9 +29,9 @@
     "@id": "@base:/G-473.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is toddler in fur-trimmed coat and hat with fur muff sitting in child's chair. Second image is same child in same clothes standing next to child's chair with stuffed animal in chair. Two images (3.5 x 5 in.) side by side. Number on negative is 422.",
@@ -39,9 +39,6 @@
     "ark:/13030/tf4t1nb1vp",
     "G-473"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Toys",
     "Children's clothing & dress",
@@ -55,9 +52,9 @@
   "schema:material": "1 glass photonegative : b&w : 5 x 7 in.",
   "schema:name": "[Untitled]",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

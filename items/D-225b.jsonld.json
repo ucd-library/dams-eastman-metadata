@@ -41,9 +41,9 @@
     "@id": "@base:/D-225b.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Street in foreground with three-story building and parked automobiles in background. Sign on building roof reads \"Hotel.\" Other signs read \"Niles Hotel\" and \"Alturas Drug Co.\" Since this negative was in envelope with negative numbered D-225a and is similar in content, it was assigned number D0225b.",
@@ -51,9 +51,6 @@
     "ark:/13030/tf9j49p2c6",
     "D-225b"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Sidewalks",
     "Automobiles",
@@ -71,9 +68,9 @@
   "schema:name": "Niles Hotel - Alturas",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

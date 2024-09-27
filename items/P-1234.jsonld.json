@@ -41,9 +41,9 @@
     "@id": "@base:/P-1234.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Lumber mill in foreground with river and open land in background. Sign on side of building reads \"WEYERHAUSER TIMBER COMPANY.\" Possibly in Klamath Falls. 9 of 13 negatives.",
@@ -51,9 +51,6 @@
     "ark:/13030/tf6x0nb3vx",
     "P-1234"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Towers",
     "Smoke",
@@ -70,9 +67,9 @@
   "schema:name": "Weyerhauser",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

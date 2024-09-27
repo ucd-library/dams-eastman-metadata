@@ -41,9 +41,9 @@
     "@id": "@base:/P-2151.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Fence in foreground with buildings and flags in middle ground and forested mountains in background. S-238 inscribed on envelope.",
@@ -51,9 +51,6 @@
     "ark:/13030/tf6580077n",
     "P-2151"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Resorts",
     "Sports & recreation facilities",
@@ -71,9 +68,9 @@
   "schema:material": "1 photographic transparency : color : 4 x 5 in.",
   "schema:name": "Childs Meadows Resort, Mill Creek, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

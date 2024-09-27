@@ -29,9 +29,9 @@
     "@id": "@base:/T-2096a.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Room with Man operating the presses. T-2093 to T-2100 written on envelope. Since another negative has also been assigned number T-2096, this negative has been assigned number T-2096a.",
@@ -39,9 +39,6 @@
     "ark:/13030/tf8b69p0nr",
     "T-2096a"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Men",
     "Rooms & spaces",
@@ -59,9 +56,9 @@
   "schema:name": "Advocate Group",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

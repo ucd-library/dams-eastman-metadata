@@ -47,9 +47,9 @@
     "@id": "@base:/P-0478.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Two-story building with ladder leaning against it, automobile parked beside it, two tents and some chairs in front, a man and a woman walking toward entrance with sign reading \"Office,\" and another building and forest in background. #712 inscribed on negative, 78 on edge of negative, and #712 on envelope.",
@@ -57,9 +57,6 @@
     "P-0478",
     "ark:/13030/tf3r29n761"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Trees",
@@ -84,9 +81,9 @@
   "schema:name": "Drakesbad, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

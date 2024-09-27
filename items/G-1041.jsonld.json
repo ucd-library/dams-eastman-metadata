@@ -34,15 +34,17 @@
   "schema:associatedMedia": {
     "@id": "@base:/G-1041.tif"
   },
-  "schema:creator": "Riesen, John D",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:description": "Street with residential buildings, fences, trees, and people. Lower right corner reads \"Riesen-Photo.\"",
   "schema:identifier": [
     "G-1041",
     "ark:/13030/tf9779p13m"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Houses",
     "Residential streets",
@@ -57,9 +59,9 @@
   "schema:name": "Carlos-Ts.\"On-A-Winter-Morning\" Alturas-Cal",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

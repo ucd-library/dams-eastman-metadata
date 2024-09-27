@@ -29,9 +29,9 @@
     "@id": "@base:/P-0331.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Close-up of two trucks loaded with sacks of wool with trees in background. Original envelope and negative enclosed in gray envelope. 373 inscribed on negative and #373 on envelope.",
@@ -39,9 +39,6 @@
     "ark:/13030/tf238n99b4",
     "P-0331"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Trees",
     "Wool",
@@ -55,9 +52,9 @@
   "schema:material": "2 photographic negatives : b&w : one 5 x 7 in. and one 2 1/2 x 3 1/2 in",
   "schema:name": "\"Hauling Wool\" Modoc County, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

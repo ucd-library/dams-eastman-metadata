@@ -20,7 +20,12 @@
   "schema:associatedMedia": {
     "@id": "@base:/B-264.tif"
   },
-  "schema:creator": "Myers & Loomis",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1936"
@@ -30,9 +35,6 @@
     "ark:/13030/tf5779n9rm",
     "B-264"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Volcanic eruptions",
     "Volcanoes"
@@ -44,8 +46,8 @@
   "schema:name": "The Great Eruption of Lassen Peak - May 22, 1915. Taken at Anderson, 50 miles away",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

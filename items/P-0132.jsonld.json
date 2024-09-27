@@ -29,9 +29,9 @@
     "@id": "@base:/P-0132.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Automobile being ferried across lake with forest in background. #148 inscribed on negative and 148 on envelope. Original envelope and negative enclosed in gray envelope.",
@@ -39,9 +39,6 @@
     "P-0132",
     "ark:/13030/tf9489p171"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Ferries",
     "People",
@@ -57,9 +54,9 @@
   "schema:name": "\"When Lizzie Takes to the Water\" Big Springs on Lake Almanor--",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

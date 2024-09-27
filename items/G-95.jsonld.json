@@ -27,18 +27,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Woman in dress and apron and man in pants and shirt sitting outside on ground with vest and hat hanging on tree in background. Four flap reads \"Sawyers Bar.\"",
   "schema:identifier": [
     "ark:/13030/tf8g50076q",
     "G-95"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Men",
@@ -51,9 +48,9 @@
   "schema:material": "1 glass photonegative : b&w : 4 x 5 in.",
   "schema:name": "Jeff and Mary Jeff Sawyers Bar Old Timers",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

@@ -28,15 +28,17 @@
   "schema:associatedMedia": {
     "@id": "@base:/G-274.tif"
   },
-  "schema:creator": "Riesen, John D",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:description": "Man standing on top of volcanic rock formations covered with sagebrush. Lower right corner reads \"Riesen-Photo.\" Negative is broken at lower right corner.",
   "schema:identifier": [
     "ark:/13030/tf6c6005v9",
     "G-274"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Sagebrush",
     "Rock formations",
@@ -53,9 +55,9 @@
   "schema:material": "1 glass photonegative : b&w : 4.25 x 6.5 in.",
   "schema:name": "Modoc-Co-Lava-Beds-Another-Fort-Lava-And-Sagebrush Modoc-Co. Cal",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

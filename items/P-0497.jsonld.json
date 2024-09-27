@@ -35,9 +35,9 @@
     "@id": "@base:/P-0497.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Treetops in foreground overlooking town with mill and mountains in background. 937 inscribed on negative, 169 on edge of negative, 169 (crossed out) and 250 on envelope.",
@@ -45,9 +45,6 @@
     "ark:/13030/tf5p3006mt",
     "P-0497"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Lumber industry",
     "Mountains",
@@ -62,9 +59,9 @@
   "schema:name": "Fruit Growers Supply Co. Susanville, Cal",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

@@ -26,9 +26,9 @@
     "@id": "@base:/F-1.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Open land in foreground with stacks of lumber and buildings in middle ground and forested mountains in background. 1 of 5 negatives.",
@@ -36,9 +36,6 @@
     "ark:/13030/tf3h4nb23h",
     "F-1"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Mountains",
     "Forests",
@@ -52,9 +49,9 @@
   "schema:name": "FGS Mill Lassen Supply Co. Lumber Mill",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

@@ -29,9 +29,9 @@
     "@id": "@base:/G-1370.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is photograph of three men in suits and hats standing behind man in suit and hat sitting in chair with image of infant in dress superimposed over negative. Second image is photograph of woman in skirt, blouse, and hat standing behind chair. Two images (4.25 x 6.5 in.) side by side. Numbers on negative are 137 and 149.",
@@ -39,9 +39,6 @@
     "ark:/13030/tf1h4n98xr",
     "G-1370"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Women",
     "Men",
@@ -56,9 +53,9 @@
   "schema:name": "Miss Eiros; Hamlin",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

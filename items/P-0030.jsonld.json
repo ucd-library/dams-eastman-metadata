@@ -32,9 +32,9 @@
     "@id": "@base:/P-0030.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Street with automobiles, commercial buildings, and man in uniform standing beside automobile in foreground. Lower right corner reads \"J.H. Eastman.\" #17 inscribed on negative and number 156 on envelope. Original envelope and negative enclosed in gray envelope.",
@@ -42,9 +42,6 @@
     "P-0030",
     "ark:/13030/tf1489n5k6"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Men",
     "Streets",
@@ -60,9 +57,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "\"Chester, Calif.\"",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

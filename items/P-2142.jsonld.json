@@ -32,9 +32,9 @@
     "@id": "@base:/P-2142.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Ducks in flight above water with mountains in background. Lower right corner reads \"J.H. Eastman.\" S-113 inscribed on negative and on envelope.",
@@ -42,9 +42,6 @@
     "P-2142",
     "ark:/13030/tf809nb3cd"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Mountains",
     "Birds",
@@ -59,9 +56,9 @@
   "schema:name": "\"WILD DUCKS\" Near Susanville, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

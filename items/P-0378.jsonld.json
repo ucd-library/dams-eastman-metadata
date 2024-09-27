@@ -35,9 +35,9 @@
     "@id": "@base:/P-0378.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Photograph of a photograph of hay stacking operation. Original envelope and negative enclosed in gray envelope. #420 inscribed on negative and #7 on envelope.",
@@ -45,9 +45,6 @@
     "P-0378",
     "ark:/13030/tf5b69n892"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Animals",
     "Laborers",
@@ -65,9 +62,9 @@
   "schema:name": "Stacking Hay near Alturas, Cal",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

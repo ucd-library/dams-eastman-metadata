@@ -26,9 +26,9 @@
     "@id": "@base:/G-1330.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is man and woman (possibly Native Americans) in native dress with beaded necklaces and baskets. Second image is man in pants, shirt, hat, gloves, and decorative belt and cuffs standing next to chair. Caption under first image reads \"Oh, songs of a race that with arrow and knife went swift through the forests to roam... The war-cries are silent, and calm-faced they stay in peace by the door of the their home.\" Two images (3.5 x 5 in.) side by side. Number on negative is 234.",
@@ -36,9 +36,6 @@
     "G-1330",
     "ark:/13030/tf4d5nb15q"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Indians of North America",
     "People",
@@ -53,9 +50,9 @@
   "schema:material": "1 glass photonegative : b&w : 5 x 7 in.n.",
   "schema:name": "[Untitled]",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

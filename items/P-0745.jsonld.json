@@ -38,9 +38,9 @@
     "@id": "@base:/P-0745.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Multistory building complex with signs reading \"HOTEL OAKS\" and \"COFFEE SHOP\" and automobiles parked on street. 4 of 6 negatives.",
@@ -48,9 +48,6 @@
     "ark:/13030/tf0w10038z",
     "P-0745"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Lampposts",
     "Street lights",
@@ -69,9 +66,9 @@
   "schema:name": "Unidentified",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

@@ -32,9 +32,9 @@
     "@id": "@base:/B-839.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -46,9 +46,6 @@
     "B-839",
     "ark:/13030/tf029001pz"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "National parks & reserves",
     "Snow",
@@ -65,9 +62,9 @@
   "schema:material": "3 photographic negatives : b&w : 5 x 7 in.",
   "schema:name": "Mt. Lassen from Raker Peak, Calif., Showing Damage Done by 1915 Eruption",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

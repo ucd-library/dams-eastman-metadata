@@ -35,9 +35,9 @@
     "@id": "@base:/B-1364.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Buildings with three men standing in front of one and three parked automobiles with sign on one building reading \"ART'S Sorsoli HOTEL Cafe.\" \"now ol' McDondald - early 30's!\" inscribed on envelope. Lower right corner reads \"J.H. Eastman.\"",
@@ -45,9 +45,6 @@
     "ark:/13030/tf8d5nb4b0",
     "B-1364"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Automobiles",
     "Stores & shops",
@@ -65,9 +62,9 @@
   "schema:name": "At Crescent Mills, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

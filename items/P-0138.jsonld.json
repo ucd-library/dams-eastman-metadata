@@ -32,9 +32,9 @@
     "@id": "@base:/P-0138.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Broad street, building in right foreground with sign reading \"Post Office\" and chair on porch, other buildings and trees in background. 153 inscribed on envelope.",
@@ -42,9 +42,6 @@
     "ark:/13030/tf8489p103",
     "P-0138"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Post offices",
     "Trees",
@@ -60,9 +57,9 @@
   "schema:name": "Eagleville Street scenes",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }
