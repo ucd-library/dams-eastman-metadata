@@ -40,8 +40,8 @@
   },
   "schema:description": "Bushes in foreground, roads and buildings in middle ground, and mountains in background.",
   "schema:identifier": [
-    "B-5761",
-    "ark:/13030/tf9d5nb4v2"
+    "ark:/13030/tf9d5nb4v2",
+    "B-5761"
   ],
   "schema:keywords": [
     "Cityscapes",

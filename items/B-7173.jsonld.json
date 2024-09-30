@@ -40,8 +40,8 @@
   },
   "schema:description": "Map on board with information about alpine trips in foreground and trees and building in background.",
   "schema:identifier": [
-    "B-7173",
-    "ark:/13030/tf8m3nb4hw"
+    "ark:/13030/tf8m3nb4hw",
+    "B-7173"
   ],
   "schema:keywords": [
     "Maps",

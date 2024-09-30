@@ -29,8 +29,8 @@
   },
   "schema:description": "Town. Lower right corner reads \"Kennett Calif. 1913.\"",
   "schema:identifier": [
-    "B-8976",
-    "ark:/13030/tf367nb14k"
+    "ark:/13030/tf367nb14k",
+    "B-8976"
   ],
   "schema:keywords": "Cityscapes",
   "schema:license": {

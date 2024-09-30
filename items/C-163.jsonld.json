@@ -43,8 +43,8 @@
   },
   "schema:description": "Logs in mill pond in foreground with mill in background.",
   "schema:identifier": [
-    "C-163",
-    "ark:/13030/tf2f59n7sj"
+    "ark:/13030/tf2f59n7sj",
+    "C-163"
   ],
   "schema:keywords": [
     "Mills",

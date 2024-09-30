@@ -46,8 +46,8 @@
   },
   "schema:description": "Multistory building with tile roof.",
   "schema:identifier": [
-    "C-180",
-    "ark:/13030/tf900008sk"
+    "ark:/13030/tf900008sk",
+    "C-180"
   ],
   "schema:keywords": [
     "Trees",

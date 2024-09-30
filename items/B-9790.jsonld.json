@@ -40,8 +40,8 @@
   },
   "schema:description": "Road, buildings, and trees in foreground with mountains in background.",
   "schema:identifier": [
-    "B-9790",
-    "ark:/13030/tf1k4002vm"
+    "ark:/13030/tf1k4002vm",
+    "B-9790"
   ],
   "schema:keywords": [
     "Trees",

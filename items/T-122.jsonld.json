@@ -37,8 +37,8 @@
   },
   "schema:description": "Line of harvestors in grain field.",
   "schema:identifier": [
-    "T-122",
-    "ark:/13030/tf1779n6dr"
+    "ark:/13030/tf1779n6dr",
+    "T-122"
   ],
   "schema:keywords": [
     "Grains",

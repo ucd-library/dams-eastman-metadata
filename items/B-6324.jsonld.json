@@ -46,8 +46,8 @@
   },
   "schema:description": "Town seen from above with mountains in background.",
   "schema:identifier": [
-    "B-6324",
-    "ark:/13030/tf00000284"
+    "ark:/13030/tf00000284",
+    "B-6324"
   ],
   "schema:keywords": [
     "Cityscapes",

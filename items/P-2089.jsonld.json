@@ -25,8 +25,8 @@
   ],
   "schema:description": "Memo outlining price increase at Eastman's Studio.",
   "schema:identifier": [
-    "P-2089",
-    "ark:/13030/tf7199p125"
+    "ark:/13030/tf7199p125",
+    "P-2089"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

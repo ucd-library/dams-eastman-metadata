@@ -36,8 +36,8 @@
   ],
   "schema:description": "Street with commercial buildings, automobiles, and pedestrians. Numbers on edge of negative are 50 and 227. Numbers on envelope are old 31, new A-1, and 227.",
   "schema:identifier": [
-    "A-1",
-    "ark:/13030/tf6f59n96z"
+    "ark:/13030/tf6f59n96z",
+    "A-1"
   ],
   "schema:keywords": [
     "Automobile repair shops",

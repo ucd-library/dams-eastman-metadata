@@ -32,8 +32,8 @@
   },
   "schema:description": "Map of Lassen County.",
   "schema:identifier": [
-    "D-2098",
-    "ark:/13030/tf3290049n"
+    "ark:/13030/tf3290049n",
+    "D-2098"
   ],
   "schema:keywords": "Maps",
   "schema:license": {

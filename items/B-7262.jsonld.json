@@ -32,8 +32,8 @@
   },
   "schema:description": "Map of town showing lake, road, town, and mountains.",
   "schema:identifier": [
-    "B-7262",
-    "ark:/13030/tf987008v1"
+    "ark:/13030/tf987008v1",
+    "B-7262"
   ],
   "schema:keywords": "Maps",
   "schema:license": {

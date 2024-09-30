@@ -49,8 +49,8 @@
   },
   "schema:description": "Street in foreground and multistory buildings with tile roofs in background.",
   "schema:identifier": [
-    "B-8016",
-    "ark:/13030/tf0k4002v9"
+    "ark:/13030/tf0k4002v9",
+    "B-8016"
   ],
   "schema:keywords": [
     "Streets",

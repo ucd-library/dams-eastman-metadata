@@ -40,8 +40,8 @@
   },
   "schema:description": "Street with automobiles, trucks, and commercial buildings.",
   "schema:identifier": [
-    "B-9300",
-    "ark:/13030/tf5w10061b"
+    "ark:/13030/tf5w10061b",
+    "B-9300"
   ],
   "schema:keywords": [
     "Streets",

@@ -32,8 +32,8 @@
   },
   "schema:description": "Roof of building in foreground overlooking town with mountains in background.",
   "schema:identifier": [
-    "B-6328",
-    "ark:/13030/tf8b69p16h"
+    "ark:/13030/tf8b69p16h",
+    "B-6328"
   ],
   "schema:keywords": [
     "Cityscapes",

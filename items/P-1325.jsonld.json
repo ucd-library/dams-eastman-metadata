@@ -33,8 +33,8 @@
   ],
   "schema:description": "Buildings surrounded by storage tanks.",
   "schema:identifier": [
-    "P-1325",
-    "ark:/13030/tf0b69n65g"
+    "ark:/13030/tf0b69n65g",
+    "P-1325"
   ],
   "schema:keywords": [
     "Smokestacks",

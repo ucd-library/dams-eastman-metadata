@@ -43,8 +43,8 @@
   },
   "schema:description": "Road in foreground with buildings in background. Signs on building read \"Coffee Shop\" and \"CRYSTAL MOTEL.\"",
   "schema:identifier": [
-    "B-8318",
-    "ark:/13030/tf800007vt"
+    "ark:/13030/tf800007vt",
+    "B-8318"
   ],
   "schema:keywords": [
     "Roads",

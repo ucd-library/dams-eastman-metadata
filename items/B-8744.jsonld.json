@@ -46,8 +46,8 @@
   },
   "schema:description": "Road, fences, trees, and buildings in foreground with snow-covered mountains in background.",
   "schema:identifier": [
-    "B-8744",
-    "ark:/13030/tf796nb3rr"
+    "ark:/13030/tf796nb3rr",
+    "B-8744"
   ],
   "schema:keywords": [
     "Roads",

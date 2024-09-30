@@ -43,8 +43,8 @@
   },
   "schema:description": "Mining machinery inside building.",
   "schema:identifier": [
-    "P-1761",
-    "ark:/13030/tf6v19p0t0"
+    "ark:/13030/tf6v19p0t0",
+    "P-1761"
   ],
   "schema:keywords": [
     "Rooms & spaces",

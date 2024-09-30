@@ -43,8 +43,8 @@
   },
   "schema:description": "Floating logs in foreground with mill in background.",
   "schema:identifier": [
-    "B-4312",
-    "ark:/13030/tf9t1nb5rm"
+    "ark:/13030/tf9t1nb5rm",
+    "B-4312"
   ],
   "schema:keywords": [
     "Mills",

@@ -37,8 +37,8 @@
   },
   "schema:description": "Dredging operation on river.",
   "schema:identifier": [
-    "C-200",
-    "ark:/13030/tf700007sg"
+    "ark:/13030/tf700007sg",
+    "C-200"
   ],
   "schema:keywords": [
     "Dredging",

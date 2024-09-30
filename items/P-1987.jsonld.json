@@ -32,8 +32,8 @@
   },
   "schema:description": "Map of \"Lassen National Forest new ranger district boundaries.\"",
   "schema:identifier": [
-    "P-1987",
-    "ark:/13030/tf4w1006c6"
+    "ark:/13030/tf4w1006c6",
+    "P-1987"
   ],
   "schema:keywords": "Maps",
   "schema:license": {

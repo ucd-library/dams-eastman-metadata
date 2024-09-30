@@ -29,8 +29,8 @@
   },
   "schema:description": "Logs in pond in foreground with pile of logs in background.",
   "schema:identifier": [
-    "T-1213",
-    "ark:/13030/tf0s2003kz"
+    "ark:/13030/tf0s2003kz",
+    "T-1213"
   ],
   "schema:keywords": [
     "Logs",

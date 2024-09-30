@@ -37,8 +37,8 @@
   },
   "schema:description": "Trees in foreground, town in middle ground, and mountains in background. 430 inscribed on envelope.",
   "schema:identifier": [
-    "P-0395",
-    "ark:/13030/tf9m3nb59k"
+    "ark:/13030/tf9m3nb59k",
+    "P-0395"
   ],
   "schema:keywords": [
     "Cityscapes",

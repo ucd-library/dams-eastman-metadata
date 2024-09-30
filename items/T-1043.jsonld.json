@@ -29,8 +29,8 @@
   },
   "schema:description": "Aerial view of town and surrounding area. Red tape on top edge of envelope.",
   "schema:identifier": [
-    "T-1043",
-    "ark:/13030/tf3w10056t"
+    "ark:/13030/tf3w10056t",
+    "T-1043"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

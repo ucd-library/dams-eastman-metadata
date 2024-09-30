@@ -55,8 +55,8 @@
   },
   "schema:description": "Road in foreground with multistory building with tile roof in background.",
   "schema:identifier": [
-    "C-189",
-    "ark:/13030/tf8n39p27g"
+    "ark:/13030/tf8n39p27g",
+    "C-189"
   ],
   "schema:keywords": [
     "Educational facilities",

@@ -40,8 +40,8 @@
   },
   "schema:description": "Buildings with bushes, trees, and sidewalk in front.",
   "schema:identifier": [
-    "B-8560",
-    "ark:/13030/tf000002b5"
+    "ark:/13030/tf000002b5",
+    "B-8560"
   ],
   "schema:keywords": [
     "Trees",

@@ -46,8 +46,8 @@
   },
   "schema:description": "House at intersection in foreground overlooking street running through town.",
   "schema:identifier": [
-    "B-6310",
-    "ark:/13030/tf0g5002vn"
+    "ark:/13030/tf0g5002vn",
+    "B-6310"
   ],
   "schema:keywords": [
     "Cityscapes",

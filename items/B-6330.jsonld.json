@@ -32,8 +32,8 @@
   },
   "schema:description": "Mountainside in foreground overlooking town with mountains in background.",
   "schema:identifier": [
-    "B-6330",
-    "ark:/13030/tf9g5008q8"
+    "ark:/13030/tf9g5008q8",
+    "B-6330"
   ],
   "schema:keywords": [
     "Cityscapes",

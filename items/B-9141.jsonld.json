@@ -46,8 +46,8 @@
   },
   "schema:description": "Fences, road, bushes, and trees in foreground with buildings and trees in background.",
   "schema:identifier": [
-    "B-9141",
-    "ark:/13030/tf4580054h"
+    "ark:/13030/tf4580054h",
+    "B-9141"
   ],
   "schema:keywords": [
     "Educational facilities",

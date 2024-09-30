@@ -25,8 +25,8 @@
   ],
   "schema:description": "Replica of train displayed in store window. Lower left corner of negative reads \"Riesen-Photo.\" Number on negative is 2723.",
   "schema:identifier": [
-    "G-960",
-    "ark:/13030/tf9489p1dm"
+    "ark:/13030/tf9489p1dm",
+    "G-960"
   ],
   "schema:keywords": [
     "Models",
