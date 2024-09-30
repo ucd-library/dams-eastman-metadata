@@ -22,9 +22,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -32,12 +32,9 @@
   },
   "schema:description": "Native American male in native dress. 39 and 110 inscribed on edge of negative, #61 on envelope. Original envelope and negative enclosed in gray envelope.",
   "schema:identifier": [
-    "P-0073",
-    "ark:/13030/tf1489n5mq"
+    "ark:/13030/tf1489n5mq",
+    "P-0073"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Indians of North America",
@@ -50,9 +47,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "A Native",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

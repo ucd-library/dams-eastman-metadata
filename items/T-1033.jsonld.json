@@ -29,19 +29,16 @@
     "@id": "@base:/T-1033.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Stream and waterfalls over rocks.",
   "schema:identifier": [
-    "T-1033",
-    "ark:/13030/tf796nb43d"
+    "ark:/13030/tf796nb43d",
+    "T-1033"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Rocks",
     "Streams",
@@ -54,9 +51,9 @@
   "schema:name": "Deep Creek Falls, Lake County, Ore",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

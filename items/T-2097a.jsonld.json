@@ -32,19 +32,16 @@
     "@id": "@base:/T-2097a.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Office with woman talking on telephone. T-2093 to T-2100 written on envelope. Since another negative has also been assigned number T-2097, this negative has been assigned number T-2097a.",
   "schema:identifier": [
-    "T-2097a",
-    "ark:/13030/tf100001z9"
+    "ark:/13030/tf100001z9",
+    "T-2097a"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Telephones",
     "Interiors",
@@ -60,9 +57,9 @@
   "schema:material": "1 photographic negative : b&w : 3 x 4 in.",
   "schema:name": "Advocate Group",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

@@ -44,9 +44,9 @@
     "@id": "@base:/P-0973.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Photograph of a photograph of altar at far end of room with pews in foreground.",
@@ -54,9 +54,6 @@
     "ark:/13030/tf796nb3xb",
     "P-0973"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Floor coverings",
     "Religious facilities",
@@ -78,9 +75,9 @@
   "schema:name": "Brother David's Last Mission Church",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

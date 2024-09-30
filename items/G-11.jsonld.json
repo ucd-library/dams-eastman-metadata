@@ -27,18 +27,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Room with bank vault and office counter.",
   "schema:identifier": [
-    "G-11",
-    "ark:/13030/tf967nb4km"
+    "ark:/13030/tf967nb4km",
+    "G-11"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Interiors",
     "Lamps",
@@ -55,9 +52,9 @@
   "schema:material": "1 glass photonegative : b&w : 8 x 10 in.",
   "schema:name": "Bank of Lassen County Main + So. Gay Now Home of Our Newspaper Lassen County Times",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

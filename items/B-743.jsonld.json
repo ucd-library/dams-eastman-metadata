@@ -32,9 +32,9 @@
     "@id": "@base:/B-743.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Recreation area with several people participating in various activities such as darts and croquet and table tennis. Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-743",
-    "ark:/13030/tf8489p098"
+    "ark:/13030/tf8489p098",
+    "B-743"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Sports",
@@ -65,9 +62,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "\"Portion of Playground,\" At Mayaro Lodge, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

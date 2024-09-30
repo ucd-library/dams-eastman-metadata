@@ -36,9 +36,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -46,12 +46,9 @@
   },
   "schema:description": "Fence in foreground with automobiles parked in front of buildings in middle ground and forest in background. Sign on buildings reads \"MINERAL LODGE Motel - Hotel Housekeeping Cabins Coffee Shop - Cocktail Lounge General Store.\" Negative in poor condition.",
   "schema:identifier": [
-    "B-8407",
-    "ark:/13030/tf2199n6tz"
+    "ark:/13030/tf2199n6tz",
+    "B-8407"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Forests",
     "Parking lots",
@@ -68,8 +65,8 @@
   "schema:name": "Mineral Lodge, Mineral, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

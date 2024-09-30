@@ -29,9 +29,9 @@
     "@id": "@base:/B-6898.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -40,12 +40,9 @@
   },
   "schema:description": "Tree trunk lieing horizontal and raised off ground with sign reading \"The Drive Under Tree,\" and another sign reading \"Stump Room Redwood Curios\" on side of small building situated on right end of stump.",
   "schema:identifier": [
-    "B-6898",
-    "ark:/13030/tf096n99cb"
+    "ark:/13030/tf096n99cb",
+    "B-6898"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Redwoods",
     "Trees",
@@ -58,9 +55,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "The Drive Under Tree on the Redwood Highway",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

@@ -33,18 +33,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Cabin at end of dirt road surrounded by trees. Since this negative was in the envelope with the negative numbered B-1819 but was not at all similar in content, it was assigned a new number.",
   "schema:identifier": [
     "ark:/13030/tf0k4002pq",
     "P-0580"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Trees",
     "Roads",
@@ -58,9 +55,9 @@
   "schema:name": "[Untitled]",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

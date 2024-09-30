@@ -21,9 +21,9 @@
     "@id": "@base:/B-1514.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -32,12 +32,9 @@
   },
   "schema:description": "Large pointed rock formation in mountains. Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-1514",
-    "ark:/13030/tf0v19n626"
+    "ark:/13030/tf0v19n626",
+    "B-1514"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Rock formations",
     "Mountains"
@@ -49,8 +46,8 @@
   "schema:name": "\"Castle Crag's,\" Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

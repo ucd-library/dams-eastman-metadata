@@ -26,9 +26,9 @@
     "@id": "@base:/D-2055c.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Railroad ties in roadbed in foreground with pickup truck in middle ground and forest in background. \"5A\" inscribed on negative. Since this negative was in envelope with negative numbered D-2055 and is similar in content, it was assigned number D-2055c.",
   "schema:identifier": [
-    "D-2055c",
-    "ark:/13030/tf4199n8jd"
+    "ark:/13030/tf4199n8jd",
+    "D-2055c"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Forests",
     "Trucks",
@@ -55,8 +52,8 @@
   "schema:name": "Fruit Growers Steam Co. Railroad",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

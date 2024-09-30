@@ -38,9 +38,9 @@
     "@id": "@base:/B-4248.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -49,12 +49,9 @@
   },
   "schema:description": "Trees on mountainside in foreground overlooking multistory building, automobiles parked on circular drive, and cabins surrounded by trees and mountains.",
   "schema:identifier": [
-    "B-4248",
-    "ark:/13030/tf7p30076q"
+    "ark:/13030/tf7p30076q",
+    "B-4248"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Resorts",
     "Trees",
@@ -72,8 +69,8 @@
   "schema:name": "Richardson Mineral Springs, California",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

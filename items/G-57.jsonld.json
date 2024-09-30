@@ -30,18 +30,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Many flag carrying fourth of July parade participants and building in background with sign reading \"Sawyers Bar Hotel.\"",
   "schema:identifier": [
-    "G-57",
-    "ark:/13030/tf5f59n92k"
+    "ark:/13030/tf5f59n92k",
+    "G-57"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Flags",
     "Parades & processions",
@@ -55,9 +52,9 @@
   "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
   "schema:name": "July 4th",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

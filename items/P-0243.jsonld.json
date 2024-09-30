@@ -36,18 +36,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Railroad tracks and railroad cars loaded with lumber in foreground with two men on railroad car pulled by team of horses and huge pile of sawdust in background. 294 inscribed on edge of negative, 294 and 377 on envelope.",
   "schema:identifier": [
-    "P-0243",
-    "ark:/13030/tf267nb0m1"
+    "ark:/13030/tf267nb0m1",
+    "P-0243"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Men",
     "Railroad tracks",
@@ -65,9 +62,9 @@
   "schema:name": "A Mountain of Sawdust",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

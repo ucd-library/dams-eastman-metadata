@@ -22,18 +22,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Two women in costumes. Number on negative is 1824.",
   "schema:identifier": [
-    "G-603",
-    "ark:/13030/tf6x0nb342"
+    "ark:/13030/tf6x0nb342",
+    "G-603"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Costumes",
     "Women",
@@ -46,9 +43,9 @@
   "schema:material": "1 glass photonegative : b&w : 5 x 7 in.",
   "schema:name": "[Untitled]",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

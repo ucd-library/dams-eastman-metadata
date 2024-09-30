@@ -32,9 +32,9 @@
     "@id": "@base:/P-0026.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Floating logs in foreground, mill in middle ground, and forest in background. #12 inscribed on negative and 160 and 188 on envelope.",
@@ -42,9 +42,6 @@
     "ark:/13030/tf2x0nb19f",
     "P-0026"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Smokestacks",
     "Logs",
@@ -60,9 +57,9 @@
   "schema:name": "\"Lassen Lumber and Box Co. Sawmill\" Susanville, Cal",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

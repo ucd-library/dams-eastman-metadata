@@ -33,18 +33,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Cabin with smaller cabin behind and trees in background.",
   "schema:identifier": [
     "ark:/13030/tf996nb4k8",
     "G-1149"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Log buildings",
     "Chimneys",
@@ -59,9 +56,9 @@
   "schema:name": "Originally \"Squirrel Jim's Cabin. Squirrel Jim was Indian who led Capt. John Best to the Gold Field Discovery that was the Beginning of the Settlement of Bestville, that later became Sawyers Bar, 100 Years Ago. 1850 to 1950",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

@@ -35,19 +35,16 @@
     "@id": "@base:/D-1758.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Barroom with stools in front of bar and guns and deer heads on wall behind bar. See also B-7747.",
   "schema:identifier": [
-    "D-1758",
-    "ark:/13030/tf767nb4jg"
+    "ark:/13030/tf767nb4jg",
+    "D-1758"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Light fixtures",
     "Bars",
@@ -69,9 +66,9 @@
   "schema:name": "Deer Creek Lodge Mill Creek Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

@@ -30,18 +30,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Multistory brick building with flagpole and automobile partially visible in front and trees in background. 198 inscribed on edge of negative and 186 on envelope.",
   "schema:identifier": [
-    "P-0178",
-    "ark:/13030/tf2t1nb0gw"
+    "ark:/13030/tf2t1nb0gw",
+    "P-0178"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Trees",
     "Hospitals",
@@ -55,9 +52,9 @@
   "schema:name": "County Hospital - Quincy, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

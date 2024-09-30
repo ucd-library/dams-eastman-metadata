@@ -29,19 +29,16 @@
     "@id": "@base:/G-1209.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is two women in coats and hats standing with one man in overcoat and hat. Second image is same two women standing behind same man sitting in chair. Two images (4.25 x 6.5 in.) side by side. Number on negative is 404.",
   "schema:identifier": [
-    "G-1209",
-    "ark:/13030/tf1x0n993f"
+    "ark:/13030/tf1x0n993f",
+    "G-1209"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Clothing & dress",
@@ -56,9 +53,9 @@
   "schema:name": "[Untitled]",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

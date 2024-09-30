@@ -32,9 +32,9 @@
     "@id": "@base:/B-9459.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Lake with people and boats in foreground and trees and hills in background.",
   "schema:identifier": [
-    "B-9459",
-    "ark:/13030/tf700007f9"
+    "ark:/13030/tf700007f9",
+    "B-9459"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Piers & wharves",
@@ -65,9 +62,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Point McCloud Resort, Shasta Lake, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

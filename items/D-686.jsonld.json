@@ -39,9 +39,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -49,12 +49,9 @@
   },
   "schema:description": "Buildings under construction with crew working on roof in foreground with trees in middle ground and mountains in background. Caption on negative reads \"#2 Lassen Jr. College - B+R Const. Co. View from North end Calif 4V-48 WA bcf 7-265 June 20, 1947.\"",
   "schema:identifier": [
-    "D-686",
-    "ark:/13030/tf5b69n9fm"
+    "ark:/13030/tf5b69n9fm",
+    "D-686"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Educational facilities",
     "Trees",
@@ -71,9 +68,9 @@
   "schema:material": "2 photographic negatives : b&w : 8 x 10 in.",
   "schema:name": "Lassen Jr. College - B+R Const. Co. View from North end",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

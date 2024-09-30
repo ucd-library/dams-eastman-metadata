@@ -47,9 +47,9 @@
     "@id": "@base:/B-6312.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -58,12 +58,9 @@
   },
   "schema:description": "Houses in foreground overlooking bridge over river with mills and mountains in background.",
   "schema:identifier": [
-    "B-6312",
-    "ark:/13030/tf3h4nb1jr"
+    "ark:/13030/tf3h4nb1jr",
+    "B-6312"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Lumber industry",
     "Houses",
@@ -81,8 +78,8 @@
   "schema:name": "Klamath Falls, Oregon",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

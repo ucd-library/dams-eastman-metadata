@@ -26,19 +26,16 @@
     "@id": "@base:/G-1503.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Forested areas with two steam traction engines pulling platforms of logs and men sitting and standing on logs and machinery (possibly Best Manufacturing Co.). Number on negative is T-756.",
   "schema:identifier": [
-    "G-1503",
-    "ark:/13030/tf4j49n8pr"
+    "ark:/13030/tf4j49n8pr",
+    "G-1503"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Lumber industry",
     "Men",
@@ -53,9 +50,9 @@
   "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
   "schema:name": "[Untitled]",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

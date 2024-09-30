@@ -27,9 +27,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -37,12 +37,9 @@
   },
   "schema:description": "Boys making bowls.",
   "schema:identifier": [
-    "B-9523",
-    "ark:/13030/tf9x0nb5qr"
+    "ark:/13030/tf9x0nb5qr",
+    "B-9523"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Children",
     "Sports & recreation facilities",
@@ -55,8 +52,8 @@
   "schema:name": "Walton's Grizzly Lodge Camp for Boys P.O. Box 577, Portola, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

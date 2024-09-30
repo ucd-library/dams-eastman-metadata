@@ -42,18 +42,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Tree-lined, snow-covered residential street with street light in foreground. 416 inscribed on negative and on envelope.",
   "schema:identifier": [
-    "P-0370",
-    "ark:/13030/tf8f59p0br"
+    "ark:/13030/tf8f59p0br",
+    "P-0370"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Street lights",
     "Houses",
@@ -68,9 +65,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "N.W. Corner Pine & Mill Sts. Susanville, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

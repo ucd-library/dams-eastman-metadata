@@ -29,9 +29,9 @@
     "@id": "@base:/B-1958.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -40,12 +40,9 @@
   },
   "schema:description": "Two-story building with \"Hotel\" on side wall, automobiles in front and trees in background. Sign on adjacent building reads \"RIM ROCK RANCH GENERAL STORE ROOMS MEALS CABINS.\" Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-1958",
-    "ark:/13030/tf5199n8dn"
+    "ark:/13030/tf5199n8dn",
+    "B-1958"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Signs",
     "General stores",
@@ -60,9 +57,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "DAY'S RIM-ROCK RANCH OLD STATION, CALIFORNIA",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

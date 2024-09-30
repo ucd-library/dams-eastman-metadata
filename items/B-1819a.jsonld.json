@@ -21,9 +21,9 @@
     "@id": "@base:/B-1819a.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -32,12 +32,9 @@
   },
   "schema:description": "Two-story building with post office and grocery store inside and automobiles parked in front next to gasoline pumps. Since this negative was in envelope with negative numbered 1819 and is similar in content, it was assigned number 1819a.",
   "schema:identifier": [
-    "B-1819a",
-    "ark:/13030/tf0k4001ss"
+    "ark:/13030/tf0k4001ss",
+    "B-1819a"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Stores & shops",
     "Automobiles",
@@ -53,8 +50,8 @@
   "schema:name": "Old Station, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

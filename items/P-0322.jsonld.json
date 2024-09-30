@@ -33,9 +33,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -43,12 +43,9 @@
   },
   "schema:description": "People on horseback following trail through rocky terrain in foreground with forest in middle ground and mountains in background. Lower right corner reads \"J.H. Eastman.\" #367 inscribed on negative, 152 on edge of negative, 152 (crossed out) and #367 on envelope.",
   "schema:identifier": [
-    "P-0322",
-    "ark:/13030/tf1h4n99x7"
+    "ark:/13030/tf1h4n99x7",
+    "P-0322"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Mountains",
     "Horseback riding",
@@ -65,9 +62,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "On the Trail to Mt. Lassen Cal",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

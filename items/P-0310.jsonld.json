@@ -32,9 +32,9 @@
     "@id": "@base:/P-0310.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Snow-covered landscape with cabins surrounded by trees in middle ground. Lower left corner reads \"J.H. Eastman.\" #354 inscribed on negative and 354 on envelope.",
@@ -42,9 +42,6 @@
     "ark:/13030/tf3x0nb0w2",
     "P-0310"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Cabins",
     "Forests",
@@ -57,9 +54,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Winter Scene at Lassen-View-Camp---Lake Almanor, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

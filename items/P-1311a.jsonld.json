@@ -36,9 +36,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -46,12 +46,9 @@
   },
   "schema:description": "Street in foreground with three men standing on sidewalk beside truck in middle ground and building in background. Sign on building reads \"SMITH AUTO CO.\" Sign in window reads \"New Chevrolet Lowest Priced Car In It's Field.\" Since this negative was in envelope with negative numbered P-1311 and is similar in content, it was assigned number P-1311a.",
   "schema:identifier": [
-    "P-1311a",
-    "ark:/13030/tf7g5007rp"
+    "ark:/13030/tf7g5007rp",
+    "P-1311a"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Sidewalks",
     "Clothing & dress",
@@ -70,8 +67,8 @@
   "schema:name": "20 year old Chevrolet Truck in front of Smith Auto",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

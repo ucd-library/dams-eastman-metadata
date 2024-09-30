@@ -18,9 +18,9 @@
     "@id": "@base:/B-4666.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -29,12 +29,9 @@
   },
   "schema:description": "Aerial view of town. Red tape on top edge of envelope.",
   "schema:identifier": [
-    "B-4666",
-    "ark:/13030/tf4g50054g"
+    "ark:/13030/tf4g50054g",
+    "B-4666"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": "Aerial photographs",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
@@ -42,9 +39,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Lakeview, Oregon",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

@@ -35,9 +35,9 @@
     "@id": "@base:/B-7360.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -46,12 +46,9 @@
   },
   "schema:description": "People with skis, automobiles, and bus in parking lot in front of multistory building with stone chimney, snow-covered roof, and icicles hanging from eaves. Caption on bottom of envelope reads \"Soda Springs Hotel, Soda Springs.\"",
   "schema:identifier": [
-    "B-7360",
-    "ark:/13030/tf9779p1sz"
+    "ark:/13030/tf9779p1sz",
+    "B-7360"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Icicles",
     "People",
@@ -69,8 +66,8 @@
   "schema:name": "On Highway 40 at Donner Summit, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

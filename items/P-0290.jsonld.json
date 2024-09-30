@@ -36,9 +36,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -46,12 +46,9 @@
   },
   "schema:description": "Street with commercial buildings and automobiles and large tree in front of multistory building on corner with signs reading \"Big Tree Hotel,\" \"Liberty Restaurant,\" and \"Hing Wing Cafe.\" 341 inscribed on negative and #341 on envelope.",
   "schema:identifier": [
-    "P-0290",
-    "ark:/13030/tf7f59p14t"
+    "ark:/13030/tf7f59p14t",
+    "P-0290"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Street lights",
     "Hotels",
@@ -68,8 +65,8 @@
   "schema:name": "\"The Big Tree Hotel\" Alturas, Cal",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

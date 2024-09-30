@@ -32,9 +32,9 @@
     "@id": "@base:/B-214.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Boulder, trees, and bushes in foreground overlooking lake with forest in background. Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-214",
-    "ark:/13030/tf4k400497"
+    "ark:/13030/tf4k400497",
+    "B-214"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Boulders",
     "Forests",
@@ -64,8 +61,8 @@
   "schema:name": "\"Clear Lake\" near Alturas, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

@@ -21,9 +21,9 @@
     "@id": "@base:/B-8492.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -32,12 +32,9 @@
   },
   "schema:description": "Small shack to left and animal cages to right with wooded area in background. Lettering on shack reads \"Jail House\" and sign reads \"Lakehead Louie Convicted of Claim Jumping in 1892 & Let that be a Lesson to You.\"",
   "schema:identifier": [
-    "B-8492",
-    "ark:/13030/tf9j49p295"
+    "ark:/13030/tf9j49p295",
+    "B-8492"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Cages",
     "Signs"
@@ -49,8 +46,8 @@
   "schema:name": "Wonders of Lakehead, Lakehead, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

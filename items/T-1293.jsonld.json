@@ -42,9 +42,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -52,12 +52,9 @@
   },
   "schema:description": "Man on bucking horse in foreground with people on horses and around fence in middle ground and mountains in background.",
   "schema:identifier": [
-    "T-1293",
-    "ark:/13030/tf700007vh"
+    "ark:/13030/tf700007vh",
+    "T-1293"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Clouds",
     "Sports",
@@ -75,9 +72,9 @@
   "schema:material": "1 photographic negative : b&w : 3 x 4 in.",
   "schema:name": "Lakeview Roundup",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

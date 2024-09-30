@@ -26,19 +26,16 @@
     "@id": "@base:/P-0549.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Close-up of hot springs with forest in background. Lower right corner reads \"J.H. Eastman.\" #1000 inscribed on negative, 82 on edge of negative, and #1000 on envelope.",
   "schema:identifier": [
-    "P-0549",
-    "ark:/13030/tf1w1002sj"
+    "ark:/13030/tf1w1002sj",
+    "P-0549"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Parks",
     "Forests",
@@ -52,9 +49,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "\"The Devils Kitchen\" Lassen Vol. Nat'nl Park, California",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

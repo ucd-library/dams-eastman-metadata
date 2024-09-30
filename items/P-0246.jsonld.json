@@ -26,9 +26,9 @@
     "@id": "@base:/P-0246.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Multistory brick building with clock tower on top. Lower right corner reads \"J.H. Eastman.\" #303 inscribed on negative and on envelope.",
   "schema:identifier": [
-    "P-0246",
-    "ark:/13030/tf229003s3"
+    "ark:/13030/tf229003s3",
+    "P-0246"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Government facilities",
     "Courthouses",
@@ -56,8 +53,8 @@
   "schema:name": "Courthouse, Lakeview, Ore",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

@@ -35,9 +35,9 @@
     "@id": "@base:/B-1655.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -46,12 +46,9 @@
   },
   "schema:description": "Log cabin in the forest and automobile partially visible at side of cabin. Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-1655",
-    "ark:/13030/tf6r29n9d1"
+    "ark:/13030/tf6r29n9d1",
+    "B-1655"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Log buildings",
     "Rooms & spaces",
@@ -68,8 +65,8 @@
   "schema:name": "\"Log Cabin\" at Yuba River Inn, near Sierra City, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

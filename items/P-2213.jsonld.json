@@ -31,15 +31,17 @@
   "schema:associatedMedia": {
     "@id": "@base:/P-2213.tif"
   },
-  "schema:creator": "Eastman, Jervie Henry",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:description": "Commercial street with automobiles at sides.",
   "schema:identifier": [
-    "P-2213",
-    "ark:/87293/d3wx16"
+    "ark:/87293/d3wx16",
+    "P-2213"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Stores & shops",
     "Streets",
@@ -52,6 +54,11 @@
   },
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "\"Main Street\" Cedarville, Cal.",
-  "schema:publisher": "University of California, Davis. General Library. Dept. of Special Collections",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
+  ],
   "schema:temporal": "undated"
 }

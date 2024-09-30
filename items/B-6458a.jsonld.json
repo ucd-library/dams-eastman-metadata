@@ -35,9 +35,9 @@
     "@id": "@base:/B-6458a.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -46,12 +46,9 @@
   },
   "schema:description": "Multistory building with signs reading \"Yreka Motel\" and \"Yreka Trailer Park.\" Since this negative was in envelope with negative numbered B-6458 and is similar in content, it was assigned number B-6458a.",
   "schema:identifier": [
-    "B-6458a",
-    "ark:/13030/tf3x0nb1hv"
+    "ark:/13030/tf3x0nb1hv",
+    "B-6458a"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Tourist camps & hostels",
     "Trailer camps",
@@ -68,8 +65,8 @@
   "schema:name": "At Yreka, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

@@ -29,9 +29,9 @@
     "@id": "@base:/B-8063.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -40,12 +40,9 @@
   },
   "schema:description": "Highway in foreground with town in middle ground and mountains in background.",
   "schema:identifier": [
-    "B-8063",
-    "ark:/13030/tf1d5n99t1"
+    "ark:/13030/tf1d5n99t1",
+    "B-8063"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Stores & shops",
     "Roads",
@@ -61,8 +58,8 @@
   "schema:name": "Lakehead, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

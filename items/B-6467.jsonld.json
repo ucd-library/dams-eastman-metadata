@@ -38,9 +38,9 @@
     "@id": "@base:/B-6467.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "House made from huge tree stump with sign reading \"The STUMP HOUSE Manufacturers of Redwood Burl and Myrtlewood Gifts Wholesale - Retail.\"",
@@ -48,9 +48,6 @@
     "ark:/13030/tf1f59n6p6",
     "B-6467"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Shrubs",
     "Stores & shops",
@@ -65,9 +62,9 @@
   "schema:name": "The Stump House, Eureka, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

@@ -32,9 +32,9 @@
     "@id": "@base:/P-2226.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Fence in foreground with open land in middle ground and trees and snowcapped mountains in background. 6 of 11 negatives.",
@@ -42,9 +42,6 @@
     "ark:/13030/tf1v19n7d5",
     "P-2226"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Fences",
     "Snow",
@@ -57,9 +54,9 @@
   "schema:material": "1 photographic negative : b&w : 3 x 4 in.",
   "schema:name": "Diamond Lake",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

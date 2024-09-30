@@ -29,19 +29,16 @@
     "@id": "@base:/G-1482.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Upper torsos of three women with two women behind. Negative is broken into three pieces.",
   "schema:identifier": [
-    "G-1482",
-    "ark:/13030/tf3s2004sg"
+    "ark:/13030/tf3s2004sg",
+    "G-1482"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Jewelry",
     "Clothing & dress",
@@ -55,9 +52,9 @@
   "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
   "schema:name": "[Untitled]",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

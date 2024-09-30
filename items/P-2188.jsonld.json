@@ -42,9 +42,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -52,12 +52,9 @@
   },
   "schema:description": "Two images side by side. Top image is of people on horse back in foreground with mountains in background. Bottom image is of man tying calf. 6 of 16 negatives.",
   "schema:identifier": [
-    "P-2188",
-    "ark:/13030/tf9z09p2wk"
+    "ark:/13030/tf9z09p2wk",
+    "P-2188"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Horseback riding",
     "Rodeos",
@@ -76,8 +73,8 @@
   "schema:name": "Rodeo Shots",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

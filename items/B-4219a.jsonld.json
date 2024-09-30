@@ -29,9 +29,9 @@
     "@id": "@base:/B-4219a.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -40,12 +40,9 @@
   },
   "schema:description": "Statue on rock monument with trees in background. Since this negative was in envelope with negative numbered B-4219 and is similar in content, it was assigned number B-4219a.",
   "schema:identifier": [
-    "B-4219a",
-    "ark:/13030/tf5n39n8v9"
+    "ark:/13030/tf5n39n8v9",
+    "B-4219a"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Art",
     "Sculpture",
@@ -60,9 +57,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "The Donner Monument, California",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

@@ -26,9 +26,9 @@
     "@id": "@base:/B-347.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Snow-covered sidewalk with snowbanks in foreground and building on the left with sign reading \"Dinty Moore's Fishing - Tackle.\" Lower right corner reads \"J.H. Eastman.\" Red tape on top edge of envelope.",
   "schema:identifier": [
-    "B-347",
-    "ark:/13030/tf800006pr"
+    "ark:/13030/tf800006pr",
+    "B-347"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Snow",
     "Signs",
@@ -54,9 +51,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "\"The Sidewalks\" of Chester, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

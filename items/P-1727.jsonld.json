@@ -21,19 +21,16 @@
     "@id": "@base:/P-1727.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Stone building complex with tile roofs and sign reading \"Sorenson's\" on front. \"Eat & Drink\" sign over gasoline pumps, and other signs reading \"Tavern\" and \"Cafe Cabins\" in front. See also B-902 and B-905.",
   "schema:identifier": [
-    "P-1727",
-    "ark:/13030/tf6f59p10f"
+    "ark:/13030/tf6f59p10f",
+    "P-1727"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Signs",
     "Gasoline pumps",
@@ -46,9 +43,9 @@
   "schema:name": "[Untitled]",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

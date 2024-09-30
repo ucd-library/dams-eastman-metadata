@@ -37,15 +37,17 @@
   "schema:associatedMedia": {
     "@id": "@base:/G-1156.tif"
   },
-  "schema:creator": "Riesen, John D",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:description": "Group of men holding dead ducks standing in front of multistory brick building with sign on front reading \"Hotel Niles.\" Lower right corner reads \"Riesen Photo\".",
   "schema:identifier": [
-    "G-1156",
-    "ark:/13030/tf3d5nb0dj"
+    "ark:/13030/tf3d5nb0dj",
+    "G-1156"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Signs",
@@ -62,9 +64,9 @@
   "schema:name": "Annual-Duck-Hunt-Of-The-Alturas-Cal-Gun-Club",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

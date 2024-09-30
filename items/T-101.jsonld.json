@@ -32,9 +32,9 @@
     "@id": "@base:/T-101.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Photograph of a photograph of wildflowers in foreground with lake in middle ground and mountains in background.",
   "schema:identifier": [
-    "T-101",
-    "ark:/13030/tf4s20060v"
+    "ark:/13030/tf4s20060v",
+    "T-101"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Flowers",
     "Clouds",
@@ -63,8 +60,8 @@
   "schema:name": "Goose Lake, near Lakeview, Oregon",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

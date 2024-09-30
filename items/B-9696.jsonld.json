@@ -29,9 +29,9 @@
     "@id": "@base:/B-9696.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -40,12 +40,9 @@
   },
   "schema:description": "Automobiles, gasoline pump, and sign reading \"76\" at edge of lake in foreground with buildings and trees in background.",
   "schema:identifier": [
-    "B-9696",
-    "ark:/13030/tf7b69p11m"
+    "ark:/13030/tf7b69p11m",
+    "B-9696"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Automobiles",
     "Gasoline pumps",
@@ -60,8 +57,8 @@
   "schema:name": "Bratton's Resort, Lake Almanor, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

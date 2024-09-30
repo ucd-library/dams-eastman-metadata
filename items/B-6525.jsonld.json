@@ -35,9 +35,9 @@
     "@id": "@base:/B-6525.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -46,12 +46,9 @@
   },
   "schema:description": "Snow-covered street with fire station, post office, and building with many diverse signs attached to front and gasoline pump near entrance.",
   "schema:identifier": [
-    "B-6525",
-    "ark:/13030/tf2s20048d"
+    "ark:/13030/tf2s20048d",
+    "B-6525"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Government facilities",
     "Towers",
@@ -72,9 +69,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Johnsville General Store, Johnsville, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

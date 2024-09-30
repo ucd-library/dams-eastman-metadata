@@ -29,9 +29,9 @@
     "@id": "@base:/B-8149.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -40,12 +40,9 @@
   },
   "schema:description": "Road in foreground with automobiles parked in front of two-story log building in middle ground and forest in background. Sign in front of building reads \"Donner Lake TRADING POST DONUT SHOP Souvenirs grocery - picnic supplies.\"",
   "schema:identifier": [
-    "B-8149",
-    "ark:/13030/tf2j49n7x8"
+    "ark:/13030/tf2j49n7x8",
+    "B-8149"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Forests",
     "Tourist trade",
@@ -62,8 +59,8 @@
   "schema:name": "At Donner Lake, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

@@ -45,9 +45,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -55,12 +55,9 @@
   },
   "schema:description": "Man standing next to outdoor furniture with fence, bushes and trees in foreground, meadow in middle ground, and mountains in background. Title on postcard reads \"McKenzie Guest Ranch, Clio, Calif.\"",
   "schema:identifier": [
-    "B-9216",
-    "ark:/13030/tf0c60025n"
+    "ark:/13030/tf0c60025n",
+    "B-9216"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Mountains",
     "Men",
@@ -80,9 +77,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Mohawk Valley Guest Ranch, Clio, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

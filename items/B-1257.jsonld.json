@@ -38,9 +38,9 @@
     "@id": "@base:/B-1257.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -49,12 +49,9 @@
   },
   "schema:description": "Lodge and cabins with flag of the United States flying from pole. Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-1257",
-    "ark:/13030/tf9k4007z2"
+    "ark:/13030/tf9k4007z2",
+    "B-1257"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Sports & recreation facilities",
     "Flagpoles",
@@ -70,8 +67,8 @@
   "schema:name": "Buck's Lake Lodge, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

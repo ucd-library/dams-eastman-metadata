@@ -35,19 +35,16 @@
     "@id": "@base:/G-162.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Three women in uniforms with one holding basketball sitting on bench with four women in uniforms standing behind.",
   "schema:identifier": [
-    "G-162",
-    "ark:/13030/tf8v19p158"
+    "ark:/13030/tf8v19p158",
+    "G-162"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Basketball",
     "Basketball players",
@@ -63,9 +60,9 @@
   "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
   "schema:name": "[Untitled]",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

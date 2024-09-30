@@ -38,9 +38,9 @@
     "@id": "@base:/B-1042.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -49,12 +49,9 @@
   },
   "schema:description": "Bushes and trees in foreground overlooking valley with clouds overhead and mountains in background. \"J.H. Eastman\" inscribed on postcard.",
   "schema:identifier": [
-    "B-1042",
-    "ark:/13030/tf567nb1db"
+    "ark:/13030/tf567nb1db",
+    "B-1042"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Mountains",
     "Shrubs",
@@ -70,8 +67,8 @@
   "schema:name": "Honey Lake Valley from Thompson Peak, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

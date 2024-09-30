@@ -39,18 +39,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "People walking beside line of parked automobiles along snowcovered road with high snowbanks on both sides, skiers to left and forest and mountains in background. Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "L-3",
-    "ark:/13030/tf5h4nb2w1"
+    "ark:/13030/tf5h4nb2w1",
+    "L-3"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "National parks & reserves",
     "Snow",
@@ -69,9 +66,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Winter Sports in Lassen Park Near Mineral, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

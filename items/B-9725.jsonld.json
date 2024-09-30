@@ -32,19 +32,16 @@
     "@id": "@base:/B-9725.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Barroom with stools at bar and gun and animal head on wall.",
   "schema:identifier": [
-    "B-9725",
-    "ark:/13030/tf4w1005nv"
+    "ark:/13030/tf4w1005nv",
+    "B-9725"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Arms & armament",
     "Interiors",
@@ -60,9 +57,9 @@
   "schema:material": "1 photographic negative : b&w : 4 x 5 in.",
   "schema:name": "The Cedar Room P.O. Box 841 Chester, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

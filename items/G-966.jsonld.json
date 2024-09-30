@@ -29,19 +29,16 @@
     "@id": "@base:/G-966.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is woman sitting in chair with child in lap and two children standing behind her. Second image is child sitting on fur-covered chair. Two images (4 x 6.5 in.) side by side. Numbers on negative are 247 and 248.",
   "schema:identifier": [
-    "G-966",
-    "ark:/13030/tf5n39n8pq"
+    "ark:/13030/tf5n39n8pq",
+    "G-966"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Families",
     "Children",
@@ -56,9 +53,9 @@
   "schema:name": "Mrs. Wade; Miss Baker",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

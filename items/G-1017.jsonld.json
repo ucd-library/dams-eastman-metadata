@@ -26,19 +26,16 @@
     "@id": "@base:/G-1017.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is young woman sitting in chair on carpeted floor with small girl standing next to her. Second image is same woman standing next to chair on carpeted floor. Two images (4.25 x x 6.5 in.) side by side. Number on negative is 469.",
   "schema:identifier": [
-    "G-1017",
-    "ark:/13030/tf7z09p0c7"
+    "ark:/13030/tf7z09p0c7",
+    "G-1017"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Women",
     "Children",
@@ -53,9 +50,9 @@
   "schema:name": "[Untitled]",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

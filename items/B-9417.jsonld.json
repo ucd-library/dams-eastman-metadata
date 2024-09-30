@@ -26,9 +26,9 @@
     "@id": "@base:/B-9417.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Boats on shore and at landing in foreground with lake in middle ground and mountains in background.",
   "schema:identifier": [
-    "B-9417",
-    "ark:/13030/tf2b69n700"
+    "ark:/13030/tf2b69n700",
+    "B-9417"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Lakes & ponds",
     "Mountains",
@@ -56,8 +53,8 @@
   "schema:name": "Chester Boat Landing, Lake Almanor, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

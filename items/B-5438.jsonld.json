@@ -26,9 +26,9 @@
     "@id": "@base:/B-5438.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Two men on bank in foreground overlooking lake with people in boat on lake in middle ground and forest and mountain in background.",
   "schema:identifier": [
-    "B-5438",
-    "ark:/13030/tf5x0nb2mh"
+    "ark:/13030/tf5x0nb2mh",
+    "B-5438"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Boats",
@@ -57,8 +54,8 @@
   "schema:name": "\"At Grass Lake\" near Johnsville, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

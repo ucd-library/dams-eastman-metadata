@@ -32,9 +32,9 @@
     "@id": "@base:/B-1572.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Multistory stone building with sign reading \"Arrow Head Hotel,\" fire escape on right side, man on sidewalk, and automobiles parked at curb. Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-1572",
-    "ark:/13030/tf358003n0"
+    "ark:/13030/tf358003n0",
+    "B-1572"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Automobiles",
     "People",
@@ -65,9 +62,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "\"Arrow-Head Hotel\" at Burns, Oregon",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

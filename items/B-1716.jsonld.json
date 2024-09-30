@@ -42,9 +42,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -52,12 +52,9 @@
   },
   "schema:description": "Two-story building with sign reading \"St. Bernard Lodge,\" two flags attached to roof, gasoline pumps out front, automobile parked on the left, large tree in foreground, forest and mountains in background. \"J.H. Eastman\" inscribed on postcard.",
   "schema:identifier": [
-    "B-1716",
-    "ark:/13030/tf038n98kn"
+    "ark:/13030/tf038n98kn",
+    "B-1716"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Forests",
     "Automobiles",
@@ -76,9 +73,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "St. Bernard Lodge, P.O. Mill Creek, California",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

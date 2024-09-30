@@ -32,9 +32,9 @@
     "@id": "@base:/B-7940.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Lake in foreground with boats, tents, buildings and forest on shore in middle ground and mountains in background.",
   "schema:identifier": [
-    "B-7940",
-    "ark:/13030/tf8w1008cd"
+    "ark:/13030/tf8w1008cd",
+    "B-7940"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Boats",
     "Shelters",
@@ -65,8 +62,8 @@
   "schema:name": "Lakeshore Resort, Bucks Lake, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

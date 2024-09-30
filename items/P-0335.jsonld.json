@@ -29,19 +29,16 @@
     "@id": "@base:/P-0335.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Two-story building with street, trees, and hedge in front and lightning rod on roof. 378 inscribed on original envelope and #378 on additional envelope.",
   "schema:identifier": [
-    "P-0335",
-    "ark:/13030/tf7z09p075"
+    "ark:/13030/tf7z09p075",
+    "P-0335"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Plants",
     "Hedges (Plants)",
@@ -56,9 +53,9 @@
   "schema:name": "Riverside Hospital",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

@@ -29,9 +29,9 @@
     "@id": "@base:/B-3041.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -40,12 +40,9 @@
   },
   "schema:description": "Photograph of a photograph of street with commercial buildings, horses and wagons on the right side, and two wagons in left foreground. This negative nearly identical to that numbered B-3023. Original envelope and negative enclosed in gray envelope. Red F written on top edge of original envelope.",
   "schema:identifier": [
-    "B-3041",
-    "ark:/13030/tf3f59n79m"
+    "ark:/13030/tf3f59n79m",
+    "B-3041"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Horses",
     "Stores & shops",
@@ -59,9 +56,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Main Street, Susanville, Calif., in early days",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

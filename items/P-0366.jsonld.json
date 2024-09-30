@@ -29,9 +29,9 @@
     "@id": "@base:/P-0366.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -40,12 +40,9 @@
   },
   "schema:description": "Rocks and trees on mountainside overlooking lake with forest and mountains in background. #413 inscribed on negative and on envelope.",
   "schema:identifier": [
-    "P-0366",
-    "ark:/13030/tf8000070w"
+    "ark:/13030/tf8000070w",
+    "P-0366"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Forests",
     "Lakes & ponds",
@@ -60,8 +57,8 @@
   "schema:name": "\"Lake Almanor\" North End Near Chester, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

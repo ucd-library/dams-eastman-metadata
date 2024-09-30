@@ -27,18 +27,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Balcony in foreground overlooking parade in street below with decorated buggies and wagons and people with mountains and forest in background.",
   "schema:identifier": [
-    "G-1146",
-    "ark:/13030/tf6199n8vp"
+    "ark:/13030/tf6199n8vp",
+    "G-1146"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Animals",
     "Horses",
@@ -53,9 +50,9 @@
   "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
   "schema:name": "The Town Square. Etna Mills. Neighbor to Sawyers...[Bar]",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

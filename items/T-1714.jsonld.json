@@ -41,9 +41,9 @@
     "@id": "@base:/T-1714.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -52,12 +52,9 @@
   },
   "schema:description": "Rodeo grounds with many horses and riders with forest and mountains in background. T-1714 to 1715 written on envelope.",
   "schema:identifier": [
-    "T-1714",
-    "ark:/13030/tf7x0nb3n4"
+    "ark:/13030/tf7x0nb3n4",
+    "T-1714"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Forests",
@@ -75,9 +72,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Susanville Fair & Rodeo",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

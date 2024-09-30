@@ -26,9 +26,9 @@
     "@id": "@base:/B-266-C.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Close-up of man standing in front of petrified tree stumps. Since this negative was in envelope with negatives numbered B-266-A and B-266-B and is similar in content, it was assigned number B-266-C. Red tape on top edge of envelope. \"J.H. Eastman\" inscribed on postcard.",
   "schema:identifier": [
-    "B-266-C",
-    "ark:/13030/tf6199n8z7"
+    "ark:/13030/tf6199n8z7",
+    "B-266-C"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Men",
     "Shrubs",
@@ -56,9 +53,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "\"Petrified trees\" near Cedarville & Alturas, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

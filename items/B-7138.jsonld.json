@@ -38,9 +38,9 @@
     "@id": "@base:/B-7138.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -49,12 +49,9 @@
   },
   "schema:description": "Building complex with \"FORT BRAGG UNION HIGH SCHOOL\" in large letters over entrance and flagpole in front. Caption on cellophane reads \"High School at Ft. Bragg, Calif.\"",
   "schema:identifier": [
-    "B-7138",
-    "ark:/13030/tf6489n9b2"
+    "ark:/13030/tf6489n9b2",
+    "B-7138"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Trees",
     "Schools",
@@ -71,8 +68,8 @@
   "schema:name": "Ft. Bragg Union High, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

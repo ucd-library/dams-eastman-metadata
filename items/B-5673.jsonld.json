@@ -38,9 +38,9 @@
     "@id": "@base:/B-5673.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -49,12 +49,9 @@
   },
   "schema:description": "Photograph of a photograph of fence around grave with tree and bushes in background and poem printed on lower half of photograph reading \"Julie Boulette Where winter snow and summer rain Beat against this wooden frame Lies one whom God shall not forget, Though marked with galls of sin and shame She soothed the stricken miner's pain, And men remember nurse Burlette. Carol Beckman.\"",
   "schema:identifier": [
-    "B-5673",
-    "ark:/13030/tf9z09p1t2"
+    "ark:/13030/tf9z09p1t2",
+    "B-5673"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Shrubs",
     "Plants",
@@ -71,8 +68,8 @@
   "schema:name": "Julie Boulette",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

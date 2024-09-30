@@ -26,9 +26,9 @@
     "@id": "@base:/P-1824.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Shoes in front window display of store. Lettering on door of business reads \"Lew's Shoe Store.\" See also P-1818.",
   "schema:identifier": [
-    "P-1824",
-    "ark:/13030/tf867nb563"
+    "ark:/13030/tf867nb563",
+    "P-1824"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Window displays",
     "Footwear",
@@ -56,8 +53,8 @@
   "schema:name": "Lew's Shoe Store",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

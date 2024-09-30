@@ -27,9 +27,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -37,12 +37,9 @@
   },
   "schema:description": "Merchandise around wall and on center display island inside store with two people standing near sign hanging from ceiling in center which reads \"toilet goods.\" Lower left corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "P-1811",
-    "ark:/13030/tf6k400778"
+    "ark:/13030/tf6k400778",
+    "P-1811"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Light fixtures",
     "People",
@@ -59,8 +56,8 @@
   "schema:name": "Beal's 5, 10, & 15c Store",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

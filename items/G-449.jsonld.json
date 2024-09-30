@@ -21,19 +21,16 @@
     "@id": "@base:/G-449.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is infant in dress sitting in fur-covered chair. Second image is same child in dress, leggings, and cap sitting in fur-covered chair. Two images (3.5 x 5 in.) side by side. Number on negative is 5233.",
   "schema:identifier": [
-    "G-449",
-    "ark:/13030/tf800006tt"
+    "ark:/13030/tf800006tt",
+    "G-449"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Hides & skins",
     "Children's clothing & dress",
@@ -46,9 +43,9 @@
   "schema:name": "[Untitled]",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

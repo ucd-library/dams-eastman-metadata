@@ -32,9 +32,9 @@
     "@id": "@base:/B-7251.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Photograph of a photograph of people on horseback and leading pack horses on trail leading to gate with sign reading \"Roxbury Lodge Pack Station\" with bushes and trees on mountainside in background. \"Same as C-1817\" inscribed on envelope. Transparency included.",
   "schema:identifier": [
-    "B-7251",
-    "ark:/13030/tf887007v7"
+    "ark:/13030/tf887007v7",
+    "B-7251"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Horseback riding",
     "People",
@@ -66,8 +63,8 @@
   "schema:name": "Pack Train Returning from Marble Mt. Primitive Area, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

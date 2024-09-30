@@ -32,9 +32,9 @@
     "@id": "@base:/T-1640.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Group of young women posed with pennants reading \"Grass Valley\" and \"Nevada City\" in foreground with automobiles in middle ground and mountain in background. 1 of 2 negatives.",
   "schema:identifier": [
-    "T-1640",
-    "ark:/13030/tf687007cc"
+    "ark:/13030/tf687007cc",
+    "T-1640"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Women",
     "Mountains",
@@ -63,9 +60,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Nevada City - Grass Valley Girls Group",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

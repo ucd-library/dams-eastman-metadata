@@ -22,9 +22,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -32,12 +32,9 @@
   },
   "schema:description": "Trees in foreground, lake in middle ground, and trees in background. #981 inscribed on negative and on envelope.",
   "schema:identifier": [
-    "P-0536",
-    "ark:/13030/tf4q2nb2kc"
+    "ark:/13030/tf4q2nb2kc",
+    "P-0536"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Forests",
     "Trees",
@@ -50,8 +47,8 @@
   "schema:name": "\"Clear Lake\" Modoc County, Cal. Some Good Place to Fish",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

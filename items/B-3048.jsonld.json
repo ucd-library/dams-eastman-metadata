@@ -32,9 +32,9 @@
     "@id": "@base:/B-3048.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Three formations of geese in flight with clouds above. Lower left corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-3048",
-    "ark:/13030/tf767nb3j0"
+    "ark:/13030/tf767nb3j0",
+    "B-3048"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Geese",
     "Animals",
@@ -62,8 +59,8 @@
   "schema:name": "Geese on the Way to the Feeding Grounds",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

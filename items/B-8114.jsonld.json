@@ -41,9 +41,9 @@
     "@id": "@base:/B-8114.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -52,12 +52,9 @@
   },
   "schema:description": "Road in foreground with automobiles in front of small business buildings in middle ground and mountains in background. Sign on building to left reads \"Tire Repairing GARAGE Radiator Cleaning.\" \"Elev. 4466 Siskiyou Summit COFFEE SHOP\" painted on wall of building to right. Sign on building roof reads \"CAFE - GAS Towing Service.\"",
   "schema:identifier": [
-    "B-8114",
-    "ark:/13030/tf4b69n8hv"
+    "ark:/13030/tf4b69n8hv",
+    "B-8114"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Mountains",
     "Automobile service stations",
@@ -77,9 +74,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Siskiyou Summit Coffee Shop, Ashland, Oregon",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

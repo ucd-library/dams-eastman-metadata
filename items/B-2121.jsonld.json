@@ -30,9 +30,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -40,12 +40,9 @@
   },
   "schema:description": "Auto courts near Davis, California, intersection of Lincoln Highway and Highway 99, now Russell Boulevard and Highway 113 - at the \"Y\"; lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-2121",
-    "ark:/13030/tf3g5003fv"
+    "ark:/13030/tf3g5003fv",
+    "B-2121"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Trees",
     "Motels",
@@ -58,8 +55,8 @@
   "schema:name": "Auto Courts near Davis, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

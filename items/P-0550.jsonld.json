@@ -26,19 +26,16 @@
     "@id": "@base:/P-0550.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Close-up of hot springs with forest in background. Lower right corner reads \"J.H. Eastman.\" #1016 inscribed on negative, 4 on edge of negative, and #1016 on envelope.",
   "schema:identifier": [
-    "P-0550",
-    "ark:/13030/tf5f59n8x1"
+    "ark:/13030/tf5f59n8x1",
+    "P-0550"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Springs",
     "Forests",
@@ -53,9 +50,9 @@
   "schema:name": "\"Boiling Cauldrons in the Devils Kitchen\" Lassen Volcanic National Park, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

@@ -27,9 +27,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -37,12 +37,9 @@
   },
   "schema:description": "Two images side by side. Top image is of fence-enclosed arena. Bottom image is of people standing in grandstand. 9 of 16 negatives.",
   "schema:identifier": [
-    "P-2191",
-    "ark:/13030/tf3z09n927"
+    "ark:/13030/tf3z09n927",
+    "P-2191"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Fences",
     "Sports & recreation facilities",
@@ -56,8 +53,8 @@
   "schema:name": "Rodeo Shots",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

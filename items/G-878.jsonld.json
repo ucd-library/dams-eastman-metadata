@@ -21,9 +21,9 @@
     "@id": "@base:/G-878.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is upper torsos of two women (both possibly Native Americans). Second image is of same two women with one sitting in chair and other standing behind. Two images (3.5 x 5 in.) side by side. Number on negative is 327.",
@@ -31,9 +31,6 @@
     "ark:/13030/tf4j49n8n7",
     "G-878"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Clothing & dress",
     "Indians of North America",
@@ -47,9 +44,9 @@
   "schema:name": "[Untitled]",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

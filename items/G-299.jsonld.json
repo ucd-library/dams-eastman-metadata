@@ -30,18 +30,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Woman in dress standing with man in suit behind chair. Number on negative is 165.",
   "schema:identifier": [
-    "G-299",
-    "ark:/13030/tf238n99fp"
+    "ark:/13030/tf238n99fp",
+    "G-299"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Men",
     "Jewelry",
@@ -55,9 +52,9 @@
   "schema:material": "1 glass photonegative : b&w : 5 x 7 in.",
   "schema:name": "[Untitled]",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

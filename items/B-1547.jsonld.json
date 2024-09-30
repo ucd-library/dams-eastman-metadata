@@ -26,9 +26,9 @@
     "@id": "@base:/B-1547.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Building with \"KLAMATH FALLS BRANCH UNITED STATES NATIONAL BANK of PORTLAND\" over the entrance, pedestrians on the sidewalk, two automobiles in the street, and a woman in right foreground. Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-1547",
-    "ark:/13030/tf7779n9w9"
+    "ark:/13030/tf7779n9w9",
+    "B-1547"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Women",
     "Banks",
@@ -56,8 +53,8 @@
   "schema:name": "At Klamath Falls, Ore",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

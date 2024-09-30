@@ -26,9 +26,9 @@
     "@id": "@base:/B-7945.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Boulders in foreground with lake in middle ground and forested mountains in background. Caption on postcard reads \"Bucks Lake Lakes Basin Recreational Area, Calif.\"",
   "schema:identifier": [
-    "B-7945",
-    "ark:/13030/tf7m3nb40t"
+    "ark:/13030/tf7m3nb40t",
+    "B-7945"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Boulders",
     "Forests",
@@ -56,8 +53,8 @@
   "schema:name": "Bucks Lake",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

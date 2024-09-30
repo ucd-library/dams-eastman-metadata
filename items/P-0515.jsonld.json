@@ -22,18 +22,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Two-story building with \"VETERANS MEMORIAL\" in large letters over entrance, flagpole on roof, automobile partially visible in left foreground, and two automobiles parked on the right. #953 inscribed on negative, 211 on edge of negative, 211 (crossed out) and 953 on envelope.",
   "schema:identifier": [
     "ark:/13030/tf909nb495",
     "P-0515"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Organizations' facilities",
     "Social & civic facilities",
@@ -45,9 +42,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "American Legion Memorial Building Thomas Tucker Post No. 204 Susanville, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

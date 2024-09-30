@@ -31,15 +31,17 @@
   "schema:associatedMedia": {
     "@id": "@base:/G-184.tif"
   },
-  "schema:creator": "Thompson, Peter Julian \"Jack",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:description": "Brochure tacked to board showing photograph of Mt. Lassen erupting and other information about Drakesbad. Title on image in brochure reads \"No.24x Mount Lassen in Eruption Copyright 1914 by P.J. Thompson Susanville Cal.\"",
   "schema:identifier": [
     "ark:/13030/tf3c6003wx",
     "G-184"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Leaflets",
     "Resorts",
@@ -53,9 +55,9 @@
   "schema:name": "[Untitled]",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

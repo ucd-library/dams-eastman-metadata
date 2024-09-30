@@ -39,9 +39,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -49,12 +49,9 @@
   },
   "schema:description": "Waterwheel with waterfall and trees in background and stream in foreground. Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-1676",
-    "ark:/13030/tf8g500714"
+    "ark:/13030/tf8g500714",
+    "B-1676"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Machinery",
     "Waterfalls",
@@ -70,8 +67,8 @@
   "schema:name": "\"Water Wheel, and \"Gray Eagle Falls,\" at Gray Eagle Lodge, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

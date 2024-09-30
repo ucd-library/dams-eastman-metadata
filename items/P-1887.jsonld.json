@@ -36,9 +36,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -46,12 +46,9 @@
   },
   "schema:description": "Street in foreground with three-story building surrounded by parked automobiles. Signs on roof reads \"Hotel Mt. Lassen.\"",
   "schema:identifier": [
-    "P-1887",
-    "ark:/13030/tf8b69p1s9"
+    "ark:/13030/tf8b69p1s9",
+    "P-1887"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Awnings",
     "Signs",
@@ -65,9 +62,9 @@
   "schema:material": "1 photographic negative : b&w : 8 x 10 in.",
   "schema:name": "Mt. Lassen Hotel",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

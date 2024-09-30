@@ -27,9 +27,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -37,12 +37,9 @@
   },
   "schema:description": "Plaque on stone monument reads \"THIS GALLOWS ERECTED 1857 LAST EXECUTION HERE ON FRIDAY NOVEMBER 27 1885 BY SHERIFF SAM STEWART THIS MARKER PLACED MAY 17 1933 BY NAOMI PARLOR NO 36 NATIVE DAUGHTERS OF THE GOLDEN WEST.\"",
   "schema:identifier": [
-    "B-5565",
-    "ark:/13030/tf7199n9w0"
+    "ark:/13030/tf7199n9w0",
+    "B-5565"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Signs",
     "Gallows",
@@ -55,9 +52,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "At Downieville, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

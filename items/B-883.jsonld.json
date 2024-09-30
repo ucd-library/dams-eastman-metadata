@@ -36,9 +36,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -46,12 +46,9 @@
   },
   "schema:description": "Two multistory buildings with flagpole and \"HALL OF RECORDS\" in large letters on top of building on the left, clock on dome of building on the right with several men walking toward entrance. Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-883",
-    "ark:/13030/tf3x0nb0qg"
+    "ark:/13030/tf3x0nb0qg",
+    "B-883"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Trees",
     "Government facilities",
@@ -69,9 +66,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "\"Shasta County Court House,\" Redding, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

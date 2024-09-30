@@ -36,18 +36,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Photograph of a photograph of sawmill interior with man making measurement and another operating saw. 303 inscribed on edge of negative, 303 and #383 on envelope. Original envelope and negative enclosed in gray envelope.",
   "schema:identifier": [
     "ark:/13030/tf029001vj",
     "P-0247"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Mills",
     "Laborers",
@@ -66,9 +63,9 @@
   "schema:name": "One of the Logs for Veneer Panels",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

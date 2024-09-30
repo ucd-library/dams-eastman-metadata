@@ -29,19 +29,16 @@
     "@id": "@base:/P-0107.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Road and trees in foreground overlooking lake with forest and mountains in background. No. 109 inscribed on negative and 109 on envelope.",
   "schema:identifier": [
-    "P-0107",
-    "ark:/13030/tf2779n6d2"
+    "ark:/13030/tf2779n6d2",
+    "P-0107"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Mountains",
     "Roads",
@@ -56,9 +53,9 @@
   "schema:name": "Goose Lake from Fandango Summit",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

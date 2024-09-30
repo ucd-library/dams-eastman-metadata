@@ -32,9 +32,9 @@
     "@id": "@base:/B-8405.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Jeep parked in front of log building with forest on mountains in background. Sign on building reads \"Fire Mountain LODGE cabins - meals.\"",
   "schema:identifier": [
-    "B-8405",
-    "ark:/13030/tf3n39n85b"
+    "ark:/13030/tf3n39n85b",
+    "B-8405"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Forests",
     "Log buildings",
@@ -67,8 +64,8 @@
   "schema:name": "Fire Mountain Lodge, Mill Creek, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

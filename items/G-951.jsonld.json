@@ -20,7 +20,12 @@
   "schema:associatedMedia": {
     "@id": "@base:/G-951.tif"
   },
-  "schema:creator": "Riesen, John D",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1912"
@@ -30,9 +35,6 @@
     "ark:/13030/tf3g5003tj",
     "G-951"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Carriages & coaches",
@@ -45,9 +47,9 @@
   "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
   "schema:name": "Lakeview at Alturas June 16-'12",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

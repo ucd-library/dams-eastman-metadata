@@ -33,18 +33,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Men cutting down trees in forest. \"R.R.L. Co.\" inscribed on negative. #453 inscribed on negative, 293 on edge of negative, and 453 on envelope.",
   "schema:identifier": [
-    "P-0415",
-    "ark:/13030/tf0779n6bd"
+    "ark:/13030/tf0779n6bd",
+    "P-0415"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Lumber industry",
     "Forests",
@@ -60,9 +57,9 @@
   "schema:name": "\"Falling Sugar Pines\" Westwood, Cal",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

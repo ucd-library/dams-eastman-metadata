@@ -30,18 +30,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Street with commercial buildings, automobiles, and sign reading \"VULCANIZING Tube & Tire Repairing New & Used Tires\" in foreground. #77 inscribed on negative and on envelope, 46 on edge of negative. Original envelope and negative enclosed in gray envelope.",
   "schema:identifier": [
     "ark:/13030/tf8b69p0r9",
     "P-0085"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Signs",
     "Streets",
@@ -55,9 +52,9 @@
   "schema:name": "Chester, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

@@ -32,19 +32,16 @@
     "@id": "@base:/P-0141.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Trees in foreground, automobile parked by gasoline pumps with sign reading \"Standard Oil Products\" and two-story building with sign reading \"Post Office ....\" in middle ground, and trees and mountain in background. 154 inscribed on envelope.",
   "schema:identifier": [
-    "P-0141",
-    "ark:/13030/tf287004b5"
+    "ark:/13030/tf287004b5",
+    "P-0141"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Government facilities",
     "Gasoline pumps",
@@ -61,9 +58,9 @@
   "schema:name": "\"Wonderland\" Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

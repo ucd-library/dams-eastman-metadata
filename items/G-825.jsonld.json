@@ -25,19 +25,21 @@
   "schema:associatedMedia": {
     "@id": "@base:/G-825.tif"
   },
-  "schema:creator": "Riesen, John D",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1914"
   },
   "schema:description": "Damaged building with safe in front and parts of brick building in background. Lower right corner reads \"Riesen-Photo.\"",
   "schema:identifier": [
-    "G-825",
-    "ark:/13030/tf9j49p1cq"
+    "ark:/13030/tf9j49p1cq",
+    "G-825"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Safes",
     "Disasters"
@@ -48,9 +50,9 @@
   "schema:material": "1 glass photonegative : b&w : 5 x 7 in.",
   "schema:name": "\"Alturas-Garage\" On-The-First-Of-Dec.,'14",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

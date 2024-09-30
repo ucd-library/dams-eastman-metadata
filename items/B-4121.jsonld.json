@@ -38,9 +38,9 @@
     "@id": "@base:/B-4121.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -49,12 +49,9 @@
   },
   "schema:description": "Multistory building with sign reading \"MERCY HOSPITAL\" over entrance, automobiles and pickup truck parked at curb, and a chair beside sign reading \"Antiques\" across the street on the left.",
   "schema:identifier": [
-    "B-4121",
-    "ark:/13030/tf7h4nb3p1"
+    "ark:/13030/tf7h4nb3p1",
+    "B-4121"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Trees",
     "Signs",
@@ -70,9 +67,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "At Red Bluff, California",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

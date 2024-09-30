@@ -27,18 +27,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Community buildings in foreground with mill complex in middle ground and mountains in background. Lower left corner reads \"J.H. Eastman.\" 3 of 5 negatives.",
   "schema:identifier": [
-    "F-3",
-    "ark:/13030/tf396nb1jf"
+    "ark:/13030/tf396nb1jf",
+    "F-3"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Mills",
     "Lumber industry",
@@ -50,9 +47,9 @@
   "schema:material": "1 photographic negative : b&w : 7 x 11 in.",
   "schema:name": "FGS Mill Lassen Supply Co. Lumber Mill",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

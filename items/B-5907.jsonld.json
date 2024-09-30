@@ -35,9 +35,9 @@
     "@id": "@base:/B-5907.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -46,12 +46,9 @@
   },
   "schema:description": "Street with bus and automobiles parked beside hotel.",
   "schema:identifier": [
-    "B-5907",
-    "ark:/13030/tf6w1006zm"
+    "ark:/13030/tf6w1006zm",
+    "B-5907"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Cafes",
     "Buses",
@@ -67,8 +64,8 @@
   "schema:name": "Log Cabin Hotel, Weed, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

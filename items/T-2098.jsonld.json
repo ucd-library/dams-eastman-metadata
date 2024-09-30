@@ -29,19 +29,16 @@
     "@id": "@base:/T-2098.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Close-up of man sitting in driver's seat of automobile with word \"Studio\" visible on door and female standing alongside. Number T-2100 written on envelope. Man in automobile is possibly Jervie Eastman.",
   "schema:identifier": [
-    "T-2098",
-    "ark:/13030/tf5q2nb1xc"
+    "ark:/13030/tf5q2nb1xc",
+    "T-2098"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Men",
     "Automobiles",
@@ -54,9 +51,9 @@
   "schema:material": "1 photographic negative : b&w : 3 x 4 in.",
   "schema:name": "Advocate Group",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

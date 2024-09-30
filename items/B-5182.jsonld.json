@@ -21,9 +21,9 @@
     "@id": "@base:/B-5182.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -32,12 +32,9 @@
   },
   "schema:description": "Town with mountains in background.",
   "schema:identifier": [
-    "B-5182",
-    "ark:/13030/tf1779n5wh"
+    "ark:/13030/tf1779n5wh",
+    "B-5182"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Mountains",
     "Cityscapes"
@@ -49,8 +46,8 @@
   "schema:name": "Virginia City, Nevada",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

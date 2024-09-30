@@ -18,9 +18,9 @@
     "@id": "@base:/B-1099.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -29,12 +29,9 @@
   },
   "schema:description": "Stone building complex with stone chimney, signs reading \"Sorenson's\" and \"TAVERN,\" gasoline pumps and two parked automobiles on the right, and restrooms on the left. Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-1099",
-    "ark:/13030/tf5w100590"
+    "ark:/13030/tf5w100590",
+    "B-1099"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Bars",
     "Gasoline pumps",
@@ -47,8 +44,8 @@
   "schema:name": "On the Feather River Highway, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

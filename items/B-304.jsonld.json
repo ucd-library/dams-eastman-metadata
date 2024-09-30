@@ -26,9 +26,9 @@
     "@id": "@base:/B-304.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Road with netting to prevent rocks from falling onto roadway attached to cliff on left and snow piled on either side of road. Lower right corner reads \"J.H. Eastman.\" Red tape on top edge of envelope.",
   "schema:identifier": [
-    "B-304",
-    "ark:/13030/tf3b69n7dh"
+    "ark:/13030/tf3b69n7dh",
+    "B-304"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Roads",
     "Cliffs"
@@ -53,9 +50,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "\"Highway\" near Fall River Mill's, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

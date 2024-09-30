@@ -26,19 +26,16 @@
     "@id": "@base:/G-273.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Four men sitting in boat on lake with bushes and hills in background. Lower right corner reads \"R.\" This image found on page 8 in publication entitled Modoc County California Anno Domini 1912.",
   "schema:identifier": [
-    "G-273",
-    "ark:/13030/tf2w1003tv"
+    "ark:/13030/tf2w1003tv",
+    "G-273"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Men",
@@ -53,9 +50,9 @@
   "schema:name": "Lunching-On-\"Tule-Lake\" Out-Of-Alturas-Cal",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

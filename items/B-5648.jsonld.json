@@ -22,9 +22,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -32,12 +32,9 @@
   },
   "schema:description": "Close-up of plaque in monument reading \"TIMBUCTOO 1855, LARGEST TOWN IN EASTERN YUBA COUNTY, AND AT HEIGHT OF ITS PROSPERITY CONTAINED A CHURCH THEATER STORES HOTELS AND SALOONS OLD WELLS FARGO OFFICE AND STEWART BROS. STORE RESTORED 1928 AND DEDICATED TO PIONEER MEN AND WOMEN OF TIMBUCTU. HISTORICAL LANDMARK NO. 320.\"",
   "schema:identifier": [
-    "B-5648",
-    "ark:/13030/tf5w1005pp"
+    "ark:/13030/tf5w1005pp",
+    "B-5648"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Plaques",
     "Signs",
@@ -49,9 +46,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Along Golden Highway 49 in Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

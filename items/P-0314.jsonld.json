@@ -21,9 +21,9 @@
     "@id": "@base:/P-0314.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Photograph of a photograph of hot springs surrounded by forest. Lower right corner reads \"J.H. Eastman.\" 357 inscribed on negative and #357 on envelope.",
@@ -31,9 +31,6 @@
     "ark:/13030/tf438nb0m0",
     "P-0314"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "National parks & reserves",
     "Lakes & ponds",
@@ -48,9 +45,9 @@
   "schema:name": "\"Boiling Lake\" Lassen Vol. Nat'l. Park California",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

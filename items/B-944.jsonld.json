@@ -35,9 +35,9 @@
     "@id": "@base:/B-944.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -46,12 +46,9 @@
   },
   "schema:description": "Photograph of a photograph of street with commercial buildings, man and woman standing in middle of street, and sign reading \"City Meat..\" partially visible in foreground. Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-944",
-    "ark:/13030/tf5d5nb1q9"
+    "ark:/13030/tf5d5nb1q9",
+    "B-944"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Stores & shops",
     "Men",
@@ -67,9 +64,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Lawson St., Kennett, Calif., In 1905",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

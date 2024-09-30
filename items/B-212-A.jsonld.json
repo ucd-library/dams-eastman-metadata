@@ -28,7 +28,12 @@
   "schema:associatedMedia": {
     "@id": "@base:/B-212-A.tif"
   },
-  "schema:creator": "Eastman, Jervie Henry",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1936"
@@ -38,9 +43,6 @@
     "ark:/87293/d3v39n",
     "B-212-A"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Arms & armament",
     "Domes",
@@ -55,5 +57,10 @@
   },
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Court House, Alturas, California",
-  "schema:publisher": "University of California, Davis. General Library. Dept. of Special Collections"
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
+  ]
 }

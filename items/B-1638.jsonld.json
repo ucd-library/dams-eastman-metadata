@@ -32,9 +32,9 @@
     "@id": "@base:/B-1638.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Two-story half-timbered building with stone chimney, people sitting on porch, and automobiles parked in front. Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-1638",
-    "ark:/13030/tf767nb3gz"
+    "ark:/13030/tf767nb3gz",
+    "B-1638"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Half-timbered buildings",
     "Sports & recreation facilities",
@@ -64,8 +61,8 @@
   "schema:name": "\"Camp Pioneer Lodge\" on the Yuba Pass, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

@@ -29,9 +29,9 @@
     "@id": "@base:/P-0121.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Trees and rock formation on mountain in foreground overlooking lake with forest and snow-covered mountains in background. #130 inscribed on negative, 156 on edge of negative, 156 (crossed out) and 182 on envelope.",
@@ -39,9 +39,6 @@
     "ark:/13030/tf5d5nb2g5",
     "P-0121"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Snow",
     "Lakes & ponds",
@@ -56,9 +53,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Mt. Lassen from Lake Almanore",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

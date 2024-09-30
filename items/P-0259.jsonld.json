@@ -32,19 +32,16 @@
     "@id": "@base:/P-0259.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Cattle on trail leading to farm buildings. Calif. Series No. 314 inscribed on negative, 25 on edge of negative, and #314 on envelope.",
   "schema:identifier": [
-    "P-0259",
-    "ark:/13030/tf5s200668"
+    "ark:/13030/tf5s200668",
+    "P-0259"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Agricultural facilities",
     "Farms",
@@ -59,9 +56,9 @@
   "schema:name": "\"Homeward bound.\"",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

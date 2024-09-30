@@ -35,9 +35,9 @@
     "@id": "@base:/P-0512.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Street with commercial buildings and multistory buildings including one with flag inscribed \"Hotel Mt. Lassen\" and another with \"MASONIC TEMPLE\" in large letters high above entrance and fire hydrant in left foreground. 950 inscribed on negative, 244a on edge of negative, and 950 on envelope.",
@@ -45,9 +45,6 @@
     "ark:/13030/tf4v19n7vt",
     "P-0512"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Fire hydrants",
     "Streets",
@@ -65,9 +62,9 @@
   "schema:name": "\"Lassen St.\" Susanville, Cal",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

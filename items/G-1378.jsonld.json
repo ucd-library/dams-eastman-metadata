@@ -41,19 +41,16 @@
     "@id": "@base:/G-1378.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Men, women, and children with shovel, gold pan, and cow at mining site.",
   "schema:identifier": [
-    "G-1378",
-    "ark:/13030/tf6z09n9pg"
+    "ark:/13030/tf6z09n9pg",
+    "G-1378"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Mining",
@@ -69,9 +66,9 @@
   "schema:material": "1 glass photonegative : b&w : 5 x 8 in.",
   "schema:name": "The Lorane",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

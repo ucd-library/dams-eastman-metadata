@@ -21,19 +21,16 @@
     "@id": "@base:/G-1494.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is infant in dress sitting in fur-covered chair. Second image is infant sitting in fur-covered chair. Two images (4.25 x 6.5 in.) side by side. Numbers on negative are 183 and 186.",
   "schema:identifier": [
-    "G-1494",
-    "ark:/13030/tf1x0n999j"
+    "ark:/13030/tf1x0n999j",
+    "G-1494"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Infants",
     "Hides & skins",
@@ -45,9 +42,9 @@
   "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
   "schema:name": "J. Inners.-Brown",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

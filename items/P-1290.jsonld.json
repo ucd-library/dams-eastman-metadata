@@ -42,9 +42,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -52,12 +52,9 @@
   },
   "schema:description": "Cattle being driven by men on horseback in foreground with trees in middle ground and mountains in background. 10 of 14 negatives.",
   "schema:identifier": [
-    "P-1290",
-    "ark:/13030/tf4f59n95t"
+    "ark:/13030/tf4f59n95t",
+    "P-1290"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Cowboys",
     "Fences",
@@ -77,8 +74,8 @@
   "schema:name": "Tehama County",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

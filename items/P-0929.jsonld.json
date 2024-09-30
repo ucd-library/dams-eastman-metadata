@@ -29,19 +29,16 @@
     "@id": "@base:/P-0929.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Road in front of two-story building with forest and mountain in background. Large sign by building reads \"Day's OLD STATION Lodge Cabins Meals-CABINS.\" Signs on building read \"Rooms and bath,\" \"Cold Beer & Soda,\" and \"Groceries.\" Smaller building shelters gasoline pumps.",
   "schema:identifier": [
-    "P-0929",
-    "ark:/13030/tf0n39n65f"
+    "ark:/13030/tf0n39n65f",
+    "P-0929"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Gasoline pumps",
     "Mountains",
@@ -58,9 +55,9 @@
   "schema:name": "Day's Rim Rock",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

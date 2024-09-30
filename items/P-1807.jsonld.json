@@ -22,9 +22,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -32,12 +32,9 @@
   },
   "schema:description": "Food section inside store with decorative ceiling and ceiling fans.",
   "schema:identifier": [
-    "P-1807",
-    "ark:/13030/tf3m3nb1rh"
+    "ark:/13030/tf3m3nb1rh",
+    "P-1807"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Stores & shops",
     "Merchandise displays",
@@ -50,9 +47,9 @@
   "schema:material": "1 photographic negative : b&w : 8 x 10 in.",
   "schema:name": "Spaldings Drug Store",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

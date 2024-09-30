@@ -35,9 +35,9 @@
     "@id": "@base:/B-4320.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -46,12 +46,9 @@
   },
   "schema:description": "Vehicle bridge above railroad bridge across river in canyon with rocks and trees on mountains.",
   "schema:identifier": [
-    "B-4320",
-    "ark:/13030/tf4f59n89d"
+    "ark:/13030/tf4f59n89d",
+    "B-4320"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Canyons",
     "Valleys",
@@ -68,8 +65,8 @@
   "schema:name": "Pulga Bridges in the Feather River Canyon, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

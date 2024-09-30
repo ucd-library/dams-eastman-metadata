@@ -31,19 +31,21 @@
   "schema:associatedMedia": {
     "@id": "@base:/G-971.tif"
   },
-  "schema:creator": "Riesen, John D",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1914"
   },
   "schema:description": "Young men and women sitting on steps of building. Lower right corner reads \"Riesen-Photo.\"",
   "schema:identifier": [
-    "G-971",
-    "ark:/13030/tf7t1nb3gw"
+    "ark:/13030/tf7t1nb3gw",
+    "G-971"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Students",
     "Women",
@@ -58,9 +60,9 @@
   "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
   "schema:name": "Modoc-Co.-High Alturas-Cal. May2 8-'14",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

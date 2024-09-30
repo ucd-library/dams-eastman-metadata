@@ -33,18 +33,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Row of snow-covered trees and snow-covered ground in foreground with multistory building and playground equipment in background. 414 inscribed on negative and on envelope.",
   "schema:identifier": [
-    "P-0367",
-    "ark:/13030/tf7v19n9qn"
+    "ark:/13030/tf7v19n9qn",
+    "P-0367"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Educational facilities",
     "Schools",
@@ -60,9 +57,9 @@
   "schema:name": "Washington School From Gay St. Susanville, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

@@ -38,19 +38,16 @@
     "@id": "@base:/P-1228.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Lumber mill with stacks of lumber to left and river in background. Sign on side of building reads \"WEYERHAUSER TIMBER COMPANY.\" Possibly in Klamath Falls. 3 of 13 negatives.",
   "schema:identifier": [
-    "P-1228",
-    "ark:/13030/tf396nb126"
+    "ark:/13030/tf396nb126",
+    "P-1228"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Rivers",
     "Towers",
@@ -66,9 +63,9 @@
   "schema:name": "Weyerhauser",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

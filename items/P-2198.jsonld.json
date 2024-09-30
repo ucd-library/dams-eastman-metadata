@@ -35,9 +35,9 @@
     "@id": "@base:/P-2198.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Two images side by side. Top image is of rodeo clowns in arena in foreground with mountains in background. Bottom image is of automobile in arena with mountains in background. 16 of 16 negatives.",
@@ -45,9 +45,6 @@
     "ark:/13030/tf5870061d",
     "P-2198"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Sports",
     "Automobiles",
@@ -62,9 +59,9 @@
   "schema:material": "1 photographic negative : b&w : 2 x 4 in.",
   "schema:name": "Rodeo Shots",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

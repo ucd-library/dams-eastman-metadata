@@ -38,9 +38,9 @@
     "@id": "@base:/B-9698.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -49,12 +49,9 @@
   },
   "schema:description": "Steps leading to road, man standing next to automobile, trailer house, and cabins surrounded by trees.",
   "schema:identifier": [
-    "B-9698",
-    "ark:/13030/tf1199n69w"
+    "ark:/13030/tf1199n69w",
+    "B-9698"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Mobile homes",
     "Automobiles",
@@ -72,8 +69,8 @@
   "schema:name": "Bratton's Resort, Lake Almanor, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

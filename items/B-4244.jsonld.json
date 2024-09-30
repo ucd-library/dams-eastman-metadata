@@ -38,9 +38,9 @@
     "@id": "@base:/B-4244.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -49,12 +49,9 @@
   },
   "schema:description": "Two automobiles parked next to rock wall and trees in foreground, cottages in middle ground, and trees on steep slope in background.",
   "schema:identifier": [
-    "B-4244",
-    "ark:/13030/tf6t1nb32c"
+    "ark:/13030/tf6t1nb32c",
+    "B-4244"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Automobiles",
     "Cabins",
@@ -72,8 +69,8 @@
   "schema:name": "At Richardson Mineral Springs, California",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

@@ -38,9 +38,9 @@
     "@id": "@base:/B-8262a.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -49,12 +49,9 @@
   },
   "schema:description": "Road in foreground with group of one-story buildings in middle ground and forest and mountains in background. Sign near road reads \"Green Gables MOTEL.\" Since this negative was in envelope with negative numbered B-8262 and is similar in content, it was assigned number B-8262a.",
   "schema:identifier": [
-    "B-8262a",
-    "ark:/13030/tf296nb0h4"
+    "ark:/13030/tf296nb0h4",
+    "B-8262a"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Mountains",
     "Signs",
@@ -71,8 +68,8 @@
   "schema:name": "Green Gables Motel, Burney, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

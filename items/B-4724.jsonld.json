@@ -26,9 +26,9 @@
     "@id": "@base:/B-4724.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Close-up of building's front entrance with \"Nevada City Elementary School\" inscribed above the three doorways and mailbox in foreground.",
   "schema:identifier": [
-    "B-4724",
-    "ark:/13030/tf4n39n85n"
+    "ark:/13030/tf4n39n85n",
+    "B-4724"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Doors & doorways",
     "Educational facilities",
@@ -56,8 +53,8 @@
   "schema:name": "Elementary School, Nevada City, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

@@ -29,9 +29,9 @@
     "@id": "@base:/B-1490.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -40,12 +40,9 @@
   },
   "schema:description": "Multistory building with bridge and street lights in foreground. Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-1490",
-    "ark:/13030/tf0m3n98wk"
+    "ark:/13030/tf0m3n98wk",
+    "B-1490"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Bridges",
     "Educational facilities",
@@ -60,8 +57,8 @@
   "schema:name": "\"Klamath Union High School,\" Klamath Falls, Ore",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

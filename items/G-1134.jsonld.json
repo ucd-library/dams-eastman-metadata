@@ -32,19 +32,16 @@
     "@id": "@base:/G-1134.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is framed photograph of two women. Second image is mat-framed photograph of infant in dress. Third image is man in suit and hat sitting in chair. First two images are 3.25 and 4.25 in. Third image is 4.25 x 6.5 in. Number on negative is 753.",
   "schema:identifier": [
-    "G-1134",
-    "ark:/13030/tf4f59n818"
+    "ark:/13030/tf4f59n818",
+    "G-1134"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Infants",
@@ -59,9 +56,9 @@
   "schema:name": "[Untitled]",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

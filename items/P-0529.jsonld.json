@@ -30,18 +30,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Rim of volcano overlooking forest with snow-covered mountain in background. #973 inscribed on negative, 50 on edge of negative, and 329 on envelope.",
   "schema:identifier": [
-    "P-0529",
-    "ark:/13030/tf5x0nb248"
+    "ark:/13030/tf5x0nb248",
+    "P-0529"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Parks",
     "Lassen Volcanic National Park (Calif.)",
@@ -57,9 +54,9 @@
   "schema:name": "\"Mt. Lassen\" from Top of Cinder Cone",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

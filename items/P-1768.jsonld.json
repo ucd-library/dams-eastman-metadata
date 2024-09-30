@@ -29,9 +29,9 @@
     "@id": "@base:/P-1768.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -40,12 +40,9 @@
   },
   "schema:description": "Two-story building with columns and arch at entrance with smaller building to left rear.",
   "schema:identifier": [
-    "P-1768",
-    "ark:/13030/tf4z09n9dq"
+    "ark:/13030/tf4z09n9dq",
+    "P-1768"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Health care facilities",
     "Rocks",
@@ -59,8 +56,8 @@
   "schema:name": "County Hospital Susanville",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

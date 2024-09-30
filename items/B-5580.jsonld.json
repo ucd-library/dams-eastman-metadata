@@ -38,9 +38,9 @@
     "@id": "@base:/B-5580.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -49,12 +49,9 @@
   },
   "schema:description": "Room with treadle sewing machine, chairs, stone fireplace, and other artifacts. Cabin is home of James W. Gillis who is in Mark Twain's writings as \"The Sage of Jackass Hill\" according to Erwin G. Gudde in \"California Place Names.\"",
   "schema:identifier": [
-    "B-5580",
-    "ark:/13030/tf5489n8b8"
+    "ark:/13030/tf5489n8b8",
+    "B-5580"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Sewing machines",
     "Rooms & spaces",
@@ -70,9 +67,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Mark Twain Cabin on Jackass Hill, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

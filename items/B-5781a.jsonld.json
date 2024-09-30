@@ -32,9 +32,9 @@
     "@id": "@base:/B-5781a.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Multistory building with signs in front reading \"Motel MODOC Hotel\" and \"Modoc Cafe,\" Eastman's automobile partially visible in right foreground, and \"HOTEL MODOC FINE FOODS MOTEL\" in large letters on end of building. Since this negative was in envelope with negative numbered B-5781 and is similar in content, it was assigned number B-5781a.",
   "schema:identifier": [
-    "B-5781a",
-    "ark:/13030/tf700006zk"
+    "ark:/13030/tf700006zk",
+    "B-5781a"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Restaurants",
     "Cafes",
@@ -62,9 +59,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Alturas, California",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

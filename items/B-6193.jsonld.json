@@ -32,9 +32,9 @@
     "@id": "@base:/B-6193.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Three automobiles parked outside building with sign reading \"RIVER VIEW TAVERN\" and mountains in background.",
   "schema:identifier": [
-    "B-6193",
-    "ark:/13030/tf1489n62x"
+    "ark:/13030/tf1489n62x",
+    "B-6193"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Bars",
     "Automobiles",
@@ -63,8 +60,8 @@
   "schema:name": "On U.S. Highway 99 near Redding",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

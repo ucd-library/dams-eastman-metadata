@@ -29,9 +29,9 @@
     "@id": "@base:/B-3154.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -40,12 +40,9 @@
   },
   "schema:description": "Entrance to the College of Agriculture, University of California, Davis, in middle ground with trees on both sides of road in background and road in foreground (now intersection of Russell Boulevard and Howard Way).",
   "schema:identifier": [
-    "B-3154",
-    "ark:/13030/tf2w1003dn"
+    "ark:/13030/tf2w1003dn",
+    "B-3154"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Universities & colleges",
     "Roads",
@@ -59,9 +56,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "At Davis, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

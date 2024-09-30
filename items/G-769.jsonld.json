@@ -29,9 +29,9 @@
     "@id": "@base:/G-769.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is young boy in suit with short pants and leggings standing next to child's chair with stuffed animal in chair. Second image is same child sitting on arm of chair with stuffed animal in chair. Two images (3.5 x 5 in.) side by side. Number on negative is 3320B.",
@@ -39,9 +39,6 @@
     "ark:/13030/tf038n98b1",
     "G-769"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Children's clothing & dress",
     "Furniture",
@@ -56,9 +53,9 @@
   "schema:name": "[Untitled]",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

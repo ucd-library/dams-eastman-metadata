@@ -36,18 +36,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "First image is man in suit and hat standing at table pointing revolver at man in suit and hat sitting at table with revolver. Second image is same two men with cigars sitting on fur-covered bench. Number on negative is 488.",
   "schema:identifier": [
-    "G-161",
-    "ark:/13030/tf85800757"
+    "ark:/13030/tf85800757",
+    "G-161"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Handguns",
     "Men",
@@ -65,9 +62,9 @@
   "schema:name": "P. Cards",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

@@ -26,19 +26,16 @@
     "@id": "@base:/P-1078.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Road through tunnel. \"20\" on upper left corner of negative. 2 of 6 negatives.",
   "schema:identifier": [
-    "P-1078",
-    "ark:/13030/tf867nb4tx"
+    "ark:/13030/tf867nb4tx",
+    "P-1078"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Tunnels",
     "Roads"
@@ -50,9 +47,9 @@
   "schema:name": "Elephant Butte F.R",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

@@ -33,9 +33,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -43,12 +43,9 @@
   },
   "schema:description": "Girl standing at opening cut through redwood tree next to building with signs reading \"Lane's Goose-Pen Tree\" and \"Coctails.\" Caption on cellophane reads \"The Goose - Pen Tree ast Lane's Flat along the Redwood Highway Calif.\" Christmas card included.",
   "schema:identifier": [
-    "B-6919",
-    "ark:/13030/tf0x0n99z2"
+    "ark:/13030/tf0x0n99z2",
+    "B-6919"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Benches",
     "Redwoods",
@@ -63,8 +60,8 @@
   "schema:name": "The Goose - Pen Tree at Lane's Flat",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

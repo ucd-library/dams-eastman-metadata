@@ -36,18 +36,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Close-up of water plants along river in foreground with forest and mountain in background. No. 23 inscribed on negative and #23 on envelope.",
   "schema:identifier": [
-    "P-0036",
-    "ark:/13030/tf7g5007f1"
+    "ark:/13030/tf7g5007f1",
+    "P-0036"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Valleys",
     "Clouds",
@@ -63,9 +60,9 @@
   "schema:name": "Mt. Shasta Fall River Valley, Cal",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

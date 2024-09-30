@@ -29,9 +29,9 @@
     "@id": "@base:/P-0081.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Unpaved street with workmen on sidewalk in front of two-story building and automobile at far end of street. #70 inscribed on negative and on envelope.",
@@ -39,9 +39,6 @@
     "ark:/13030/tf1199n5z7",
     "P-0081"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Stores & shops",
     "Street lights",
@@ -57,9 +54,9 @@
   "schema:name": "\"The Noon Whistle in Front of Store\" Westwood, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

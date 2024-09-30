@@ -41,9 +41,9 @@
     "@id": "@base:/B-7101.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -52,12 +52,9 @@
   },
   "schema:description": "Swans at edge of water and ducks in water with bushes and trees in background.",
   "schema:identifier": [
-    "B-7101",
-    "ark:/13030/tf5r29n8vz"
+    "ark:/13030/tf5r29n8vz",
+    "B-7101"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Lakes & ponds",
     "Parks",
@@ -75,8 +72,8 @@
   "schema:name": "Lithia Park, Ashland, Oregon",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

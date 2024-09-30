@@ -29,19 +29,16 @@
     "@id": "@base:/B-6471.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Statues of General Douglas MacArthur and another man in uniform placed next to cannon dated 1853 and identified as the Cap Buhne Cannon.",
   "schema:identifier": [
-    "B-6471",
-    "ark:/13030/tf9s20094x"
+    "ark:/13030/tf9s20094x",
+    "B-6471"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Forts & fortifications",
     "Artillery (Weaponry)",
@@ -60,9 +57,9 @@
   "schema:name": "At Fort Humbolt, Eureka, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

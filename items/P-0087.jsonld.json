@@ -26,9 +26,9 @@
     "@id": "@base:/P-0087.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Close-up of waterfall. #84 inscribed on negative and on envelope.",
   "schema:identifier": [
-    "P-0087",
-    "ark:/13030/tf3j49n74p"
+    "ark:/13030/tf3j49n74p",
+    "P-0087"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Waterfalls",
     "National parks & reserves",
@@ -56,8 +53,8 @@
   "schema:name": "\"King's Falls\" Lassen Vol. Nat'nl. Park",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

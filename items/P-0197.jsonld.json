@@ -32,9 +32,9 @@
     "@id": "@base:/P-0197.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Trees on snow-covered mountainside in foreground with forest and snow-covered mountains in background. Lower right corner reads \"J.H. Eastman.\" #217 inscribed on negative and on envelope.",
   "schema:identifier": [
-    "P-0197",
-    "ark:/13030/tf1w1002w3"
+    "ark:/13030/tf1w1002w3",
+    "P-0197"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Snow",
     "National parks & reserves",
@@ -65,8 +62,8 @@
   "schema:name": "Broke-off Mt. Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

@@ -35,9 +35,9 @@
     "@id": "@base:/P-0612.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -46,12 +46,9 @@
   },
   "schema:description": "Photograph of a photograph of man wearing church vestment standing in cemetery with mountains in background. Caption on cellophane reads \"Brother David.\"",
   "schema:identifier": [
-    "P-0612",
-    "ark:/13030/tf896nb5cb"
+    "ark:/13030/tf896nb5cb",
+    "P-0612"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Tombs & sepulchral monuments",
@@ -70,8 +67,8 @@
   "schema:name": "Brother David",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

@@ -26,9 +26,9 @@
     "@id": "@base:/B-9420.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Street with automobiles, jeep, gasoline pumps, and commercial buildings.",
   "schema:identifier": [
-    "B-9420",
-    "ark:/13030/tf4199n7xm"
+    "ark:/13030/tf4199n7xm",
+    "B-9420"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Jeep automobiles",
     "Stores & shops",
@@ -57,8 +54,8 @@
   "schema:name": "Sierraville, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

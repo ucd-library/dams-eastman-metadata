@@ -41,9 +41,9 @@
     "@id": "@base:/P-1289.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -52,12 +52,9 @@
   },
   "schema:description": "Cattle rounded up into enclosure by cowboys in foreground with trees in background. 9 of 14 negatives.",
   "schema:identifier": [
-    "P-1289",
-    "ark:/13030/tf2199n6vg"
+    "ark:/13030/tf2199n6vg",
+    "P-1289"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Fences",
     "Roads",
@@ -76,8 +73,8 @@
   "schema:name": "Tehama County",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

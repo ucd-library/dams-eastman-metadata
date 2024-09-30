@@ -30,18 +30,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Trucks parked in front of brick building with \"Lassen Plumbing & Sheet Metal Works\" painted on front and side in foreground with mountains in background.",
   "schema:identifier": [
-    "P-1896",
-    "ark:/13030/tf767nb4mh"
+    "ark:/13030/tf767nb4mh",
+    "P-1896"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Utility poles",
     "Trucks",
@@ -55,9 +52,9 @@
   "schema:name": "Lassen Sheet Metal Works",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

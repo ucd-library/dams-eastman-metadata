@@ -32,19 +32,16 @@
     "@id": "@base:/P-0576.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Multistory brick building with wrought iron fence in foreground. 233a inscribed on edge of negative.",
   "schema:identifier": [
-    "P-0576",
-    "ark:/13030/tf187002cd"
+    "ark:/13030/tf187002cd",
+    "P-0576"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Organizations' facilities",
     "Freemasonry",
@@ -60,9 +57,9 @@
   "schema:name": "Masonic Temple. Susanville Cal",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

@@ -21,9 +21,9 @@
     "@id": "@base:/B-7258.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -32,12 +32,9 @@
   },
   "schema:description": "Photograph of a photograph of room with shelfs full of canned goods and other merchandise. Transparency included.",
   "schema:identifier": [
-    "B-7258",
-    "ark:/13030/tf9p3008z6"
+    "ark:/13030/tf9p3008z6",
+    "B-7258"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Light fixtures",
     "Merchandise displays",
@@ -53,8 +50,8 @@
   "schema:name": "The Mineral Store, Mineral, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

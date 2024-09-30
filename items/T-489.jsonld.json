@@ -45,9 +45,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -55,12 +55,9 @@
   },
   "schema:description": "Person on bucking horse and other people in arena with fence in middle ground and mountains in background.",
   "schema:identifier": [
-    "T-489",
-    "ark:/13030/tf2j49n84v"
+    "ark:/13030/tf2j49n84v",
+    "T-489"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Rodeos",
     "Mountains",
@@ -80,8 +77,8 @@
   "schema:name": "Lake County, Ore. Rodeo",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

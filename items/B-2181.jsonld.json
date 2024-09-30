@@ -26,9 +26,9 @@
     "@id": "@base:/B-2181.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Street with commercial buildings and automobiles. Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-2181",
-    "ark:/13030/tf5f59n9c7"
+    "ark:/13030/tf5f59n9c7",
+    "B-2181"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Automobiles",
     "Stores & shops",
@@ -55,8 +52,8 @@
   "schema:name": "Alturas, California",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

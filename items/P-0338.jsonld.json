@@ -30,18 +30,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Photograph of a photograph of several men atop six cranes on flatbed railroad cars with T.RRLCo. painted on them and huge pile of logs in background. 278 inscribed on edge of negative and 278 (crossed out) and 384 on envelope.",
   "schema:identifier": [
-    "P-0338",
-    "ark:/13030/tf3w1004h0"
+    "ark:/13030/tf3w1004h0",
+    "P-0338"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Laborers",
     "Railroad cars",
@@ -58,9 +55,9 @@
   "schema:name": "\"Cranes and Log Deck\"",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

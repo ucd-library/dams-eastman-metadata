@@ -35,9 +35,9 @@
     "@id": "@base:/B-6576.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -46,12 +46,9 @@
   },
   "schema:description": "Men on crawler tractor and dog in snow-covered street with snowbanks and buildings on either side.",
   "schema:identifier": [
-    "B-6576",
-    "ark:/13030/tf2c6003zn"
+    "ark:/13030/tf2c6003zn",
+    "B-6576"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Snow",
     "Crawler tractors",
@@ -69,8 +66,8 @@
   "schema:name": "Johnsville, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

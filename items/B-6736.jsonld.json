@@ -26,9 +26,9 @@
     "@id": "@base:/B-6736.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Snowbank and trees in foreground overlooking lake, building with snow-covered roof partially visible on the right and forest in background.",
   "schema:identifier": [
-    "B-6736",
-    "ark:/13030/tf5d5nb2cm"
+    "ark:/13030/tf5d5nb2cm",
+    "B-6736"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Snow",
     "Forests",
@@ -56,8 +53,8 @@
   "schema:name": "At Lake Tahoe",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

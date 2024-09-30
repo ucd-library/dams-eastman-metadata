@@ -30,9 +30,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -40,12 +40,9 @@
   },
   "schema:description": "Sign reading \"Emergency First Aid American Red Cross\" on right side of road in foreground and sign reading \"Camp Storrie P.G. and E.\" next to buildings on left side of road in middle ground with forest and mountains in background.",
   "schema:identifier": [
-    "B-4656",
-    "ark:/13030/tf2n39n6qb"
+    "ark:/13030/tf2n39n6qb",
+    "B-4656"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Roads",
     "Mountains",
@@ -58,9 +55,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Storrie on the Feather River Highway, California",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

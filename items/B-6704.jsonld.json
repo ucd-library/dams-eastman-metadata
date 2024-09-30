@@ -33,9 +33,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -43,12 +43,9 @@
   },
   "schema:description": "Snowbank with partially visible automobile and sign reading \"Donner village Donner Lake Lodge CAFE\" in front of two-story building with two men removing snow from roof, and trees in background.",
   "schema:identifier": [
-    "B-6704",
-    "ark:/13030/tf1t1nb090"
+    "ark:/13030/tf1t1nb090",
+    "B-6704"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Trees",
     "Signs",
@@ -63,8 +60,8 @@
   "schema:name": "Donner Lake Lodge on Highway 40, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

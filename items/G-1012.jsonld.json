@@ -25,15 +25,17 @@
   "schema:associatedMedia": {
     "@id": "@base:/G-1012.tif"
   },
-  "schema:creator": "Riesen, John D",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:description": "First image is upper torso of woman in coat. Second image is same woman standing next to chair on carpeted floor. Two images (4 x 6.5 in.) side by side. Number on negative is 477.",
   "schema:identifier": [
-    "G-1012",
-    "ark:/13030/tf7c6006s2"
+    "ark:/13030/tf7c6006s2",
+    "G-1012"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Clothing & dress",
@@ -46,9 +48,9 @@
   "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
   "schema:name": "[Untitled]",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

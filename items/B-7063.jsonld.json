@@ -29,9 +29,9 @@
     "@id": "@base:/B-7063.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -40,12 +40,9 @@
   },
   "schema:description": "Building and large cloud of steam from nearby steam vent. Building has signs reading \"Scenic View Gift Shop\" and \"Pause...Drink Coca Cola\" and \"Souvenirs HOT DOGS Hamburgers.\"",
   "schema:identifier": [
-    "B-7063",
-    "ark:/13030/tf6q2nb2zp"
+    "ark:/13030/tf6q2nb2zp",
+    "B-7063"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Tourist trade",
     "Stores & shops",
@@ -62,8 +59,8 @@
   "schema:name": "At the Sulphur Works, Lassen Volcanic National Park, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

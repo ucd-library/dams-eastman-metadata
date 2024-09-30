@@ -27,9 +27,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -37,12 +37,9 @@
   },
   "schema:description": "Vehicle with cross on side, axes affixed to side, and \"F.G.S. Co 114\" painted on door. 3 of 3 negatives.",
   "schema:identifier": [
-    "C-757",
-    "ark:/13030/tf7g5007v7"
+    "ark:/13030/tf7g5007v7",
+    "C-757"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Ambulances",
     "Axes"
@@ -54,8 +51,8 @@
   "schema:name": "Fruit Growers Supply Co. Ambulance",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

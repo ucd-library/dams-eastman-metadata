@@ -30,9 +30,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -40,12 +40,9 @@
   },
   "schema:description": "Lake with woman, bedding, and boats on shore in foreground, boat in lake with several people in it in middle ground, and trees in background. Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-1688",
-    "ark:/13030/tf7199n9pw"
+    "ark:/13030/tf7199n9pw",
+    "B-1688"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Beaches",
     "Trees",
@@ -60,8 +57,8 @@
   "schema:name": "\"Fishing\" as Gold Lake Beach Resort,\" Gold Lake, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

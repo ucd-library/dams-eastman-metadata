@@ -37,15 +37,17 @@
   "schema:associatedMedia": {
     "@id": "@base:/G-229.tif"
   },
-  "schema:creator": "Riesen, John D",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:description": "First image is two-story house with vine-covered porch in front and water tank in back. Second image is group of men in baseball uniforms standing in front of viewing stands filled with people. Lower right corner of second image reads \"Riesen Photo.\" Two images (4.25 x 6.5 in.) side by side. Numbers on negative are 236 and 237. This image found on page 14 in publication entitled Modoc County California Anno Domini 1912.",
   "schema:identifier": [
     "ark:/13030/tf1c6002f3",
     "G-229"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Uniforms",
     "People",
@@ -62,9 +64,9 @@
   "schema:name": "Williams house; Alturas-Tigers-Alturas-Cal. (Base Ball nine = Alturas Tigers.-)",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

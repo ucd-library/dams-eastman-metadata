@@ -44,9 +44,9 @@
     "@id": "@base:/B-5943.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -55,12 +55,9 @@
   },
   "schema:description": "Lake with man in rowboat near far shore, boulders in foreground, cabins surrounded by trees, parked automobiles, and forest in background.",
   "schema:identifier": [
-    "B-5943",
-    "ark:/13030/tf3d5nb0pp"
+    "ark:/13030/tf3d5nb0pp",
+    "B-5943"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Boathouses",
     "Lakes & ponds",
@@ -81,9 +78,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "At Lassen View Camp, Lake Almanor, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

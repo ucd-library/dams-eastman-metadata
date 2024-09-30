@@ -29,9 +29,9 @@
     "@id": "@base:/B-6806.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -40,12 +40,9 @@
   },
   "schema:description": "Street and trees in foreground, building complex with \"Ukiah School\" in large letters over entrance in middle ground, and mountains in background.",
   "schema:identifier": [
-    "B-6806",
-    "ark:/13030/tf7n39p0xj"
+    "ark:/13030/tf7n39p0xj",
+    "B-6806"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Educational facilities",
     "Mountains",
@@ -59,8 +56,8 @@
   "schema:name": "Ukiah Public School, Ukiah, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

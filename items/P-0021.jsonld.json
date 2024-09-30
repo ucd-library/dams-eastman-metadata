@@ -36,18 +36,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Two-story building with columns across front and dome on top, wheeled cannon by front steps, and wrought-iron fence in foreground. No. 9 inscribed on negative and 216 on envelope.",
   "schema:identifier": [
-    "P-0021",
-    "ark:/13030/tf529004qg"
+    "ark:/13030/tf529004qg",
+    "P-0021"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Domes",
     "Trees",
@@ -67,9 +64,9 @@
   "schema:name": "Modoc County Courthouse. Alturas, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

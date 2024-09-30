@@ -29,19 +29,16 @@
     "@id": "@base:/P-0289.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Road and automobiles in foreground, two-story building with \"GROCERIES\" in large letters and sign reading \"Soda Fountain\" on front in middle ground, building to the left of it with sign reading \"Restaurant,\" building to the right of it with signs reading \"STANDARD OIL PRODUCTS\" and \"GARAGE Tires Tubes\" with forest in background. 341B inscribed on edge of negative and 157 on envelope.",
   "schema:identifier": [
-    "P-0289",
-    "ark:/13030/tf3779n7p0"
+    "ark:/13030/tf3779n7p0",
+    "P-0289"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Signs",
     "Restaurants",
@@ -57,9 +54,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Mineral, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

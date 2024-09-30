@@ -29,9 +29,9 @@
     "@id": "@base:/B-3010a.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -40,12 +40,9 @@
   },
   "schema:description": "Close-up of dog with fawn on either side. \"Phone 258-3903\" and \"PH. Alpine 8-3903\" stamped in red on negative. Original envelope and negative enclosed in gray envelope. Since another negative was assigned number B-3010, this negative has been assigned number B-3010a.",
   "schema:identifier": [
-    "B-3010a",
-    "ark:/13030/tf6n39n9n0"
+    "ark:/13030/tf6n39n9n0",
+    "B-3010a"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Deer",
     "Animals",
@@ -58,8 +55,8 @@
   "schema:name": "Friends!",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

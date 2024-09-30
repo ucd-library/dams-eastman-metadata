@@ -32,9 +32,9 @@
     "@id": "@base:/B-398.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Building mostly covered by snow surrounded by snow-covered trees with sign reading \"BUCKS LAKE\" in front. Red tape on top edge of envelope.",
   "schema:identifier": [
-    "B-398",
-    "ark:/13030/tf8j49p0q3"
+    "ark:/13030/tf8j49p0q3",
+    "B-398"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Signs",
     "Snow",
@@ -64,8 +61,8 @@
   "schema:name": "At Bucks Lake Lodge, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

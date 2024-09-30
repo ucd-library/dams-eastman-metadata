@@ -26,19 +26,16 @@
     "@id": "@base:/G-1344.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is two men standing in suits and hats. Second image is two men in suits and hats sitting in chairs with one man in suit and hat standing behind them. Two images (4.25 x 6.5 in.) side by side. Numbers on negative are 28 and 3.",
   "schema:identifier": [
-    "G-1344",
-    "ark:/13030/tf7v19p02x"
+    "ark:/13030/tf7v19p02x",
+    "G-1344"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Clothing & dress",
@@ -52,9 +49,9 @@
   "schema:name": "C. M. Larson",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

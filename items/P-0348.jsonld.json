@@ -22,18 +22,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Driftwood and diving platform on lake in foreground with forest and mountains in background. 395 inscribed on negative, 24 on edge of negative, and #395 on envelope.",
   "schema:identifier": [
-    "P-0348",
-    "ark:/13030/tf5p3005zh"
+    "ark:/13030/tf5p3005zh",
+    "P-0348"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Lakes & ponds",
     "Forests",
@@ -45,9 +42,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "\"Mt. Dyre\" From Big Springs Resort on Lake Almanor near Westwood",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

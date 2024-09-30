@@ -21,9 +21,9 @@
     "@id": "@base:/B-107.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -32,12 +32,9 @@
   },
   "schema:description": "Close-up of plaque on rock reading \"BUCKS RANCH HOTEL AND STORE ORIGINAL LOCATION ONE HUNDRED YARDS NORTH EAST HAVEN OF PIONEERS PACK TRAIN DIVISION POINT FOR MINERS. TO FEATHER RIVER POINTS. STAGE STATION. EXPRESS AND POST OFFICE. 1850 - 1852 EMIGRANT TRAIL. DESTROYED BY FIRE JAN. 13, 1928. DEDICATED TO THE MEMORY OF PIONEERS BY PLUMAS PIONEER PARLOR NO. 219, N.D.C.W. QUINCY PARLOR NO. 131, N.S.C.W. AUG. 9, 1931.\" Lower right corner reads \"J.H. Eastman.\"",
   "schema:identifier": [
-    "B-107",
-    "ark:/13030/tf038n97v9"
+    "ark:/13030/tf038n97v9",
+    "B-107"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Signs",
     "Plaques"
@@ -48,9 +45,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Buck Ranch & Store Sign On Rock",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

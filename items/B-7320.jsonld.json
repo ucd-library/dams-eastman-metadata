@@ -33,9 +33,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -43,12 +43,9 @@
   },
   "schema:description": "Photograph of a photograph of three Saint Bernard dogs lying on ground with boy sitting on back of one in foreground and building in background. Caption on cellophane reads \"St. Bernard Lodge, Mill Creek, Calif., Ph. Alpine 8-3903.\"",
   "schema:identifier": [
-    "B-7320",
-    "ark:/13030/tf729006rk"
+    "ark:/13030/tf729006rk",
+    "B-7320"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Dogs",
     "Children",
@@ -61,9 +58,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "At St. Bernard Lodge - Mill Creek, P.O. Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

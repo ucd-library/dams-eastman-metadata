@@ -41,9 +41,9 @@
     "@id": "@base:/P-0656.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -52,12 +52,9 @@
   },
   "schema:description": "Five people on horseback with buildings and trees in background. 12 of 32 negatives.",
   "schema:identifier": [
-    "P-0656",
-    "ark:/13030/tf8d5nb53v"
+    "ark:/13030/tf8d5nb53v",
+    "P-0656"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Automobiles",
     "Wells",
@@ -79,8 +76,8 @@
   "schema:name": "Calpine Lodge",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

@@ -32,9 +32,9 @@
     "@id": "@base:/B-8543.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Photograph of a photograph of log cabin with people sitting on porch in foreground and forested mountain in background. Negative in somewhat poor condition. Inscription on edge of negative reads \"TWH 1954.\"",
   "schema:identifier": [
-    "B-8543",
-    "ark:/13030/tf967nb5mm"
+    "ark:/13030/tf967nb5mm",
+    "B-8543"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Mountains",
     "Rooms & spaces",
@@ -65,9 +62,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Packer Lake, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

@@ -29,9 +29,9 @@
     "@id": "@base:/B-1669.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -40,12 +40,9 @@
   },
   "schema:description": "Forest on mountainside in foreground overlooking valley with lumber company and town in middle ground and mountains in background. Caption on envelope reads \"'Clover Valley Lumber Co.\" and City of Loyalton, Calif.\"",
   "schema:identifier": [
-    "B-1669",
-    "ark:/13030/tf8n39p1bj"
+    "ark:/13030/tf8n39p1bj",
+    "B-1669"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Lumber industry",
     "Trees",
@@ -59,8 +56,8 @@
   "schema:name": "Feather River Lbr. Co",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

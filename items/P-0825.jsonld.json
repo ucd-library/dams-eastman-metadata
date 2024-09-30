@@ -32,19 +32,16 @@
     "@id": "@base:/P-0825.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Antelope standing on rocky ground. 11 of 12 negatives.",
   "schema:identifier": [
-    "P-0825",
-    "ark:/13030/tf4c6005hh"
+    "ark:/13030/tf4c6005hh",
+    "P-0825"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Antelopes",
     "Rocks",
@@ -58,9 +55,9 @@
   "schema:name": "Hart Mt. Discards",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

@@ -35,9 +35,9 @@
     "@id": "@base:/B-1952.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -46,12 +46,9 @@
   },
   "schema:description": "Man in costume standing next to snowbank with St. Bernard dogs near two-story building with snow-covered roof and lettering \"St. Bernard Lodge\" on side, automobiles in road, and trees in background. Title on postcard reads \"ST. BERNARD LODGE - HIGHWAY 36 - - OFF U.S. 99 - - HOTEL - CABINS - RESTAURANT - BAR - HUNTING - - FISHING -.\"",
   "schema:identifier": [
-    "B-1952",
-    "ark:/13030/tf3870045w"
+    "ark:/13030/tf3870045w",
+    "B-1952"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Costumes",
     "Sports & recreation facilities",
@@ -70,8 +67,8 @@
   "schema:name": "ST. BERNARD LODGE P.O. Mill Creek, California PHONE CHESTER 4785",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

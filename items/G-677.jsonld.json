@@ -20,15 +20,17 @@
   "schema:associatedMedia": {
     "@id": "@base:/G-677.tif"
   },
-  "schema:creator": "Riesen, John D",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:description": "Entrance to cave. Lower right corner reads \"Photo-by-Riesen.\"",
   "schema:identifier": [
     "ark:/13030/tf9f59p1bj",
     "G-677"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Volcanic rock",
     "Caves",
@@ -41,9 +43,9 @@
   "schema:name": "Cap. Jacks Cave-In-The-Lava-Bed-Stronghold",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

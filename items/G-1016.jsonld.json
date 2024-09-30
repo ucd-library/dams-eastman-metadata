@@ -26,19 +26,16 @@
     "@id": "@base:/G-1016.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is small boy in sailor suit and hat standing on carpeted floor. Second image is young girl sitting in chair with same small boy standing next to her. Two images (4 x 6.5 in.) side by side. Number on negative is 472.",
   "schema:identifier": [
-    "G-1016",
-    "ark:/13030/tf800006q8"
+    "ark:/13030/tf800006q8",
+    "G-1016"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Clothing & dress",
     "Children",
@@ -50,9 +47,9 @@
   "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
   "schema:name": "[Untitled]",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

@@ -19,18 +19,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "Memo outlining price increase at Eastman's Studio.",
   "schema:identifier": [
-    "P-2089",
-    "ark:/13030/tf7199p125"
+    "ark:/13030/tf7199p125",
+    "P-2089"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
@@ -38,9 +35,9 @@
   "schema:name": "Ansco Film Price Increase",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

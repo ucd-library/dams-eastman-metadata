@@ -32,9 +32,9 @@
     "@id": "@base:/B-306.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Snow-covered road with state highway 36 sign giving distances to Chester, Red Bluff, and Westwood in front of multistory building with snow-covered roof. Lower right corner reads \"J.H. Eastman.\" Caption on one of the postcards reads \"Elk's Lodge Circa 1937\"; red tape on top edge of envelope.",
   "schema:identifier": [
-    "B-306",
-    "ark:/13030/tf3t1nb1c4"
+    "ark:/13030/tf3t1nb1c4",
+    "B-306"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Roads",
     "Signs",
@@ -65,9 +62,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "\"Elk's Lodge in Winter\" Susanville, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

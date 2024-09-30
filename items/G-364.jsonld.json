@@ -26,19 +26,16 @@
     "@id": "@base:/G-364.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is two men in suits sitting in same chair. Second image is same two men with one sitting in chair and one standing behind chair. Two images (3.5 x 5 in.) side by side. Number on negative is 433.",
   "schema:identifier": [
-    "G-364",
-    "ark:/13030/tf1n39n5w4"
+    "ark:/13030/tf1n39n5w4",
+    "G-364"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Jewelry",
     "Men",
@@ -52,9 +49,9 @@
   "schema:name": "[Untitled]",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

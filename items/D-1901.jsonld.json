@@ -18,9 +18,9 @@
     "@id": "@base:/D-1901.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Back of fire truck with hoses and other equipment.",
@@ -28,9 +28,6 @@
     "ark:/13030/tf3v19n8wh",
     "D-1901"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": "Fire engines & equipment",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
@@ -38,9 +35,9 @@
   "schema:material": "1 photographic negative : b&w : 8 x 10 in.",
   "schema:name": "Fire Truck Equipment Paul Bunyan Lumber Co",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

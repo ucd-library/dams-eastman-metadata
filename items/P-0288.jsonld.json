@@ -29,9 +29,9 @@
     "@id": "@base:/P-0288.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Road with trees on either side in foreground leading to two-story building with \"GROCERIES\" in large letters over entrance and sign reading \"Soda Fountain,\" other buildings on either side of it, and forest in background. 341a inscribed on edge of negative and 157 on envelope.",
@@ -39,9 +39,6 @@
     "ark:/13030/tf409nb1sd",
     "P-0288"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Grocery stores",
     "Signs",
@@ -57,9 +54,9 @@
   "schema:name": "Mineral, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

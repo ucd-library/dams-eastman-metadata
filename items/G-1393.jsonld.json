@@ -26,19 +26,16 @@
     "@id": "@base:/G-1393.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is two women in skirts and blouses sitting in chairs holding infants in christening dresses. Second image is same two women and infants in same pose. Two images (4.25 x 6.5 in.) side by side. Number on negative is 956.",
   "schema:identifier": [
-    "G-1393",
-    "ark:/13030/tf7k4006ms"
+    "ark:/13030/tf7k4006ms",
+    "G-1393"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Infants",
     "Clothing & dress",
@@ -53,9 +50,9 @@
   "schema:name": "[Untitled]",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

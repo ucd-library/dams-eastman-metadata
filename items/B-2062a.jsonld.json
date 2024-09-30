@@ -35,9 +35,9 @@
     "@id": "@base:/B-2062a.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -46,12 +46,9 @@
   },
   "schema:description": "Grocery store next to entrance to auto court with people walking along road in front. Sign on store reads \"Redding Camp Modern Cabins\" and sign over entrance to auto court reads \"Redding Auto Court.\" Since this negative was in envelope with negative numbered B-2062 and is similar in content, it was assigned number B-2062a.",
   "schema:identifier": [
-    "B-2062a",
-    "ark:/13030/tf3v19n7sg"
+    "ark:/13030/tf3v19n7sg",
+    "B-2062a"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Motels",
     "Hotels",
@@ -69,8 +66,8 @@
   "schema:name": "Redding Auto Court",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

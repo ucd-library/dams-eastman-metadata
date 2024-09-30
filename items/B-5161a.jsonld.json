@@ -26,9 +26,9 @@
     "@id": "@base:/B-5161a.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Water spurting from lake with rocky cliffs in background. Since this negative was in envelope with nevative numbered B-5161 and is similar in content, it was assigned number B-5161a.",
   "schema:identifier": [
-    "B-5161a",
-    "ark:/13030/tf0s2002r2"
+    "ark:/13030/tf0s2002r2",
+    "B-5161a"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Lakes & ponds",
     "Geysers",
@@ -55,9 +52,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "\"Hot Geyser\" at Pyramid Lake, Nev",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

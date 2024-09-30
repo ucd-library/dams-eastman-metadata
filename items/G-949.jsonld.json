@@ -31,15 +31,17 @@
   "schema:associatedMedia": {
     "@id": "@base:/G-949.tif"
   },
-  "schema:creator": "Riesen, John D",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:description": "Tree-lined street with automobile parked in front of hotel, and people on balcony and near entrance. Lower right corner reads \"Riesen-Photo.-Alturas-Cal.\" This image found on page 24 in publication entitled Modoc County California Anno Domini 1912.",
   "schema:identifier": [
     "ark:/13030/tf7t1nb3sj",
     "G-949"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Hotels",
     "Automobiles",
@@ -54,9 +56,9 @@
   "schema:name": "Main-St=Ft.-Bidwell-Cal",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

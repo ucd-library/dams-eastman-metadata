@@ -33,18 +33,15 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:description": "First image is two men, one standing holding stick with American flag on it and the other sitting in chair on carpeted floor. Second image is of horses hitched to decorated wagon (possibly decorated for parade) in front of building with \"FARMERS STABLE\" painted on front and man standing behind wagon. Numbers on negative are 113 and 129.",
   "schema:identifier": [
     "ark:/13030/tf4z09n81j",
     "G-1002"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Parades & processions",
     "People",
@@ -62,9 +59,9 @@
   "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
   "schema:name": "Campbell(?); Alturas-Nursery-Co.=In-Parade",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

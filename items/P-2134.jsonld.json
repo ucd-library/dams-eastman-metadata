@@ -32,9 +32,9 @@
     "@id": "@base:/P-2134.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Stacks of lumber in foreground with mill in middle ground and mountains in background. Lower right corner reads \"J.H. Eastman.\" S-104 inscribed on negative and on envelope.",
   "schema:identifier": [
-    "P-2134",
-    "ark:/13030/tf3r29n88j"
+    "ark:/13030/tf3r29n88j",
+    "P-2134"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Mills",
     "Smokestacks",
@@ -62,9 +59,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Fruit Growers Mill Susanville",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

@@ -47,9 +47,9 @@
     "@id": "@base:/B-4756.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -58,12 +58,9 @@
   },
   "schema:description": "Two-story brick building with American flag and an unidentified flag on flagpole in front, bell in bell tower on top, and fence in foreground.",
   "schema:identifier": [
-    "B-4756",
-    "ark:/13030/tf5c6005tg"
+    "ark:/13030/tf5c6005tg",
+    "B-4756"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Schools",
     "Flagpoles",
@@ -84,9 +81,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "Grammar School, Cedarville, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

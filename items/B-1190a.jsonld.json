@@ -35,9 +35,9 @@
     "@id": "@base:/B-1190a.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -46,12 +46,9 @@
   },
   "schema:description": "Two-story building with two parked automobiles in front. Since this negative was in envelope with negative numbered B-1190 and is similar in content, it was assigned number B-1190a. \"J.H. Eastman\" inscribed on postcard.",
   "schema:identifier": [
-    "B-1190a",
-    "ark:/13030/tf1x0n99b2"
+    "ark:/13030/tf1x0n99b2",
+    "B-1190a"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Cafes",
     "Resorts",
@@ -70,8 +67,8 @@
   "schema:name": "\"Lassen Lodge\" on Red Bluff-Susanville Highway, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

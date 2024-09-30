@@ -21,9 +21,9 @@
     "@id": "@base:/T-2226.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -32,12 +32,9 @@
   },
   "schema:description": "Close-up of two men standing with scripts in hand on opposite sides of microphone extended from a stand. T-2226 to T-2233 inscribed on envelope.",
   "schema:identifier": [
-    "T-2226",
-    "ark:/13030/tf6p3005v8"
+    "ark:/13030/tf6p3005v8",
+    "T-2226"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Men",
     "Radio stations",
@@ -50,8 +47,8 @@
   "schema:name": "Radio Station Dedication",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

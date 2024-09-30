@@ -21,9 +21,9 @@
     "@id": "@base:/D-1879.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Three automobiles inside repair shop.",
@@ -31,9 +31,6 @@
     "ark:/13030/tf3f59n81z",
     "D-1879"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Automobile repair shops",
     "Automobiles"
@@ -44,9 +41,9 @@
   "schema:material": "1 photographic negative : b&w : 8 x 10 in.",
   "schema:name": "Deal + Davie",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

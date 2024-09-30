@@ -32,9 +32,9 @@
     "@id": "@base:/B-6784.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Two-story building with tile roof and two towers and automobile parked on right side and another parked left of entrance.",
   "schema:identifier": [
-    "B-6784",
-    "ark:/13030/tf75800790"
+    "ark:/13030/tf75800790",
+    "B-6784"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Fraternal organizations",
     "Organizations",
@@ -65,8 +62,8 @@
   "schema:name": "Masonic Temple, Yuba City, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

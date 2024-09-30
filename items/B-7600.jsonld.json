@@ -21,9 +21,9 @@
     "@id": "@base:/B-7600.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -32,12 +32,9 @@
   },
   "schema:description": "Two-story building with automobile parked at entrance and many others parked in parking lot in background.",
   "schema:identifier": [
-    "B-7600",
-    "ark:/13030/tf4s2004qr"
+    "ark:/13030/tf4s2004qr",
+    "B-7600"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Educational facilities",
     "Automobiles",
@@ -50,8 +47,8 @@
   "schema:name": "Veterinary Clinic, University of Calif. at Davis",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

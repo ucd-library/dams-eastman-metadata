@@ -26,9 +26,9 @@
     "@id": "@base:/B-7604.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Two-story building with station wagon and other automobiles parked along the curb in front and tree in right foreground.",
   "schema:identifier": [
-    "B-7604",
-    "ark:/13030/tf738nb2rz"
+    "ark:/13030/tf738nb2rz",
+    "B-7604"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Automobiles",
     "Educational facilities",
@@ -56,8 +53,8 @@
   "schema:name": "U.C. School of Veterinary Medicine. Davis, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

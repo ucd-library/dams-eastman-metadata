@@ -32,9 +32,9 @@
     "@id": "@base:/B-2040.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Two men with axes and saw standing next to trunk of large tree. Lower left corner reads \"(C)-1939 THE RED RIVER LUMBER CO.\" Original envelope and negative enclosed in gray envelope. Red F written on top edge of original envelope.",
   "schema:identifier": [
-    "B-2040",
-    "ark:/13030/tf0z09n5rq"
+    "ark:/13030/tf0z09n5rq",
+    "B-2040"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Men",
     "Trees",
@@ -64,8 +61,8 @@
   "schema:name": "The way we grow them here!",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

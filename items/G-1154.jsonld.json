@@ -31,15 +31,17 @@
   "schema:associatedMedia": {
     "@id": "@base:/G-1154.tif"
   },
-  "schema:creator": "Riesen, John D",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:description": "Man resting with dog in field with sheep in background. Lower right corner reads \"Riesen P-HO-T-0.\" Number on negative is 959.",
   "schema:identifier": [
-    "G-1154",
-    "ark:/13030/tf0j49n5ff"
+    "ark:/13030/tf0j49n5ff",
+    "G-1154"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Dogs",
@@ -54,9 +56,9 @@
   "schema:name": "Grazing near-Alturas",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

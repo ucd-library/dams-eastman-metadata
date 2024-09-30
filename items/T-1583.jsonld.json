@@ -26,19 +26,16 @@
     "@id": "@base:/T-1583.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Machine loaded with stack of lumber. Lettering on side reads \"The Red River Lumber Company.\"",
   "schema:identifier": [
-    "T-1583",
-    "ark:/13030/tf987009ds"
+    "ark:/13030/tf987009ds",
+    "T-1583"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Machinery",
     "Lumber industry"
@@ -50,9 +47,9 @@
   "schema:name": "Lumber Carrier",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

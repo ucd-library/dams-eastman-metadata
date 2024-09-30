@@ -38,9 +38,9 @@
     "@id": "@base:/B-1614.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -49,12 +49,9 @@
   },
   "schema:description": "Close-up of two women on top of automobile hood looking up at man ski jumping overhead from snowbank on one side of road to the other. \"Dick Brown jumping over road Lassen Park\" written on Eastman's Studio receipt. Original envelope and negative enclosed in gray envelope. Red F written on top edge of original envelope. Invoice for customer in Mineral, California, and transparency included.",
   "schema:identifier": [
-    "B-1614",
-    "ark:/13030/tf2h4nb037"
+    "ark:/13030/tf2h4nb037",
+    "B-1614"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Ski jumping",
     "Skiing",
@@ -71,9 +68,9 @@
   "schema:material": "2 photographic negatives : b&w : 5 x 7 in.",
   "schema:name": "Up and Over",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

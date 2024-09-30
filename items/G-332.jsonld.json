@@ -26,9 +26,9 @@
     "@id": "@base:/G-332.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is infant in dress sitting in chair with toddler in jumpsuit standing next to chair. Second image is same two children in same pose. Two images (3.5 x 5 in.) side by side. Number on negative is 287.",
@@ -36,9 +36,6 @@
     "ark:/13030/tf087001r9",
     "G-332"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Infants",
     "Children's clothing & dress",
@@ -50,9 +47,9 @@
   "schema:material": "1 glass photonegative : b&w : 5 x 7 in.",
   "schema:name": "[Untitled]",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

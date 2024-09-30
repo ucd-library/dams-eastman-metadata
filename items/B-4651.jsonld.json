@@ -38,9 +38,9 @@
     "@id": "@base:/B-4651.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -49,12 +49,9 @@
   },
   "schema:description": "Multistory building complex with stone chimney, sign reading \"Camp Pioneer Lodge Cabins\" in front, man standing near entrance, and trees in background.",
   "schema:identifier": [
-    "B-4651",
-    "ark:/13030/tf7w1007kq"
+    "ark:/13030/tf7w1007kq",
+    "B-4651"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Signs",
     "Porches",
@@ -73,8 +70,8 @@
   "schema:name": "Camp Pioneer Lodge near Sierra City, California",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

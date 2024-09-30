@@ -21,9 +21,9 @@
     "@id": "@base:/B-191-A.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -32,12 +32,9 @@
   },
   "schema:description": "Close-up of two large trees connected so as to form an H. Lower right corner reads \"J.H. Eastman.\" Red tape on top edge of envelope.",
   "schema:identifier": [
-    "B-191-A",
-    "ark:/13030/tf709nb2st"
+    "ark:/13030/tf709nb2st",
+    "B-191-A"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": "Trees",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
@@ -45,9 +42,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "The - \"H\" Oak - Big Bend, Calif",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

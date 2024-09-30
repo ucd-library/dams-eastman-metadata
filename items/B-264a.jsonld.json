@@ -20,19 +20,21 @@
   "schema:associatedMedia": {
     "@id": "@base:/B-264a.tif"
   },
-  "schema:creator": "Myers & Loomis",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1936"
   },
   "schema:description": "Photograph of a photograph of volcanic eruption. Lower right corner reads \"Myers & Loomis Photo.\" Since this negative was in envelope with negative numbered B-264 and is similar in content, it was assigned number B-264a.",
   "schema:identifier": [
-    "B-264a",
-    "ark:/13030/tf5x0nb379"
+    "ark:/13030/tf5x0nb379",
+    "B-264a"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Volcanoes",
     "Volcanic eruptions"
@@ -43,9 +45,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "The Great Eruption of Lassen Peak - May 22 - 1915. Taken at Anderson, 50 Miles",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ]
 }

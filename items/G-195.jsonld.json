@@ -26,9 +26,9 @@
     "@id": "@base:/G-195.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "First image is infant in dress sitting in fur-covered chair. Second image is upper torso of woman in skirt and blouse. Two images (4.25 x 6.5 in.) side by side. Numbers on negative are 271 and 173.",
@@ -36,9 +36,6 @@
     "ark:/13030/tf696nb2gt",
     "G-195"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Clothing & dress",
     "People",
@@ -52,9 +49,9 @@
   "schema:material": "1 glass photonegative : b&w : 6.5 x 8.5 in.",
   "schema:name": "Mrs. Shivers; Mrs. McAlpine",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

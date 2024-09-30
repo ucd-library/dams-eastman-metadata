@@ -32,9 +32,9 @@
     "@id": "@base:/P-2194.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Two images side by side. Top image is of rodeo arena. Bottom image is of arena with people gathered around fence. 12 of 16 negatives.",
   "schema:identifier": [
-    "P-2194",
-    "ark:/13030/tf7c6007xm"
+    "ark:/13030/tf7c6007xm",
+    "P-2194"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Shadows",
     "Rodeos",
@@ -63,8 +60,8 @@
   "schema:name": "Rodeo Shots",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

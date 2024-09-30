@@ -21,9 +21,9 @@
     "@id": "@base:/B-232-B.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -32,12 +32,9 @@
   },
   "schema:description": "Close-up of lake surrounded by forest with mountains in background. \"J.H. Eastman\" inscribed on postcard.",
   "schema:identifier": [
-    "B-232-B",
-    "ark:/13030/tf8k4007jj"
+    "ark:/13030/tf8k4007jj",
+    "B-232-B"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Mountains",
     "Lakes & ponds",
@@ -50,8 +47,8 @@
   "schema:name": "\"Willow Lake\" near Drakesbad, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

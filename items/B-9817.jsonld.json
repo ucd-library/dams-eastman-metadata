@@ -35,9 +35,9 @@
     "@id": "@base:/B-9817.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -46,12 +46,9 @@
   },
   "schema:description": "People, river, rocks, shrubs, and trees in front of buildings with porches on front and trees in background.",
   "schema:identifier": [
-    "B-9817",
-    "ark:/13030/tf9j49p1tf"
+    "ark:/13030/tf9j49p1tf",
+    "B-9817"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Rivers",
     "Rooms & spaces",
@@ -69,8 +66,8 @@
   "schema:name": "Sierra Shangri-la, Downieville, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

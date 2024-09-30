@@ -38,19 +38,16 @@
     "@id": "@base:/P-0276.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Two-story building with two men, one woman, two parked automobiles and trees in front. 298 and 331 inscribed on envelope.",
   "schema:identifier": [
-    "P-0276",
-    "ark:/13030/tf809nb3m1"
+    "ark:/13030/tf809nb3m1",
+    "P-0276"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Automobiles",
     "People",
@@ -67,9 +64,9 @@
   "schema:name": "Janesville Inn. Near Susanville Cal",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }

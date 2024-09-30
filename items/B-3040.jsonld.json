@@ -33,9 +33,9 @@
   },
   "schema:creator": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
-    },
-    "Eastman, Jervie Henry"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
@@ -43,12 +43,9 @@
   },
   "schema:description": "Close-up of building with man standing at entrance. \"First house in Lassen Co., Built by Isaac N. Roop - 1854 Called Ft. Defiance, used by the 'Never Sweats' [Honey Lakers] in Sage Brush war in 1863.\" written on negative. Red F written on top edge of envelope.",
   "schema:identifier": [
-    "B-3040",
-    "ark:/13030/tf296n99q4"
+    "ark:/13030/tf296n99q4",
+    "B-3040"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "People",
     "Forts & fortifications",
@@ -63,8 +60,8 @@
   "schema:name": "The Old Fort Roop, Susanville, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

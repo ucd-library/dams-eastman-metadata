@@ -21,9 +21,9 @@
     "@id": "@base:/P-1987.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -32,12 +32,9 @@
   },
   "schema:description": "Map of \"Lassen National Forest new ranger district boundaries.\"",
   "schema:identifier": [
-    "P-1987",
-    "ark:/13030/tf4w1006c6"
+    "ark:/13030/tf4w1006c6",
+    "P-1987"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": "Maps",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
@@ -46,8 +43,8 @@
   "schema:name": "U.S. Forest Service Map of Lassen Forest",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

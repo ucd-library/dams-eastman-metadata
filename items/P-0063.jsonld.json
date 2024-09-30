@@ -26,19 +26,16 @@
     "@id": "@base:/P-0063.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:description": "Road with forest on either side and damaged sign on left reading in part \"....Garage....-Service....-Day.\" Lower right corner reads \"J.H. Eastman Photo.\" #42 inscribed on negative and on envelope.",
   "schema:identifier": [
-    "P-0063",
-    "ark:/13030/tf4g50050d"
+    "ark:/13030/tf4g50050d",
+    "P-0063"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Signs",
     "Roads",
@@ -50,9 +47,9 @@
   "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:name": "\"Lassen Volcanic Nat'l Highway\" -Near- Westwood, California",
   "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
   "schema:temporal": "Undated"

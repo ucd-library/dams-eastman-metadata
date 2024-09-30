@@ -26,9 +26,9 @@
     "@id": "@base:/B-609.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -37,12 +37,9 @@
   },
   "schema:description": "Shell service station mostly obscured by snowdrifts with \"CHILDS MEADOWS\" painted on front and automobile parked in right foreground. \"J.H. Eastman\" inscribed on postcard.",
   "schema:identifier": [
-    "B-609",
-    "ark:/13030/tf6g500611"
+    "ark:/13030/tf6g500611",
+    "B-609"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Automobile service stations",
     "Automobiles",
@@ -55,8 +52,8 @@
   "schema:name": "Child's Meadows, Calif",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

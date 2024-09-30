@@ -32,9 +32,9 @@
     "@id": "@base:/B-839a.tif"
   },
   "schema:creator": [
-    "Eastman, Jervie Henry",
     {
-      "@id": "http://id.loc.gov/authorities/names/no2014099630"
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
     }
   ],
   "schema:datePublished": {
@@ -43,12 +43,9 @@
   },
   "schema:description": "Rugged landscape with large tree partially visible in right foreground and snowcapped mountain in background. Since this negative was in envelope with negative numbered B-839 and is similar in content, it was assigned number B-839a.",
   "schema:identifier": [
-    "B-839a",
-    "ark:/13030/tf4c6004k2"
+    "ark:/13030/tf4c6004k2",
+    "B-839a"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Trees",
     "National parks & reserves",
@@ -65,8 +62,8 @@
   "schema:name": "Mt. Lassen from Raker Peak, Calif., Showing Damage Done by 1915 Eruption",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ]
 }

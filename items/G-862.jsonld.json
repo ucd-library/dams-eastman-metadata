@@ -25,15 +25,17 @@
   "schema:associatedMedia": {
     "@id": "@base:/G-862.tif"
   },
-  "schema:creator": "Riesen, John D",
+  "schema:creator": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2014099630",
+      "schema:name": "Eastman, Jervie Henry"
+    }
+  ],
   "schema:description": "Boy standing next to base of large tree. Lower right corner reads \" Riesen-Photo. Alturas-Cal.\"",
   "schema:identifier": [
     "ark:/13030/tf2h4nb04r",
     "G-862"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/tf6w100646/"
-  },
   "schema:keywords": [
     "Children's clothing & dress",
     "Trees",
@@ -46,9 +48,9 @@
   "schema:name": "Big-Tree-In-Modoc-Co.-Cal.=High-Grade-Dist.=",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+    }
   ],
   "schema:temporal": "Undated"
 }
