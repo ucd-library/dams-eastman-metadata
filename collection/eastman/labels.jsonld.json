@@ -12,6 +12,7 @@
   { 
     "@id": "http://id.loc.gov/authorities/names/no2014099630",
       "http://schema.org/name": "Eastman, Jervie Henry"
+  },
   {
     "@id": "http://id.worldcat.org/fast/0775742",
     "http://schema.org/name": "Tule Lake Relocation Center"
