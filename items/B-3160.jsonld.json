@@ -14,6 +14,21 @@
     "schema:Photograph",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
+  "schema:name": "At Davis, Calif., 1945",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1098511"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1095907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/823232"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/842142"
+    }
+  ],
   "schema:associatedMedia": {
     "@id": "@base:/B-3160.tif"
   },
@@ -27,14 +42,19 @@
     "ark:/13030/tf4c6004gh",
     "B-3160"
   ],
+  "schema:description": "Roads and trees in foreground with automobiles, bus, gasoline pumps and coffee shop in middle ground. Caption on envelope reads 'At the Davis \"Y\" Davis, Calif.'",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
+  "schema:material": "1 photographic negative : b&w : 5 x 7 in.",
   "schema:publisher": [
     {
       "@id": "http://id.loc.gov/authorities/names/no2008108707",
       "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
     }
   ],
-  "schema:temporal": "Undated"
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2026-10-05"
+  }
 }
