@@ -11,7 +11,8 @@
   "@id": "",
   "@type": [
     "schema:CreativeWork",
-    "schema:Photograph"
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:name": "At Davis, Calif., 1945",
   "schema:about": [
