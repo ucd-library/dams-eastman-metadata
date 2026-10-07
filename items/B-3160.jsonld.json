@@ -11,8 +11,7 @@
   "@id": "",
   "@type": [
     "schema:CreativeWork",
-    "schema:Photograph",
-    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+    "schema:Photograph"
   ],
   "schema:name": "At Davis, Calif., 1945",
   "schema:about": [
@@ -30,7 +29,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/B-3160.tif"
+ "@id": "https://digital.ucdavis.edu/fcrepo/rest/item/ark:/13030/tf4c6004gh/B-3160.tif"
   },
   "schema:creator": [
     {
@@ -54,7 +53,7 @@
     }
   ],
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#date",
-    "@value": "2026-10-05"
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1945"
   }
 }
